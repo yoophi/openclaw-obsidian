@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "MarkDeck Development History - 2026-03-14 01-32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "MarkDeck Development History - 2026-03-14 01-32"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "870cb646511cbb7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "research/frontend/react-native-동향.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "react-native-동향"
             }
           }
         ]
@@ -201,6 +205,37 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
-    "Welcome.md"
+    "research/agents/pi-coding-agent-심화가이드.md",
+    "research/productivity/electron-e2e-테스트.md",
+    "research/productivity/agentic-coding-bdd-커뮤니케이션.md",
+    "2026-03-14.md",
+    "research/README.md",
+    "research/productivity/obsidian-claude-code-생산성.md",
+    "research/openclaw/telegram-topic-연동.md",
+    "research/openclaw/plugin-개발.md",
+    "research/openclaw/coding-agent-워크플로우.md",
+    "research/openclaw/agent-활동-시각화.md",
+    "research/game-dev/인게임-맵-에디터.md",
+    "research/game-dev/ai-agent-게임-시각화.md",
+    "research/frontend/react-native-동향.md",
+    "research/agents/tycono-분석.md",
+    "research/agents/pi-coding-agent-가이드.md",
+    "Welcome.md",
+    "MarkDeck Development History - 2026-03-14 01-32.md",
+    "research/20260312-openclaw-plugin-development.md",
+    "research/game-dev",
+    "research/frontend",
+    "research/productivity",
+    "research/agents",
+    "research/openclaw",
+    "research/20260312-openclaw-agent-visualization.md",
+    "research/20260312-obsidian-claude-code-productivity.md",
+    "research/20260312-ingame-map-editor.md",
+    "research/20260312-ai-agent-game-visualization.md",
+    "research/20260313-tycono-analysis.md",
+    "research/20260313-pi-coding-agent-guide.md",
+    "research/20260313-openclaw-coding-agent-workflow.md",
+    "research/20260312-telegram-topic-openclaw-setup.md",
+    "research"
   ]
 }
