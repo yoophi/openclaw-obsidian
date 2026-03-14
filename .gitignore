@@ -1,3 +1,6 @@
-
 .git-sync.launchd.out.log
 .git-sync.launchd.err.log
+node_modules/
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
