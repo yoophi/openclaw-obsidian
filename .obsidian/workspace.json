@@ -205,6 +205,8 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "README.md",
+    "git-sync",
     "research/agents/pi-coding-agent-심화가이드.md",
     "research/productivity/electron-e2e-테스트.md",
     "research/productivity/agentic-coding-bdd-커뮤니케이션.md",
@@ -235,7 +237,6 @@
     "research/20260313-tycono-analysis.md",
     "research/20260313-pi-coding-agent-guide.md",
     "research/20260313-openclaw-coding-agent-workflow.md",
-    "research/20260312-telegram-topic-openclaw-setup.md",
     "research"
   ]
 }
