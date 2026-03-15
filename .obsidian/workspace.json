@@ -205,6 +205,7 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "research/openclaw/계층적-coding-agent-구성.md",
     "research/openclaw/코딩-작업-agent-구성-전략.md",
     "research/openclaw/telegram-agent-그룹설정.md",
     "research/openclaw/openclaw-multi-agent-아키텍처.md",
@@ -242,7 +243,6 @@
     "node_modules/gray-matter/node_modules/argparse/README.md",
     "node_modules/gray-matter/node_modules/argparse/CHANGELOG.md",
     "node_modules/@myriaddreamin/typst-ts-node-compiler-darwin-arm64/README.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
