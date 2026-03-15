@@ -205,6 +205,7 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "research/openclaw/플러그인-개발-가이드.md",
     "OpenClaw/2026-03-15-agent-message-relay-between-agents.md",
     "research/openclaw/agent-간-메시지-공유-방법.md",
     "OpenClaw/Telegram bot-to-bot relay.md",
@@ -242,7 +243,6 @@
     "content/research/agents/tycono-분석.md",
     "content/research/agents/pi-coding-agent-심화가이드.md",
     "content/research/agents/pi-coding-agent-가이드.md",
-    "content/Welcome.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
