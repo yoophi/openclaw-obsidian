@@ -205,6 +205,7 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "research/openclaw/hermes-vs-openclaw-비교.md",
     "research/productivity/aws-iot-mqtt-채팅서비스-기술스택.md",
     "research/openclaw/플러그인-개발-가이드.md",
     "OpenClaw/2026-03-15-agent-message-relay-between-agents.md",
@@ -242,7 +243,6 @@
     "content/research/game-dev/ai-agent-게임-시각화.md",
     "content/research/frontend/react-native-동향.md",
     "content/research/agents/tycono-분석.md",
-    "content/research/agents/pi-coding-agent-심화가이드.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
