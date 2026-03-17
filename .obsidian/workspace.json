@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ai native engeer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "870cb646511cbb7c",
+  "active": "94455cff24fa6adc",
   "lastOpenFiles": [
     "research/openclaw/NVIDIA-NemoClaw-OpenClaw-전략.md",
     "research/agents/Paperclip-AI-오케스트레이션-툴.md",
