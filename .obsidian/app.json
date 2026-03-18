@@ -1,3 +1,9 @@
 {
+<<<<<<< Updated upstream
   "userIgnoreFilters": null
+=======
+  "userIgnoreFilters": [
+    "quartz/"
+  ]
+>>>>>>> Stashed changes
 }
