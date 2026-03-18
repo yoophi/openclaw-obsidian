@@ -205,6 +205,7 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "research/agents/Paperclip-AI-오케스트레이션-툴.md",
     "research/agents/GSD-AI-코딩-프레임워크.md",
     "research/productivity/paperclip-기술스택-분석.md",
     "research/productivity/ai-native-engineer-전환-로드맵.md",
@@ -242,7 +243,6 @@
     "content/research/productivity/agentic-coding-bdd-커뮤니케이션.md",
     "content/research/openclaw/telegram-topic-연동.md",
     "content/research/openclaw/plugin-개발.md",
-    "content/research/openclaw/coding-agent-워크플로우.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
