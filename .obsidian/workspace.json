@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "MarkDeck Development History - 2026-03-14 01-32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "03480a1b771535b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "MarkDeck Development History - 2026-03-14 01-32"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "57a96494b9671c17",
@@ -46,10 +31,14 @@
             "id": "870cb646511cbb7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "research/frontend/react-native-동향.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "react-native-동향"
             }
           }
         ]
@@ -84,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai native engeer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,8 +203,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "94455cff24fa6adc",
+  "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력.md",
     "research/openclaw/NVIDIA-NemoClaw-OpenClaw-전략.md",
     "research/agents/Paperclip-AI-오케스트레이션-툴.md",
     "research/agents/GSD-AI-코딩-프레임워크.md",
@@ -227,34 +216,17 @@
     "research/openclaw/hermes-vs-openclaw-비교.md",
     "research/productivity/aws-iot-mqtt-채팅서비스-기술스택.md",
     "research/openclaw/플러그인-개발-가이드.md",
-    "research/openclaw/agent-간-메시지-공유-방법.md",
-    "research/frontend/spec-driven-development-프론트엔드.md",
-    "OpenClaw/Telegram bot-to-bot relay.md",
     "OpenClaw/2026-03-15-agent-message-relay-between-agents.md",
+    "research/openclaw/agent-간-메시지-공유-방법.md",
+    "OpenClaw/Telegram bot-to-bot relay.md",
     "OpenClaw",
-    "OpenClaw Agents 조사.md",
     "OpenClaw - Agent 간 메시지 공유 정리.md",
-    "git-sync.sh",
-    "tsconfig.json",
-    "scripts/prepare-quartz-content.sh",
-    "scripts",
-    "research/productivity/obsidian-claude-code-생산성.md",
-    "research/productivity/electron-e2e-테스트.md",
-    "research/productivity/agentic-coding-bdd-커뮤니케이션.md",
-    "research/game-dev/인게임-맵-에디터.md",
-    "research/game-dev/ai-agent-게임-시각화.md",
-    "research/openclaw/코딩-작업-agent-구성-전략.md",
+    "OpenClaw Agents 조사.md",
+    "research/frontend/spec-driven-development-프론트엔드.md",
     "research/openclaw/계층적-coding-agent-구성.md",
-    "research/openclaw/telegram-topic-연동.md",
+    "research/openclaw/코딩-작업-agent-구성-전략.md",
     "research/openclaw/telegram-agent-그룹설정.md",
-    "research/openclaw/plugin-개발.md",
     "research/openclaw/openclaw-multi-agent-아키텍처.md",
-    "research/openclaw/coding-agent-워크플로우.md",
-    "research/openclaw/agent-활동-시각화.md",
-    "research/frontend/react-native-동향.md",
-    "research/agents/tycono-분석.md",
-    "research/agents/pi-coding-agent-심화가이드.md",
-    "research/agents/pi-coding-agent-가이드.md",
     "research/agents/open-code-2026-워크플로우.md",
     "public/tags/index.html",
     "public/tags/obsidian.html",
@@ -271,16 +243,10 @@
     "content/research/productivity/obsidian-claude-code-생산성.md",
     "content/research/productivity/electron-e2e-테스트.md",
     "content/research/productivity/agentic-coding-bdd-커뮤니케이션.md",
-    "content/research/openclaw/telegram-topic-연동.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
     "node_modules/gifuct-js/demo/dog.gif",
-    "research/productivity",
-    "research/openclaw",
-    "research/game-dev",
-    "research/frontend",
-    "research/agents",
     "quartz/static/og-image.png",
     "quartz/static/icon.png"
   ]
