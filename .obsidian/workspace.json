@@ -205,6 +205,8 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "OpenClaw/현재 세션에서 다른 agent spawn 하는 방법 - 실전 예제.md",
+    "OpenClaw/현재 세션에서 다른 agent spawn 하는 방법.md",
     "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력.md",
     "research/openclaw/NVIDIA-NemoClaw-OpenClaw-전략.md",
     "research/agents/Paperclip-AI-오케스트레이션-툴.md",
@@ -241,8 +243,6 @@
     "public/static/icon.png",
     "content/index.md",
     "content/research/productivity/obsidian-claude-code-생산성.md",
-    "content/research/productivity/electron-e2e-테스트.md",
-    "content/research/productivity/agentic-coding-bdd-커뮤니케이션.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
