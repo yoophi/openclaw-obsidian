@@ -1,26 +1,62 @@
 ---
 title: "OpenClaw Memory Deep Dive: QMD vs Core"
 source: "https://www.youtube.com/watch?v=4QH0vHr-vFU"
+original_url: "https://www.youtube.com/watch?v=4QH0vHr-vFU"
 youtube_id: "4QH0vHr-vFU"
-playlist: "모두 재생"
+playlist: "📙 openclaw"
 channel: "Openclaw Labs"
 duration: "7:35"
+publish_date: "2026-03-22T15:30:01-07:00"
 playlist_index: 1
 generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 17:41:21 +0900"
+generated_at: "2026-03-23 17:43:33 +0900"
 ---
 
-    # OpenClaw Memory Deep Dive: QMD vs Core
+# OpenClaw Memory Deep Dive: QMD vs Core
 
-    - Playlist: 모두 재생
-    - Index: 1
-    - Channel: Openclaw Labs
-    - Duration: 7:35
-    - URL: https://www.youtube.com/watch?v=4QH0vHr-vFU
+## Video Info
 
-    ## Summary
+- Original URL: https://www.youtube.com/watch?v=4QH0vHr-vFU
+- Channel: Openclaw Labs
+- Title: OpenClaw Memory Deep Dive: QMD vs Core
+- Published: 2026-03-22T15:30:01-07:00
+- Duration: 7:35
+- Playlist: 📙 openclaw
+- Playlist Index: 1
 
-    ## OpenClaw memory: what actually lives where and when to use QMD vs Memory Core
+## Description
+
+🧠 Want the full memory guide + community support?
+Join the Skool community here → https://www.skool.com/openclawlabs
+
+Most people think Openclaw memory is a database — it's not. It's Markdown files. And once you understand that, everything changes.
+In this video, I break down exactly how Openclaw memory works under the hood: what it actually stores, the difference between memory-core (the default) and QMD (the advanced local-first search engine), and the #1 setup mistake that silently kills your agent's ability to remember anything — your embedding provider.
+
+If your agent keeps forgetting context, losing leads, or giving you stale answers, this video is why.
+
+What you'll learn:
+✅ The real structure of Openclaw memory (MEMORY.md + daily notes)
+✅ Memory-core vs QMD — which one you actually need
+✅ How to enable QMD step-by-step
+✅ QMD vs Mem0 — when to use each
+✅ Why Anthropic users MUST configure a separate embedding provider
+✅ How to verify your memory system is actually working
+
+Chapters:
+0:00 - Why most people have Openclaw memory wrong
+0:25 - What Openclaw memory actually is (Markdown files)
+1:05 - Memory-core: the default retrieval system
+2:25 - QMD: advanced local-first search
+3:25 - How to set up QMD step-by-step
+4:40 - QMD vs Mem0: which one to choose
+5:45 - Embedding providers (the hidden requirement)
+6:55 - How to verify your setup
+
+#Openclaw #AIAgents #AIAutomation #OpenclawMemory #AIWorkflow
+
+## Summary
+
+## OpenClaw memory: what actually lives where and when to use QMD vs Memory Core
 
 *Most people think OpenClaw has one memory system. It doesn't.* The video’s core point: your agent’s memories are plain markdown files (a long-term memory markdown plus a dated memory folder) and retrieval is a separate layer that decides how the agent finds those notes. *Open cloud memory is plain markdown files sitting in your agent workspace and that's it.* That means changing retrieval doesn’t move or rewrite your notes—only how the system searches them.
 
