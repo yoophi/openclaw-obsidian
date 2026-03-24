@@ -1,40 +1,27 @@
 ---
-title: "NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community"
-source: "https://www.youtube.com/watch?v=kRmZ5zmMS2o"
-original_url: "https://www.youtube.com/watch?v=kRmZ5zmMS2o"
 youtube_id: "kRmZ5zmMS2o"
-playlist: "📙 openclaw"
+title: "NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community"
 channel: "Chris Messina"
-duration: "18:59"
 publish_date: "2026-03-16T18:19:59-07:00"
-playlist_index: 14
-generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 17:51:24 +0900"
+original_url: "https://www.youtube.com/watch?v=kRmZ5zmMS2o"
+thumbnail: "https://i.ytimg.com/vi/kRmZ5zmMS2o/maxresdefault.jpg"
+playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF8Ql9OBo"
+tags:
+  - youtube-summary
+  - openclaw
 ---
 
 # NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community
 
-## Video Info
+## 영상 정보
+- 채널: Chris Messina
+- 게시일: 2026-03-16T18:19:59-07:00
+- 원본 URL: https://www.youtube.com/watch?v=kRmZ5zmMS2o
+- 썸네일: https://i.ytimg.com/vi/kRmZ5zmMS2o/maxresdefault.jpg
 
-- Original URL: https://www.youtube.com/watch?v=kRmZ5zmMS2o
-- Channel: Chris Messina
-- Title: NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community
-- Published: 2026-03-16T18:19:59-07:00
-- Duration: 18:59
-- Playlist: 📙 openclaw
-- Playlist Index: 14
-
-## Description
-
-NVIDIA today announced NemoClaw, an open source stack that simplifies running OpenClaw always-on assistants—with a single command. It incorporates policy-based privacy and security guardrails, giving you control over your agents’ behavior and data handling. This enables self-evolving claws to run more safely in the cloud, on prem, on NVIDIA RTX PCs, and on NVIDIA DGX Spark.
-
+## 한글 요약
 ## Summary
 
-## What this clip covers
-Jensen Huang announces NemoClaw: an NVIDIA reference stack that makes the OpenClaw agent framework enterprise-ready by adding security, policy controls, and an optimized deployment design. The talk frames OpenClaw as an open-source operating system for agentic assistants that coordinates models, tools, file systems, scheduling and multi-modal I/O so agents can decompose tasks, run experiments and act autonomously. *"Open Claw is the number one. It's the most popular opensource project in the history of humanity."*
+Speaker announces NemoClaw, an NVIDIA-backed reference stack that hardens OpenClaw for enterprise use and frames OpenClaw as a new, open “operating system” for agentic assistants. The talk claims OpenClaw exploded in adoption—“*Open Claw is the number one. It's the most popular opensource project in the history of humanity.*”—and describes OpenClaw’s core capabilities: connecting to large language models, accessing tools and files, scheduling/cron jobs, decomposing prompts into steps, spawning sub-agents, and multi‑modal I/O (text, voice, even gestures).
 
-## Key details and implications
-NemoClaw integrates a policy engine, guardrails and a privacy router so agents that can access sensitive data, execute code and communicate externally are constrained for corporate use; the presenter stresses that those three capabilities create obvious enterprise risks and require those controls. The stack also incorporates an agent toolkit called Open Shell and is sold as a reference design developers can download and adapt. The speaker argues every software company must define an “open claw strategy” to prepare for agentic systems and greater automation in enterprise IT, saying *"every single company in the world today needs to have an open claw strategy."*
-
-## Models, partnerships and practical outcomes
-The announcement ties NemoClaw to a broad open-model initiative: multiple families of foundation models are listed (language, vision, robotics, biology, climate, autonomous vehicles) with an explicit commitment to continue improving and to provide base models for domain fine-tuning and sovereign deployments. A coalition of AI tool and platform partners is presented as collaborators on model development and integration; the message is that this open, extensible stack accelerates building domain-specific agents and managed “agentic” services for enterprises. The speaker predicts large economic shifts inside IT—platforms becoming agentic service providers, and tokenized usage models for developer productivity—but the segment stays at the product-and-strategy level rather than deep technical benchmarks.
+The speaker warns agentic systems can access sensitive data, execute code, and communicate externally, so NemoClaw integrates enterprise controls: an Open Shell component, a policy/guardrail engine, and a privacy router to enforce company rules. They also position a large open-model ecosystem (claiming nearly 3 million open models) and multiple model families—Neotron (language), Cosmos (physical/world), Alpayo (autonomous vehicles), Bioneo (biology), Earth 2 (physics/climate), etc.—with ongoing upgrades planned, and describe a growing coalition of partners to embed these stacks into enterprise workflows. The repeated corporate prompt: *what's your open claw strategy* encapsulates the claim that every software company must plan for agentic systems and domain‑specific models.

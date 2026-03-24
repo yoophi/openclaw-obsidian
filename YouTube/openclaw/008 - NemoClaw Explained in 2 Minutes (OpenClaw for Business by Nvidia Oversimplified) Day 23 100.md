@@ -1,38 +1,26 @@
 ---
-title: "NemoClaw Explained in 2 Minutes  (OpenClaw for Business by Nvidia Oversimplified) | Day 23/100"
-source: "https://www.youtube.com/watch?v=z8BPjB26-p4"
-original_url: "https://www.youtube.com/watch?v=z8BPjB26-p4"
 youtube_id: "z8BPjB26-p4"
-playlist: "📙 openclaw"
+title: "NemoClaw Explained in 2 Minutes  (OpenClaw for Business by Nvidia Oversimplified) | Day 23/100"
 channel: "OpenClaw Dev"
-duration: "2:27"
 publish_date: "2026-03-17T14:57:31-07:00"
-playlist_index: 8
-generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 17:47:08 +0900"
+original_url: "https://www.youtube.com/watch?v=z8BPjB26-p4"
+thumbnail: "https://i.ytimg.com/vi/z8BPjB26-p4/maxresdefault.jpg"
+playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF8Ql9OBo"
+tags:
+  - youtube-summary
+  - openclaw
 ---
 
 # NemoClaw Explained in 2 Minutes  (OpenClaw for Business by Nvidia Oversimplified) | Day 23/100
 
-## Video Info
+## 영상 정보
+- 채널: OpenClaw Dev
+- 게시일: 2026-03-17T14:57:31-07:00
+- 원본 URL: https://www.youtube.com/watch?v=z8BPjB26-p4
+- 썸네일: https://i.ytimg.com/vi/z8BPjB26-p4/maxresdefault.jpg
 
-- Original URL: https://www.youtube.com/watch?v=z8BPjB26-p4
-- Channel: OpenClaw Dev
-- Title: NemoClaw Explained in 2 Minutes  (OpenClaw for Business by Nvidia Oversimplified) | Day 23/100
-- Published: 2026-03-17T14:57:31-07:00
-- Duration: 2:27
-- Playlist: 📙 openclaw
-- Playlist Index: 8
+## 한글 요약
+## NemoClaw in 2 minutes
+This short clip demos NemoClaw, a containerized OpenClaw distribution aimed at corporate use. The presenter says *It is free. It is open source and it is called Nemo Claw.* Setup requires Docker, then installing NemoClaw, starting a named sandbox container (nimlclaw) and running OpenClaw inside that container; *Nemo Claw does not work without Docker.*
 
-## Description
-
-In this video, we explore NemoClaw. NemoClaw is containerized OpenClaw designed for corporations. Install it here: https://docs.nvidia.com/nemoclaw/latest/get-started/quickstart.html
-curl -fsSL https://nvidia.com/nemoclaw.sh | bash
-
-## Summary
-
-## NemoClaw explained in ~2 minutes
-
-The video presents NemoClaw as a free, open-source, containerized version of OpenClaw aimed at business deployments. Setup is straightforward: run the container runtime, install NemoClaw, start a named sandbox, then run OpenClaw inside that container; the host sandbox isolates files and permissions so each deployment only accesses its own data. *Nemo Claw is a containerized OpenClaw.* *You could deploy another one and you can put files in that one and it only can touch those files.*
-
-Key practical points: NemoClaw requires a container runtime and exposes the same onboarding and OpenClaw workflows inside the container; administrators can copy containers between servers, giving portability and isolated permission boundaries that IT teams manage. The presenter highlights portability (move from server to server), security-minded sandboxing, and speculates that widespread portable agents could enable increasingly autonomous behavior as agents learn to migrate and persist across hosts.
+The video emphasizes isolation and permission controls: each sandbox only accesses its own files and can be moved between servers, which makes deployment portable and IT-manageable. The presenter adds that this portability could let agents migrate across servers and speculates it brings us closer to autonomous, potentially sentient AI.
