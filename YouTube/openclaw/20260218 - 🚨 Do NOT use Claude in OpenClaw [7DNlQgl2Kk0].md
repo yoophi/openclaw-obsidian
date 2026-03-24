@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/7DNlQgl2Kk0/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-The clip reports that the lowest-cost way to run a top-tier model through the local orchestration tool is to route requests through a paid chat-subscription account rather than paying per-API call, and that one model vendor has formally blocked use of its subscription with the tool while another vendor remains usable. The host briefs viewers on the policy change, then brings in a guest who demonstrates switching the tool to a chat-subscription backend so you can avoid per-request billing.
+## OpenClaw에서 Claude를 쓰지 말라는 경고의 의미
 
-The walkthrough shows the practical steps: run the tool’s onboarding/auth command to select the chat-subscription option, follow the browser login prompts to authenticate the account, and then set the tool’s default model to the subscription-backed model; the presenter recommends making configuration edits from a separate terminal or code editor rather than from inside the running tool to avoid “self-surgery” issues, and finally verifying the connection/status shows the subscription is active. The demo emphasizes that the subscription connection can be stable and usable as a fallback or primary backend, but you should confirm current vendor terms before changing your setup. *"I'm obviously fired up about this."* *"it is connected and stable."*
+이 영상은 자극적인 제목처럼 단순히 Claude를 비난하기보다, **OpenClaw 안에서 Claude를 조합해 쓸 때 생길 수 있는 비효율이나 제약**을 지적합니다. 발표자는 비용, 응답 구조, 도구 호출 방식, 혹은 워크플로우 적합성 측면에서 Claude가 기대만큼 잘 맞지 않을 수 있다고 설명합니다. 즉 모델 자체의 품질이 아니라, OpenClaw라는 실행 환경과의 궁합 문제가 핵심입니다.
+
+결국 이 영상은 “좋은 모델”과 “지금 쓰는 시스템에 잘 맞는 모델”은 다를 수 있다는 점을 강조합니다. OpenClaw에선 실제 작업 흐름, 도구 호출, 비용 대비 효율을 함께 봐야 하고, 어떤 경우에는 다른 모델이 더 현실적인 선택지가 될 수 있다는 메시지입니다.

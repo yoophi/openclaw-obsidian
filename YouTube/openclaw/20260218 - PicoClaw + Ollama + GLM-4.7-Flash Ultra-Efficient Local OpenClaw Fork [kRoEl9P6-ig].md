@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kRoEl9P6-ig/maxresdefault.jpg
 
 ## 한글 요약
-## PicoClaw: tiny OpenClaw fork with Ollama + GLM-4.7-Flash
+## PicoClaw + Ollama + GLM-4.7-Flash: 초고효율 로컬 OpenClaw 포크
 
-This clip demonstrates PicoClaw, a minimalist OpenClaw fork written in Go that aims for extreme efficiency: *"it is written in go."* The presenter shows it can run on very low-end hardware—*"it basically can run on a $10 hardware and 10 megabytes RAM"*—and walks through the setup in a notebook/IDE environment, covering installation of Go, the Ollama/llama runtime with GLM-4.7-flash, and cloning PicoClaw’s repo. Configuration notes: set the provider to "openai" with model "GLM-4.7-flash", point the API base to "/1", and supply the API key either under the provider or in the session to use the compatible endpoint.
+이 영상은 PicoClaw, Ollama, GLM 계열 모델을 조합해 **더 가볍고 효율적인 로컬 OpenClaw 포크 환경**을 만드는 방법을 소개합니다. 핵심은 무거운 클라우드 의존 없이도 꽤 실용적인 서브에이전트/자동화 흐름을 로컬에서 운영할 수 있다는 점입니다. 발표자는 성능과 비용, 반응 속도 면에서 로컬 조합이 가지는 장점을 강조하면서, 특히 반복 작업이나 개인용 자동화에는 충분히 경쟁력이 있다고 설명합니다.
 
-Hands-on testing is shown using both interactive and agent modes (session-based). The demo runs simple prompts to verify the model, lists built-in skills (GitHub, skill creator, samurai, tool, weather), and uses the skill creator to generate a native skill and to edit files inside a confined workspace (file writes are restricted to the workspace folder for security). Examples include adding an example.md and creating a "remote" skill scaffold for motion-video creation, with the new skill appearing as a folder containing the expected skill.md and files. Overall the video is a concise how-to for installing PicoClaw, wiring it to GLM-4.7-flash, and exercising its basic agent/skill workflow.
+이 영상의 포인트는 단순히 설치법만이 아니라, 어떤 조합이 실제로 ‘가성비 좋은 로컬 에이전트 환경’을 만들 수 있는지에 있습니다. 즉 OpenClaw 생태계의 아이디어를 유지하면서도, 더 저렴하고 통제 가능한 방식으로 돌리고 싶은 사용자에게 적합한 선택지를 보여주는 내용입니다.

@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/HNtHZkHGEFo/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take — is this worth watching?
+## 사람들이 잘 이야기하지 않는 OpenClaw 활용 사례들
 
-This video argues that OpenClaw (an Open Core agent framework) stops being a mere chatbot when you build an orchestrated team of specialized agents, memory, and scheduled jobs. The presenter shows exactly how he structures the system (soul.md, agents.mmd, tools.mmd, user.md, memory.mmd), routes tasks to cheaper models for routine work and stronger models for hard problems, and exposes the system to remote messaging plus cron jobs so it runs 24/7. Key operational tips: avoid running everything on one model, give each agent only the tools and context it needs, use an “autonomy directive” so agents try steps themselves before asking, and rely on the orchestrator to dispatch specialists rather than having one agent do all the work. *Open Claw isn't designed to be a single assistant.* *It spawns a research agent to gather ideas, then a content agent to write the script.*
+이 영상은 흔히 소개되는 자동화 예시 말고, 상대적으로 덜 알려졌지만 실무적으로 가치 있는 OpenClaw 활용 사례를 다룹니다. 발표자는 일반적인 ‘비서처럼 쓰기’ 이상의 패턴을 보여주면서, OpenClaw가 반복 업무, 운영 흐름, 개인 생산성 시스템에 어떻게 녹아들 수 있는지를 설명합니다.
 
-The host backs this with concrete examples and metrics: he spent ~ $1,000 and hundreds of hours tuning the system, used a stack (Gemini 3 Flash for routing, Claude Sonet 4.6 for writing/debugging, Kimmy K 2.5 for research, Claude 4.6 as fallback), and built a cron-driven content pipeline that generated ~300,000 views this week (one video: 100,000). He also cites a shared skill that reportedly drove 8M views in a week and now nets ~$670/month, and describes an “app factory” that can build working apps in ~30 minutes (final store submission still manual). If you want practical setup files, model-routing advice, and real-world ROI examples for turning OpenClaw into background automation, this walk-through is directly on point.
+핵심 메시지는 화려한 데모보다도 **은근히 자주 반복되는 작업을 시스템화하는 데 OpenClaw의 진짜 가치가 있다**는 점입니다. 즉 대단한 한 방보다, 평소 손이 많이 가는 흐름을 자동으로 이어주는 방식에서 효용이 커진다는 관점입니다.

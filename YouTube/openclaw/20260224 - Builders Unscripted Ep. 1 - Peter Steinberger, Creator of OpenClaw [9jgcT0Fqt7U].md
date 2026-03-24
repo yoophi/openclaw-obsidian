@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/9jgcT0Fqt7U/maxresdefault.jpg
 
 ## 한글 요약
-## Builders Unscripted — Peter Steinberger on OpenClaw
+## Builders Unscripted: OpenClaw 창시자 인터뷰
 
-Peter Steinberger describes OpenClaw as a personal, open-source AI agent that grew from a one‑person playground into a worldwide phenomenon—thousands of users, a ClawCon meetup and active Discord communities—because it made everyday tasks noticeably easier. He built it by iterating with existing models and agentic tooling: combining a large Markdown spec, Gemini Studio and Claude/Codex to generate and run code, then letting the agent use local tools (FFmpeg, Playwright) and his own API key to solve problems end-to-end; one demo had the agent detect an Opus audio file, convert it, transcribe it and reply autonomously. Peter emphasizes the visceral moment it clicked for him—*“now I can build anything”*—and the real‑world validation (heavy personal use in Marrakesh, hundreds of instant Discord requests) that drove public release.
+이 영상은 OpenClaw 창시자 Peter Steinberger를 다루는 인터뷰 형식의 콘텐츠로, 제품 기능만이 아니라 OpenClaw를 만들게 된 배경과 철학, 앞으로의 방향을 엿볼 수 있는 내용입니다. 발표자는 단순 기능 데모가 아니라, 왜 이런 시스템이 필요했는지, 어떤 문제를 풀고 싶었는지, 그리고 커뮤니티와 생태계가 어떻게 확장되는지를 이야기합니다.
 
-He explains how this changes engineering: agents are now reliable collaborators when guided correctly, so his workflow prioritizes conversation with models, asking them questions first and treating many pull requests as “prompt requests” about intent rather than code. That scale produced both productivity (huge GitHub activity driven by Codex) and governance challenges—prompt injection risks, misconfigured public deployments and thousands of PRs—so he’s added sandboxing and a security lead while keeping OpenClaw hackable and installable for nonexperts. His practical advice: learn by playing, focus on intent and system context when prompting, and accept that modern tooling favors builders who can use agents effectively; the moment he stopped rewriting everything himself was a turning point summed up by the model’s boast, *“I'm 100% production ready.”*
+이런 인터뷰형 영상의 가치는 실전 팁보다도, **도구 뒤에 있는 설계 철학과 문제의식**을 이해하게 해 준다는 데 있습니다. OpenClaw를 단순 유행 도구로 볼지, 장기적인 플랫폼으로 볼지 판단하는 데 도움이 되는 내용입니다.

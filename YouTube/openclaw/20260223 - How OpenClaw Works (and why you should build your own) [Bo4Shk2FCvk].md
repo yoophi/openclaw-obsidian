@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Bo4Shk2FCvk/maxresdefault.jpg
 
 ## 한글 요약
-## How OpenClaw works — concise summary
+## OpenClaw는 어떻게 동작하고, 왜 직접 만들어볼 만한가
 
-*OpenClaw is an AI agent that's taken the world by storm.* At its core OpenClaw wraps a large language model with an exoskeleton of services: a 24/7 gateway for chat channels, JSONL session persistence, a compaction system that summarizes old chat chunks when context exceeds limits, system prompts (soul.md and personality files), RAG-style memory plus a memory.mmd file, and tool schemas that let the model call external actions. The agent runs an "agentic loop" where the LLM emits tool calls, tools execute actions (browser/terminal/camera control via a relay), return results, and the model decides next steps; autonomy is driven by a 30-minute heartbeat file the agent can edit, plus cron jobs and webhooks that wake the agent with context.
+이 영상은 OpenClaw의 동작 원리를 비교적 직관적으로 설명하면서, 왜 이런 시스템을 직접 구축해볼 가치가 있는지를 이야기합니다. 발표자는 OpenClaw를 단순한 챗봇이 아니라, 메시징·메모리·도구 실행·자동화가 결합된 하나의 운영 프레임워크로 바라봅니다.
 
-OpenClaw’s strength is generality, but that generalism creates heavy, growing context overhead: the presenter shows an initial fixed overhead of about 7,000 tokens that can swell to ~45,000 tokens after routine use, causing context rot and up to ~40% measured performance loss; by contrast a single-purpose "sniper" agent may only need ~1,400 tokens. Tool and memory bloat can push performance decreases into the 50–90% range and add material cost (an example cited is roughly $0.52 extra per message) while causing catastrophic forgetting from truncation and hard limits; the speaker therefore recommends building narrow, purpose-built agents and practicing context hygiene rather than relying on a one-size-fits-all harness. *Agents are comprised of four categories.*
+핵심은 남이 만든 SaaS를 소비하는 데서 끝나지 않고, **자기 문제에 맞는 에이전트 시스템을 직접 설계하고 제어할 수 있다**는 데 있습니다. 이 영상은 OpenClaw가 어떤 철학과 구조 위에 서 있는지 이해하고 싶은 사용자에게 좋은 개론 역할을 합니다.

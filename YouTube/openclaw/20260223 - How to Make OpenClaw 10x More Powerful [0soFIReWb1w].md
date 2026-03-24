@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/0soFIReWb1w/maxresdefault.jpg
 
 ## 한글 요약
-## How to Make OpenClaw 10x More Powerful
+## OpenClaw를 10배 더 강하게 만드는 방법
 
-The video’s core claim is that OpenClaw is extremely capable but underused, and it demonstrates five concrete techniques to turn it into an autonomous, dependable assistant. *"OpenClaw is the most powerful AI tool ever created, but... you might not feel that way."* It shows copyable prompts and step‑by‑step dashboard actions rather than high‑level theory.
+이 영상은 OpenClaw 자체보다도, 그 위에 어떤 설정과 운영 습관, 도구 조합을 얹느냐에 따라 체감 성능이 크게 달라질 수 있다는 점을 설명합니다. 발표자는 기본 상태의 OpenClaw만으로는 아쉬울 수 있지만, 메모리 정리, 툴 연결, 자동화 흐름 설계, 역할 분리 같은 요소를 더하면 훨씬 강력한 시스템이 된다고 말합니다.
 
-The five practical techniques are: create focused sub‑agents (example: a main agent “Mono” that delegates coding to a sub‑agent “Samantha”), install skills from the ClawHub marketplace to add web, GitHub and trend‑searching abilities, and set up proactive automation like a daily morning brief or a daily self‑improvement task. It also explains the memory problem caused by automatic compaction and gives a prompt to save key context before compression, and it describes a self‑improving loop (via a ClawHub skill or a single prompt) that stores hot memory and correction logs so the agent learns from feedback. *"create multiple sub-agents, each one built for a specific task."* The video warns that community skills can contain malicious code and otherwise focuses on hands‑on prompts and concrete configuration steps, so it’s worth watching if you want actionable setup guidance rather than conceptual discussion.
+즉 핵심은 OpenClaw를 설치하는 것 자체가 아니라, **반복 가능한 운영 체계와 보조 도구를 붙여서 실제 작업 환경으로 만드는 것**입니다. 이 영상은 기능 소개보다는 시스템 강화 전략에 더 가깝습니다.

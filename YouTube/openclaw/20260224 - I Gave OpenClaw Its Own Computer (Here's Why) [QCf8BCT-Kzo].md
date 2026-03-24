@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/QCf8BCT-Kzo/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
+## 왜 OpenClaw에 전용 컴퓨터까지 줬는가
 
-The creator’s core claim: give your OpenClaw agent its own always‑on computer (he uses an M4 Mac Mini) because OpenClaw is a persistent, server‑like process that benefits from dedicated hardware, scoped permissions, and tight integration with local apps. *"Open claw is one of the most inspiring things to happen in the AI space in a long time."* He tried running it on an old iMac and ran into installation and model‑compatibility issues, so the Mac Mini wins for being low‑power, quiet, compact and continuously available without interfering with a primary laptop (which sleeps, restarts, or may not be safe to expose to an agent). The video stresses that local hosting makes it easier to limit file‑system access and avoid resource contention.
+이 영상은 발표자가 OpenClaw를 위해 별도의 전용 컴퓨터를 둘 정도로 투자한 이유를 설명합니다. 핵심은 OpenClaw를 단순히 가끔 쓰는 도구가 아니라, 계속 켜져 있고 지속적으로 작업을 이어가는 **상시 운영형 시스템**으로 보기 시작했다는 점입니다. 그런 관점에서는 개인 메인 머신과 분리된 전용 환경이 더 안정적이고 관리하기 쉽다는 논리가 나옵니다.
 
-He outlines the practical advantages: a separate Apple ID/iCloud family lets the agent share calendars, reminders, iCloud Drive folders and even a synced Obsidian vault; native Mac apps (like Podcasts) can provide transcripts; and you can airdrop or share files easily. Local hosting plus a Tailscale private network provides encrypted remote access to the OpenClaw machine from anywhere, which the creator argues is simpler and safer for most users than exposing a cloud VPS. *"Getting up and running is not really the hard part."* He demonstrates his setup (agent named Jarvis) interacting via Telegram, having an agent email, and using multiple models (he favors Claude Sonnet 4.6 as the main driver) to handle calendar management, daily briefings, podcast digests, Obsidian workflows and more; deeper workflow dives are promised later. Overall recommendation: if you want a persistent, controllable personal agent, run OpenClaw on a dedicated local machine that’s integrated into your ecosystem and protected by a private VPN.
+영상은 전용 하드웨어를 둔다는 것이 단순한 과시가 아니라, OpenClaw를 더 신뢰성 있게 돌리고 장기 운영하기 위한 선택이라고 설명합니다. 결국 이 영상은 OpenClaw를 ‘한 번씩 실행하는 앱’이 아니라 **항상 돌아가는 디지털 운영 파트너**로 보는 시각을 잘 보여줍니다.

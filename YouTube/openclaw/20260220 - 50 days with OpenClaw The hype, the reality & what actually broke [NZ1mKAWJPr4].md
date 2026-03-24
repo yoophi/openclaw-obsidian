@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/NZ1mKAWJPr4/maxresdefault.jpg
 
 ## 한글 요약
-## 50 days with OpenClaw — quick verdict
+## 50일 동안 OpenClaw를 써본 뒤 남은 것: 기대, 현실, 그리고 실제 문제들
 
-This is a hands-on summary of running a self-hosted, always-on AI agent every day for 50+ days: the tool moves from novelty to infrastructure if you invest in workflows. Core wins: automated morning briefings and targeted brief summaries written to Obsidian, nightly semantic indexing of ~3,000 markdown notes (index rebuilds in seconds), continuous heartbeat checks (every ~30 minutes) and cron backups, remote server management and fixes from Discord, parallel subagents that produced 50+ pages of structured research in minutes, and 20 concrete personal use cases (research, email triage, analytics, voice transcription, bookmarks → knowledge base, home automation). The author emphasizes a “markdown-first” setup and channel separation (Discord channels with per-channel model routing) to avoid context pollution and reduce costs; *"It just runs."* 
+이 영상은 OpenClaw를 한동안 직접 사용해 본 뒤, 초기의 과열된 기대와 실제 경험 사이의 차이를 정리합니다. 발표자는 OpenClaw가 분명 강력하고 흥미로운 도구이지만, 실제 운영 단계로 들어가면 설정 복잡도, 안정성, 문맥 유지, 작업 실패 같은 현실적인 문제들이 반복해서 드러난다고 설명합니다. 즉 데모에서는 멋져 보이지만, 장기간 쓰려면 운영 감각과 구조 설계가 필요하다는 평가입니다.
 
-Tradeoffs and practical advice: memory/context compaction still causes silent forgetfulness mid-conversation, complex multi-step browser automations are flaky, and high-quality models are expensive unless you use multi-model routing (Opus for heavy thinking, cheaper models for routine tasks). Security is real—treat inboxes as hostile and keep destructive actions draft-only—so expect setup difficulty (~7/10) and tooling babysitting, but high daily value once tuned (~9/10) and strong reliability for simple workflows (~8/10) versus ~5/10 for complex automation. Start small: email draft-only triage, a daily briefing to markdown, and one inbox/bookmarks channel; grow from there. *"By week seven, you reorganize your workflow around it."*
+이 영상의 장점은 과장된 찬양이나 단순 비판이 아니라, **무엇이 실제로 잘 되고 무엇이 자주 깨지는지**를 분리해서 보여준다는 점입니다. 그래서 입문자에게는 기대치를 조절하게 해 주고, 이미 사용하는 사람에게는 어떤 부분을 보완해야 하는지 점검하게 만드는 내용입니다.
