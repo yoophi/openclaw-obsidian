@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/XqFun9XCXPw/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This clip demos Planetator, a plan-mode extension that brings Claude‑Code–style planning to the Pi agent while adding an in‑UI review and annotation workflow. You enter plan mode with the planitator command, the agent inspects the repo, asks questions, and *"it'll write the plan to a file."* The presenter shows how the plan appears in the UI so you can correct assumptions before implementation.
+## Pi Coding Agent용 Visual Plan Mode 확장
 
-Annotations can be inline comments or image markups; the agent re-generates the plan after you submit feedback and you can iterate until you approve. Example edits shown include *"you know I don't want fast API use flask instead."* Planetator compresses plans into shareable URLs (designed for private sharing), runs locally, and once approved the agent exits plan mode and implements the finalized plan.
+이 영상은 Pi Coding Agent에 붙는 Visual Plan Mode Extension을 소개합니다. 복잡한 작업을 시각적으로 더 잘 계획하고 구조화할 수 있게 만드는 것이 핵심입니다.
+
+즉 에이전트 성능 향상은 모델만이 아니라, 계획을 어떻게 표현하고 다루느냐에도 달려 있다는 점을 보여줍니다.

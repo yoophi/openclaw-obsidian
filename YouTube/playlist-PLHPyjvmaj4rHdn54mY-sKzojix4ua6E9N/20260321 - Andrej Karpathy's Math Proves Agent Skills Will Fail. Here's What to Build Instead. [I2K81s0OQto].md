@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/I2K81s0OQto/maxresdefault.jpg
 
 ## 한글 요약
-## Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.
+## Agent Skills는 왜 실패할 수 있고, 대신 무엇을 만들어야 하나
 
-The video argues that “agent skills” — essentially prompt-packed procedures — won't reach the reliability businesses need for complex, multi-stage workflows because failures compound. Using the “march of nines” example: a 10-step workflow with 90% per-step success yields over six failures per day; 99% per step drops that to one failure per day and 99.9% to one every 10 days. An evaluation of 84 popular skills showed improved pass rates but still far from production-grade dependability, so prompting alone can’t deliver deterministic reliability.
+이 영상은 Andrej Karpathy의 관점을 빌려, 에이전트 스킬 개념이 왜 한계에 부딪힐 수 있는지를 설명합니다. 핵심은 스킬을 늘리는 것보다, 더 본질적인 작업 구조와 시스템 설계가 중요하다는 점입니다.
 
-The recommended fix is harness engineering: wrap models in deterministic rails that gate, validate, and manage state. Examples and components shown include scaffolded testing (Stripe’s minions validating PRs against tests), virtual file systems and workspaces, delegating parallel sub-agents for context isolation, model-mixing (cheaper models for narrow sub-tasks), long- and short-term memory, planning (fixed vs dynamic), validation loops, and programmatic output templates to guarantee format and consistency. The demo contrasts a 7,000-token main agent interaction with a 323,000-token total thread driven by many sub-agents, illustrating scale and cost trade-offs. Two concise takeaways: *“agent skills are essentially just prompts”* and *“harnesses are essentially just the software layer that wraps around an AI model”*.
+도구 추가보다 문제 구조를 어떻게 표현하느냐가 더 중요하다는 비판적 시각을 제공합니다.

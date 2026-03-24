@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/P3onJNQhS60/maxresdefault.jpg
 
 ## 한글 요약
-## Why this clip might be worth watching
-The presenter demos PI mono, a terminal-first AI coding agent that he prefers over other GUI-focused tools because it’s intentionally minimal, modular and highly extensible. Core packages are split into a multi-provider LLM API (connects to OpenAI, “Enthropic” and Google), an agent runtime for tool-calling and state, a terminal UI that avoids flicker, and an optional web UI. He emphasizes design choices: *Pi is opinionated about what it won't do* and the CLI/SDK approach avoids an extra MCP server, built-in plan mode, default subagents, permission pop-ups or background daemons—features the presenter finds unnecessary for a terminal workflow.
+## 최고의 AI 코딩 CLI 비교
 
-The video focuses on extensions: TypeScript modules can register custom tools, commands, event interceptors, state persistence, file watchers, webhooks and custom UI rendering, letting you adapt the agent to your exact workflow. He shows a working web-search extension (using the exa SDK), describes current skills for searching/writing/using, and outlines a planned to-do integration tied to a git-like tool (jj) plus an “execute plans” skill inspired by the Ora superpowers project to force task completion. The demo highlights smooth terminal rendering, scroll/search with Neovim, and stability (model selection didn’t crash). Bottom line: it’s a slim core you must extend, but that design is the presenter’s main reason to recommend PI mono for developers who want full control over agent behavior. *it is very minimal and it is very extensible*
+이 영상은 Claude Code, Codex, OpenCode 대안 등 여러 AI 코딩 CLI 도구를 비교합니다. 핵심은 터미널 기반 개발 흐름에서 어떤 도구가 가장 매끄럽고 실용적인지 살펴보는 것입니다.
+
+개발자가 실제로 하루 작업에 붙였을 때 어떤 경험을 주는지가 중요한 비교 기준이라는 점을 보여줍니다.

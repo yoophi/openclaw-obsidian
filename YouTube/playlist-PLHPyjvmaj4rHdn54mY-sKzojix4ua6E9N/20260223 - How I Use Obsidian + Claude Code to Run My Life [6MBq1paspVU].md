@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/6MBq1paspVU/maxresdefault.jpg
 
 ## 한글 요약
-## How Vin uses Obsidian + Claude Code to run his life
+## Obsidian + Claude Code로 삶을 운영하는 방법
 
-Vin’s core claim: pairing an Obsidian vault (interlinked markdown files) with Claude Code’s CLI gives an LLM real, inspectable context so it can act like a thinking partner and an executor. Instead of re-explaining projects every session, Vin stores project descriptions, daily notes and context files in a vault; the Obsidian CLI exposes both file contents and the backlink graph to Claude Code, letting the agent surface cross-note patterns, trace idea evolution, and prioritize actions. He shows concrete commands—context (full-context preload), /today (morning review pulling calendar, messages and recent notes), /close day (end‑of‑day action extraction), ghost (write in his voice and test fidelity), /drift (compare intentions to behavior), trace, /connect and idea-generation flows—that read the vault, build a vocabulary map, and output structured idea reports and next steps. Vin demonstrates a trace that reports “First appeared January 11th, 2025. Time span 13 months,” illustrating how the agent reconstructs historical trajectories from scattered notes.
+이 영상은 Obsidian과 Claude Code를 함께 사용해 개인 작업과 삶의 운영을 정리하는 방식을 소개합니다. 핵심은 메모 시스템과 AI를 연결해, 정보 저장과 실행 지원을 하나의 흐름으로 묶는 것입니다.
 
-The practical trade-offs: scans are slower because the agent reads many files, and there are real privacy and safety decisions about giving an agent access to your “second brain.” Vin keeps a strict rule that agents don’t write directly into his main vault, uses demo commands for public demos, and treats files as the authoritative memory to delegate from. The system moves you from reflection to action—examples include automating idea graduation (/graduate) and generating prioritized, vault‑aware daily plans—and the payoff is deeper, context-aware automation and insight at the cost of setup time and attention to what you share. *feeding the beast good context* *a file is like essentially perfect a perfect memory*
+지식 관리와 에이전트 활용을 함께 고민하는 사람에게 실전적인 사례입니다.

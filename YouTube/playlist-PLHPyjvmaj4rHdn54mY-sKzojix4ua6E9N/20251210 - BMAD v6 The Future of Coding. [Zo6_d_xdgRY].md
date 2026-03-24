@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Zo6_d_xdgRY/maxresdefault.jpg
 
 ## 한글 요약
-## BMAD v6 — core claim and evidence
-BMAD v6 is presented as a major step up for “AI coding frameworks” that reduces hallucinations and manual checking by organizing project knowledge into small, task‑specific context injections and agent workflows. The video shows the framework implements a four‑phase lifecycle (discovery/product brief → PRD/UX → solutioning/architecture → implementation) plus a repeating story loop for epics, stories and bite‑sized tasks; files are stored as mapped YAML documents so agents pull only the exact context they need rather than bloating the prompt. The presenter reports hands‑on improvements: *building with AI has significantly sped things up* and *it's also increased our documentation and our general development flow five times at least.*
+## BMAD v6가 코딩의 미래라고 보는 이유
 
-Practical evidence covered includes a terminal “workflow init” that scaffolds project docs, an architect agent that runs an implementation‑readiness check over the collected artifacts, and new features in V6 like visual workflow diagrams and custom agent teams. The net claim is that for anything beyond a trivial page, BMAD’s structured documentation, context mapping and agent-based checks materially improve accuracy, traceability and scale of AI-assisted development compared with ad‑hoc prompt usage.
+이 영상은 BMAD v6를 단순한 프롬프트 세트가 아니라, AI 코딩 작업 전체를 구조화하는 프레임워크로 설명합니다. 여러 에이전트와 워크플로우, 모듈을 통해 개발 과정을 더 체계적으로 만들 수 있다는 점이 핵심입니다.
+
+즉 좋은 모델 하나보다, 잘 설계된 작업 구조와 역할 분리가 미래의 개발 자동화에서 더 중요하다는 관점을 보여줍니다.

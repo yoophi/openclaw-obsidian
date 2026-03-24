@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/DzNmUNvnB04/maxresdefault.jpg
 
 ## 한글 요약
-## tmux has forever changed how the creator writes code
+## Tmux가 내 코딩 방식을 완전히 바꿔놓은 이유
 
-The video’s core claim is that tmux transformed a GUI-first workflow into a fast, terminal-centered one by giving persistent, tiling terminal workspaces that survive disconnects and let you SSH back into the same session. *“tmux really has improved the way I work”* and the presenter shows practical uses: sessions/windows/panes, splitting and navigating panes, zooming a pane, and *“I can create and manage new windows for multiple terminal sessions.”*
+이 영상은 발표자가 tmux를 쓰기 시작한 뒤 코딩 방식이 얼마나 달라졌는지를 설명합니다. 핵심은 단순히 터미널을 여러 개 띄우는 수준이 아니라, 작업 맥락을 유지한 채 빠르게 이동하고 여러 프로세스를 병렬로 다룰 수 있다는 점입니다.
 
-Most of the video is a hands-on configuration walkthrough: install tmux and TPM, add a sensible defaults plugin, enable 24‑bit color, set mouse support, and change the prefix from Ctrl‑B to Ctrl‑Space. Key plugins and tweaks demonstrated include vim-tmux-navigator (plus Neovim integration) for seamless pane navigation, a Capuchin theme for nicer status lines, tmux-yank for easier copying, rebinds to make copy mode use V and y like Vim, start window/pane numbering at 1, and remapped split commands so new panes open in the current directory. The demo shows how to install plugins with TPM and how to source the config to activate each change.
+tmux를 익히면 개발 환경 자체가 훨씬 유연해지고, 특히 긴 작업 세션이나 서버 작업, 다중 창 전환이 많은 흐름에서 생산성이 크게 높아진다는 메시지를 전합니다.

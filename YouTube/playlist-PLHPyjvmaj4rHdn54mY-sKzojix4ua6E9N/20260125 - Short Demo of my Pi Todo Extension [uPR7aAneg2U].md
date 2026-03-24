@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uPR7aAneg2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHMCIAC0AWKAgwIABABGDIgWyhyMA8=&rs=AOn4CLA_zWvF8DEb2eclcBqn2Ye978_uDg
 
 ## 한글 요약
-## Short demo of a Pi “to-dos” extension
+## Pi Todo 확장 기능 짧은 데모
 
-This clip shows a lightweight Pi extension that adds persistent issue-tracking for Pi agents, modeled after Claude’s task tool. The extension does two things: *"it adds a to-do tool to the agent so that the agent can read and write and update to-dos"* and it exposes a /todos UI so you can view and manage records the agent creates. To-dos are stored as files with a JSON header plus body, can be created naturally during agent conversations, and the UI supports viewing, refining, assigning/claiming, closing, and copying paths to the clipboard.
+이 영상은 Pi Todo Extension의 핵심 기능을 짧게 보여주는 데모입니다. 큰 설명보다는 실제 동작 모습을 통해 어떤 문제를 푸는 도구인지 빠르게 이해하게 해 주는 성격입니다.
 
-The presenter demonstrates a workflow: drop quick notes as to-dos while working, refine a ticket (the agent scavenges the codebase, asks follow-up questions, and expands the item), then dispatch an agent to work on it; refined tickets contain more context for automated work. The system supports a simple lock so only one agent can claim an item at a time (useful for multi-agent setups), but the author notes it doesn’t always auto-claim items and some manual validation is needed. Overall the tool is a small, integrated plugin—both a UI and an agent-accessible tool—intended as a building block for agentic issue tracking; the presenter’s experience is mixed but sees the feature as necessary for agentic workflows. *"it is both in a user interface and it is also a tool to the agent itself."*
+짧지만 기능 방향과 사용 맥락을 파악하기에는 충분한 소개 영상입니다.

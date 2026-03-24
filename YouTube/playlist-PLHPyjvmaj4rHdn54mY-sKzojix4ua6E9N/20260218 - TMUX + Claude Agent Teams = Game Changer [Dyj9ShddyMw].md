@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Dyj9ShddyMw/maxresdefault.jpg
 
 ## 한글 요약
-## Agent Teams + Claude Agent Teams = Game changer — concise summary
+## TMUX + Claude 에이전트 팀 조합이 왜 강력한가
 
-Agent Teams adds shared, parallel collaboration to Cloud Code’s agents so multiple specialized sub-agents can run concurrently and communicate their outputs (avoiding the mismatch that comes from isolated sub-agents or the single large context of a default agent). The video argues the core problem is that “the higher the context the lower the accuracy,” and shows Agent Teams solving this by letting a team leader spawn sub-agents (business, financial, technical architect, devil’s advocate) that exchange discovered types, decisions, and findings instead of working in isolation. *“the higher the context the lower the accuracy”* *“agent teams can be able to enable like full parallel collaborations between multiple agents”*
+이 영상은 tmux와 Claude 기반 에이전트 팀을 결합했을 때 생산성이 크게 올라가는 이유를 설명합니다. tmux는 작업 공간을 구조화하고, 에이전트는 병렬 처리와 자동화를 맡으면서 서로 시너지를 냅니다.
 
-The demo walks through local setup and a real research run: update the CLI with `claude update`, install T-Max (split-terminal interface) via Homebrew, enable Agent Teams and T-Max in Cloud Code, then create a team via a single prompt that spawns four parallel agents. You can switch between agent panes with Ctrl-B and watch agents produce an aggregated Markdown report containing a table of contents, go/no-go recommendation, provider comparisons, cost-at-scale tables, architecture diagrams, and DB schema. Example findings shown in the output include a user-trust datapoint (“53% of consumers comfortable sharing financial data”) and provider guidance (Flinkx recommended for Canada); the host also converts the completed run into a reusable Claude Skill so the same multi-agent workflow can be re-triggered later. Overall the clip is practical if you want: a short conceptual framing of why Agent Teams matters, step-by-step local setup, and a full end-to-end demo that produces concrete research artifacts.
+핵심은 툴 하나가 아니라, 작업 공간 관리 도구와 에이전트 시스템을 함께 설계할 때 효율이 폭발적으로 올라간다는 점입니다.

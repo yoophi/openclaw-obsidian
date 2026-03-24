@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/3xZFJMNW8RE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgSChNMA8=&rs=AOn4CLAWv7HT1ofyF19dx-_X8VvcQsDQ5w
 
 ## 한글 요약
-## OpenCLI: a new cloud-code CLI that turns sites into CLIs
+## OpenCLI는 최신 Claude Code 계열 CLI 도구인가
 
-The clip describes OpenCLI, an open-source tool that converts websites, Electron apps, or local tools into command-line interfaces and drew roughly 2,000 stars on a code-hosting repo within days. *"it allows you to make any website or electron app or local tool into a CLI."*  
+이 영상은 OpenCLI라는 새로운 Claude Code 계열 CLI 도구를 다루며, 왜 빠르게 관심을 끌고 있는지 설명합니다. 기능 자체보다 CLI 개발 도구 생태계가 얼마나 빠르게 확장되는지를 보여주는 사례입니다.
 
-Functionally it behaves like built-in browser automation: you can point it at a site even without API access and drive the page from cloud code. The project includes about 53 adapters for different platforms (forums, news aggregators, social platforms), showing breadth and quick practical utility; it’s very new and fully open source. *"really almost like browser automation based"*
+새로운 툴을 따라가고 싶은 사용자에게 맥락을 제공하는 소개형 영상입니다.

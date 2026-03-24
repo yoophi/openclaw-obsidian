@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/niuOc02Rvrc/maxresdefault.jpg
 
 ## 한글 요약
-## Why t-mo can skyrocket your terminal productivity
-This short course demo argues that t-mo (a terminal multiplexer) gives you multiple pseudo-terminal logins inside a single terminal session, so you can run many shells, split panes and windows, and switch between them without opening new terminal windows. Key, concrete controls shown: control‑B c to create a new window, control‑B n (or control‑B plus a number) to switch windows, control‑B " (double quote) to split, control‑B and arrow keys to move between panes, leader d d to detach, t-mo ls to list sessions and t-mo attach to reattach. The video highlights session persistence: detach, close your terminal or SSH elsewhere, then reattach and your processes are still running.
+## Tmux로 생산성을 크게 높이는 방법
 
-*“t-mo allows me to have multiple terminal sessions from one window”* *“when I reattach I'm really just opening the window that was previously closed”*  
-Use cases and supporting details include running servers or long processes (ping/tailing logs) and leaving them running while you disconnect, renaming windows and sessions for clarity, and the ability to share sessions for pair programming. The presenter notes the default keybindings and look are functional but basic, and promises upcoming episodes on better keybindings and visual tweaks; the core takeaway is that t-mo adds persistence, session sharing, and pane/window management that noticeably improves terminal workflows.
+이 영상은 tmux가 왜 생산성을 크게 올려주는지, 그리고 어떤 식으로 활용해야 효과가 나는지를 설명합니다. 핵심은 창과 세션을 잘게 나누고, 필요할 때 즉시 복원하며, 키보드 중심으로 빠르게 전환하는 흐름입니다.
+
+즉 tmux는 단순한 터미널 도구가 아니라, 작업 흐름을 구조화해서 문맥 전환 비용을 줄여주는 시스템이라는 점을 강조합니다.

@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/f8cfH5XX-XU/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This video argues that Pi Agent is the most credible, engineer-focused competitor to Cloud Code because it’s open-source, minimal by default, and built to be extended. Unlike Cloud Code’s polished, opinionated out-of-the-box experience, Pi ships with a tiny (200-token) system prompt, permissive “YOLO” defaults and rich hook/extension points so engineers can customize the entire agent harness and choose any model. The presenter frames the choice as trade-offs between convenience and control: *"There are many coding agents, but this one is mine."* and *"security in agentic coding is mostly theater."*
+## Pi Coding Agent는 유일한 Claude Code 경쟁자인가
 
-The bulk of the video demos how Pi’s extensibility is used in practice: composable TypeScript extensions that change footers, themes, persistent widgets, queued commands, and stacked behaviors; custom sub-agent implementations and a “till done” workflow that enforces microtasks; user-built multi-agent teams, agent chains/pipelines, and meta agents that generate other agents. Pi also lets you swap models, pin or fork the codebase, override tools (read/write/edit/bash), and hook into 25+ lifecycle events; Cloud Code, by contrast, provides more built-in tools, native task/multi-agent support, safety modes, and enterprise integration but is more opinionated and model-centric. The practical strategy presented: use Cloud Code for mainstream/enterprise work and hedge with Pi for experimental, highly specialized agent engineering (Pi was created and popularized by Mario Zechner).
+이 영상은 Pi Coding Agent를 Claude Code의 실질적 경쟁자로 보며 비교합니다. 발표자는 기능과 흐름, 실제 사용감을 중심으로 두 도구를 평가합니다.
+
+결국 중요한 것은 어떤 도구가 더 유명하냐보다, 실제 작업에 더 잘 맞는지를 보는 것이라는 메시지입니다.

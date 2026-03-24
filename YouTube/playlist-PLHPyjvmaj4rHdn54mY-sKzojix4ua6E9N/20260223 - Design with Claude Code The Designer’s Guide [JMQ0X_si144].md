@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/JMQ0X_si144/maxresdefault.jpg
 
 ## 한글 요약
-## Design with Claude Code — the Designer’s Guide
-This walkthrough shows how designers can actually use Claude Code (CLI or desktop) together with Figma via the Figma MCP plugin to generate UI screens, push elements into Figma, iterate there, and then send updated components back into Claude. It clarifies a key distinction: *there's no design interface for Claude Code.* The host demos building a simple black-and-purple dashboard, selecting individual widgets to export to Figma, removing unwanted items, and then having Claude rebuild the dashboard to reflect those edits, illustrating a practical two-way workflow rather than a one-shot generator.
+## 디자이너를 위한 Claude Code 활용법
 
-Setup and limits are covered step-by-step: install Claude Code in your terminal or use the desktop app, run the plugin discovery/install flow for Figma MCP, authenticate the right Figma account, then prompt Claude to create or update files. The video stresses that Claude Code is more than a text model because *Claude Code can read files, update files, interact with your system,* so it can modify real Figma files, but results need refinement — auto-layout, responsiveness, and dev-handoff polish aren’t perfect out of the box. For a less technical front-end, the presenter shows Pencil.dev as a designer-friendly UI builder (it builds decent mockups and UI kits in-app but currently can’t export to Figma). Practical tips: avoid condensing your workspace (use two monitors if possible), iterate components in Figma, then push the final widgets back into Claude for coordinated updates.
+이 영상은 디자이너 관점에서 Claude Code를 어떻게 활용할 수 있는지 설명합니다. 단순 코딩 도구가 아니라, 디자인 의도를 실제 구현과 연결하는 파트너처럼 쓰는 방식이 핵심입니다.
+
+디자인-개발 사이의 전환 비용을 줄이고, 실험 속도를 높이는 데 Claude Code가 유용할 수 있다는 메시지를 전합니다.

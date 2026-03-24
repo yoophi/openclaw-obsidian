@@ -22,9 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kSipXea2TbE/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-The creator compares three coding agents they use daily—Cursor, Open Code, and Claude Code—explaining where each fits in a real workflow and why they keep switching between them. Cursor is praised for its editor-first experience, best-in-class tab completion and an exclusive model (Composer 1) that excels when fed good plan/context, but it suffers editor performance and TypeScript slowdowns on large projects. *"Cursor is the only place where you can use Composer 1"*  
+## 지금 가장 좋은 코딩 에이전트는 무엇인가
 
-Open Code is valued for openness and customizability: it runs a local HTTP server/CLI, supports LSP-style checks, and lets the user pull live repos or docs into the agent’s context so models can generate up-to-date code. The author demonstrates this with a small CLI app (BTCA) that clones framework repos and returns accurate code for recently added features (like remote functions) that aren’t in model training data, arguing that direct repo/doc access beats MCP indirection. *"it is fully open source."*
+이 영상은 여러 코딩 에이전트를 비교하면서, 어떤 도구가 가장 좋다고 느끼는지와 실제 사용 방식을 공유합니다. 핵심은 절대적인 1등보다, 작업 유형에 따라 잘 맞는 도구가 다르다는 점입니다.
 
-Claude Code is described as a pleasant, non-reasoning workhorse—good for crisp, fast edits when you don’t want deep thinking—while the author favors Opus (and sometimes GPT 5.2/Gemini 3 Pro) depending on task flavor: speed and predictable output are prioritized over benchmark scores. Overall recommendation: use Cursor for day-to-day coding and editor integration, Open Code when you need extreme customization and up-to-date context, and Claude Code for quick, no-friction changes; design projects so agents can make safe, incremental changes and give models concrete anchor context rather than expecting them to invent new framework usage.
+발표자는 각 도구의 강점과 사용 패턴을 설명하며, 실제로는 조합해서 쓰는 것이 가장 현실적일 수 있다고 이야기합니다.

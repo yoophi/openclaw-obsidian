@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg
 
 ## 한글 요약
-## Vibe Coder Tries Neovim
-The creator installs and explores Neovim (vs Vim), then tries the LazyVim starter to turn Neovim into an IDE-like environment. He runs into a chain of real-world setup problems—wrong install methods, missing LuaRocks and nerd fonts, terminal/color issues (solved by using Kitty), tree-sitter/build tools, and plugin-manager confusion—while learning keybindings, buffers, the built‑in file explorer and Telescope. *Neovim is a fancier version of Vim* sums up the starting point; the video repeatedly shows how small environment gaps cascade into many errors when you swap configs.
+## 바이브 코더가 Neovim을 써보는 실험
 
-Most of the runtime work centers on getting autocompletion and LSP working for Python while building a Manim animation: finding and editing LazyVim’s plugin specs under ~/.config/nvim/lua/plugins, using lazy sync, enabling LazyVim “extras” (nvim-cmp and related coding extras), installing Mason-managed language servers, and finally installing Node/npm so Mason can fetch the needed LSP tools (the transcript shows a “pyite/pyrite” LSP being installed). After several reinstalls and toggling extras, autocompletion appears and offers the same attribute completions the creator expected (e.g., Manim’s text properties), proving the stack works once every dependency is present. The takeaway: LazyVim can provide a VS Code‑like experience inside a terminal, but achieving that requires careful installation of fonts, native tools, Node/npm and correct lazy plugin specs—*I just know a few basic commands and also how to enable autocomp completion.*
+이 영상은 평소 다른 도구를 쓰던 발표자가 Neovim을 실제로 사용해보며 느낀 점을 공유합니다. 핵심은 Neovim이 단순히 어려운 편집기가 아니라, 익숙해지면 매우 강력한 생산성 도구가 될 수 있다는 점입니다.
+
+학습 곡선은 있지만, 키보드 중심 편집과 확장성, 빠른 흐름을 중시하는 사람에게는 매력적인 환경이라는 메시지를 줍니다.

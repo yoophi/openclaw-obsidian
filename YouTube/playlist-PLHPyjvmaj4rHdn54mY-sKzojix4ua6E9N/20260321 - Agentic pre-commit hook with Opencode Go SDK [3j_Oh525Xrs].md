@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/3j_Oh525Xrs/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This clip demonstrates a practical pre-commit hook that runs a local coding agent (an Open Code server) via the Open Code Go SDK to review staged git changes before a commit. The tool shells out to git to get staged diffs, creates a session on the server, sends a prompt asking the agent to *"review the code, look for typos, unnecessary debug statements, bugs, security issues, and so forth,"* and asks for a strict JSON reply (status + issues array). The program unmarshals that JSON into Go structs and exits non‑zero to block the commit when the agent reports problems; if there are no staged changes it exits zero and lets the commit proceed.
+## Opencode Go SDK로 만드는 에이전트형 pre-commit hook
 
-Implementation notes and results: the demo uses os/exec to run git diff for staged changes, builds a single Go executable, places it in .git/hooks/pre-commit and makes it executable, and uses the SDK to create a session, send prompts, combine fragment responses, and delete the session on defer. The expected JSON schema is simple—*“status is pass and issues is an empty array”*—so the hook can decide whether to fail the commit. The author tested it with Opus models and shows it catching debug prints, typos and duplicate files; they also warn LLM outputs are nondeterministic and recommend continuing to use linters/formatters alongside agent checks.
+이 영상은 Opencode Go SDK를 이용해 에이전트형 pre-commit hook을 만드는 흐름을 소개합니다. 핵심은 코드 커밋 직전에 AI 기반 검토나 자동 점검을 끼워 넣어 품질을 높이는 것입니다.
+
+즉 AI 에이전트를 개발 파이프라인의 마지막 방어선처럼 활용할 수 있다는 가능성을 보여줍니다.

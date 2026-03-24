@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/IdqeXTXzY98/maxresdefault.jpg
 
 ## 한글 요약
-## Codex skills for product designers
-The video demos several "skills" in Codex aimed at product designers: Figma-to-code, design-system extraction, PDF UI audits from screenshots, and Playwright-driven flow audits. For Figma-to-code the presenter installs the Figma skill, pastes a Figma frame link and Codex returns standalone HTML/CSS (it even corrected some text-size issues). After opening the files you get basic inputs and static layouts—*“it's implemented the design, turned it into code.”*—and you can convert to React/components, run `npm install` and `npm run dev` to add interaction; a quick screenshot upload can be used to polish visuals.
+## 디자인 엔지니어에게 필요한 Codex Skills
 
-Next, Codex extracts design tokens and produces a markdown/doc (colors, typography, spacing, component API) which can be converted to a browsable HTML style guide; the presenter shows a generated "carbon design system" page in minutes. The PDF skill creates an 8‑page client-ready UI/UX audit (executive summary, accessibility findings such as low-contrast text, detailed findings, and prioritized sprint plans). Using the Playwright skill, Codex automates a site search flow, captures screenshots, and outputs a step-by-step UX discovery audit with findings and a time‑phased action plan. Limitations shown: occasional MCP/select-layer retries, permission prompts for Figma/browser access, and the need for a final pixel check and manual polish to reach production quality. *“I can type this. I can delete this.”*
+이 영상은 디자인 엔지니어가 Codex를 더 잘 쓰기 위해 어떤 스킬이 필요한지 정리합니다. 핵심은 단순히 코드를 생성하는 것보다, 디자인과 개발 사이의 맥락을 연결해 주는 작업 패턴을 갖추는 것입니다.
+
+즉 Codex를 더 잘 쓰는 방법은 모델 자체보다, 어떤 스킬과 워크플로우를 붙이느냐에 달려 있다는 점을 강조합니다.

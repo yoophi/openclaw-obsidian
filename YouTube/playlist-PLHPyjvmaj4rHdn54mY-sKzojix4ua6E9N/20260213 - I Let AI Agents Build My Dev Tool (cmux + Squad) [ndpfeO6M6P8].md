@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/ndpfeO6M6P8/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-The video demos using Squad inside a cmux repo to spawn and orchestrate multiple AI agents that act like a development team. The presenter creates a work tree, asks the chat to “give me an agent,” uses a prime skill to read the README and file tree, and watches the system auto-generate team roles, agent files, and project scaffolding while the chat UI coordinates tasks.
+## AI 에이전트에게 개발 도구를 직접 만들어보게 한 실험
 
-Concrete results shown: the AI team created files (AI team, agents, decisions), pulled issues from the repo, picked issue 46, and Ripley (the UI agent) implemented a right‑click “copy path” context menu. A PR was opened (number 67), checks passed, and the presenter verified the change locally in the work tree; he reports *“I hired the team.”* and *“First time ever running the squad worked pretty well.”*
+이 영상은 AI 에이전트에게 cmux 같은 개발 도구를 실제로 만들어보게 한 사례를 다룹니다. 핵심은 에이전트가 단순 코드 조각 생성이 아니라, 도구 설계와 구현 흐름까지 어느 정도 이어갈 수 있다는 점입니다.
+
+동시에 이런 실험이 잘 되려면 역할 분리와 검증 루프가 중요하다는 사실도 보여줍니다.

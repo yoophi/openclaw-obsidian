@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uULvhQrKB_c/maxresdefault.jpg
 
 ## 한글 요약
-## 10 CLI Tools That Make Claude Code UNSTOPPABLE
+## Claude Code를 더 강하게 만드는 CLI 도구 10가지
 
-The video’s core claim is that the Cloud Code ecosystem is shifting from web-based MCPs toward terminal-first CLI tools because they let Claude/Cloud Code do more with less overhead and far fewer tokens. *"Everyone, I mean everyone, is building CLI tools to enhance what Cloud Code can do."* The host emphasizes that most CLIs install in one or two steps and usually need a small “skill” so Cloud Code knows how to use them; this pattern repeatedly appears across the examples. *"CLIs live in the terminal."*
+이 영상은 Claude Code와 함께 쓰면 생산성이 크게 오르는 CLI 도구 10가지를 소개합니다. 발표자는 개발자들이 실제 터미널 환경에서 바로 붙여 쓸 수 있는 도구 중심으로 설명합니다.
 
-The ten recommended tools and their key benefits: CLI Anything — auto-generates CLIs for open‑source apps (Blender, OBS, Inkscape); Notebook LM-PI — lets Cloud Code push YouTube URLs to Notebook LM for deep analysis and automated deliverables (slides, podcasts, flashcards); Stripe CLI — script product/transaction workflows from the terminal; FFmpeg — powerful video/audio/frame manipulation; GitHub CLI — commit/branch/push flows directly; Vercel CLI — easy GitHub-connected deploys and CI with a generous free tier; Supabase CLI — local/open-source DB and auth management; Playwright CLI — browser automation and end-to-end testing (noted as faster and far cheaper in tokens than some MCP approaches); LLMFit — helps pick the right local model for your hardware; GWS (Google Workspace CLI) — full Docs/Sheets/Email control but requires careful permissioning and curated skills for security. Overall, the video argues CLIs are a practical way to extend Cloud Code’s capabilities, reduce token costs, and integrate development, multimedia, deployment, and automation workflows inside the terminal.
+핵심은 AI 코딩 도구 하나만으로 완성되지 않고, 주변 CLI 생태계와 조합할 때 훨씬 강력해진다는 점입니다.
