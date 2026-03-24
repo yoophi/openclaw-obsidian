@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kRmZ5zmMS2o/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
+## NVIDIA의 NemoClaw 공개 메시지
 
-Speaker announces NemoClaw, an NVIDIA-backed reference stack that hardens OpenClaw for enterprise use and frames OpenClaw as a new, open “operating system” for agentic assistants. The talk claims OpenClaw exploded in adoption—“*Open Claw is the number one. It's the most popular opensource project in the history of humanity.*”—and describes OpenClaw’s core capabilities: connecting to large language models, accessing tools and files, scheduling/cron jobs, decomposing prompts into steps, spawning sub-agents, and multi‑modal I/O (text, voice, even gestures).
+이 영상은 NVIDIA 쪽 인물이 OpenClaw 커뮤니티를 향해 NemoClaw를 소개하는 맥락을 다룹니다. OpenClaw와의 연결성, 기업용 방향성, 커뮤니티 반응을 함께 볼 수 있는 성격의 콘텐츠입니다.
 
-The speaker warns agentic systems can access sensitive data, execute code, and communicate externally, so NemoClaw integrates enterprise controls: an Open Shell component, a policy/guardrail engine, and a privacy router to enforce company rules. They also position a large open-model ecosystem (claiming nearly 3 million open models) and multiple model families—Neotron (language), Cosmos (physical/world), Alpayo (autonomous vehicles), Bioneo (biology), Earth 2 (physics/climate), etc.—with ongoing upgrades planned, and describe a growing coalition of partners to embed these stacks into enterprise workflows. The repeated corporate prompt: *what's your open claw strategy* encapsulates the claim that every software company must plan for agentic systems and domain‑specific models.
+기능 설명보다는 생태계와 상징성에 의미가 있는 영상입니다.

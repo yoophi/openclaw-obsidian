@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/LfvKkrVSO-U/maxresdefault.jpg
 
 ## 한글 요약
-## Does NemoClaw replace OpenClaw?
+## NemoClaw가 OpenClaw를 대체할 수 있을까
 
-Nvidia’s NemoClaw is not a new agent but a security wrapper around the existing OpenClaw architecture: it runs the same brain, memory, tools and schedulers inside a locked sandbox and enforces administrator policies via YAML rules. *"Nemo Claw basically takes that brain and that architecture and puts it inside a locked down sandbox."* That sandboxing limits file and network access and the policy engine can block actions that need explicit approval, but NemoClaw currently only runs on Linux and routes inference through Nvidia’s cloud models (Neotron), which creates provider lock‑in and centralized costs.
+이 영상은 NemoClaw와 OpenClaw를 비교하며, 정말로 대체 관계가 될 수 있는지 따져봅니다. 발표자는 기능, 방향성, 사용 경험 관점에서 두 도구를 살펴봅니다.
 
-OpenClaw remains the more flexible option for hobbyists and small teams because you can choose models, run locally on Mac/Windows/Raspberry Pi, and keep inference and costs under your control; NemoClaw’s software is free but its inference is tied to Nvidia’s cloud API and models. *"it can only write to these folders called sandbox and tmp."* The video’s recommendation: enterprises working directly with Nvidia might adopt NemoClaw for added governance, while most others should start with OpenClaw on an isolated device, avoid connecting critical tools immediately, and use OAuth or a flat‑rate model access method to limit surprise costs.
+결론적으로는 도구의 철학과 목적이 다를 수 있어서, 단순 대체 관계로만 보기 어렵다는 인상을 줍니다.

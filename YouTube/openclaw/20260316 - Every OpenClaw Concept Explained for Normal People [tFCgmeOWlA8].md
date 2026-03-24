@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/tFCgmeOWlA8/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take
+## 일반인도 이해할 수 있게 풀어쓴 OpenClaw 개념 설명
 
-This video explains OpenClaw, an open‑source autonomous AI agent that runs as a background process on its own computer or a rented VPS, giving it the ability to take actions — browse the web, manage files, use apps and hold persistent memory — rather than just chat. It demonstrates a one‑liner terminal install, recommends isolating the agent on a spare machine or VPS, and highlights a key cost/configuration choice: API keys (pay‑per‑usage, uncapped) versus OAuth (flat monthly cap); the presenter notes OpenAI permits OAuth, Entropic is a gray area, and Google has documented bans. *OpenClaw is sort of like an employee who never clocks out.*
+이 영상은 OpenClaw의 핵심 개념들을 비교적 쉬운 언어로 풀어서 설명합니다. 처음 접하는 사람이 구조를 이해할 수 있도록, 전문 용어를 줄이고 큰 흐름 위주로 정리하는 것이 특징입니다.
 
-The video then walks through the architecture and daily artifacts: the gateway (always‑on engine), messaging channels, multi‑agent and sub‑agent workflows, and a workspace made of plain‑English markdown files (soul.md, agents.md, user.md, tools.md, heartbeat.md, memory.md) that store personality, rules, preferences, tools and logs. It covers automation (heartbeat checks ~every 30 minutes; cron for scheduled jobs), skills as playbook-style skill.md files versus plugins as code extensions (TypeScript/JS), MCP servers for connecting services (calendar, GitHub, etc.), nodes to reach other devices, and context/cost tradeoffs — models have finite context windows (example: Opus 4.6 ≈ 1 million tokens) and every injected markdown can inflate token use. *The agent works in a loop. You give it a task and it figures out the steps on its own.*
+입문 단계에서 OpenClaw 전체 그림을 잡기에 좋은 영상입니다.

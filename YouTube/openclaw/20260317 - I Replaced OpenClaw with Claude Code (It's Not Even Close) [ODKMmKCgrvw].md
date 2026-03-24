@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/ODKMmKCgrvw/maxresdefault.jpg
 
 ## 한글 요약
-## I Replaced OpenClaw with Claude Code (It's Not Even Close)
+## Claude Code가 OpenClaw보다 훨씬 낫다고 느낀 이유
 
-The video’s core claim is that you can replace a black‑box agent workflow (OpenClaw) with a transparent, programmable system built around Claude Code and a single CLI command, *claw-p*, to control an agent’s four zones: trigger, context, tools, and output. The creator walks through how *claw-p* runs headless in bash, how system prompts and flags (like the “append system prompt” vs the “d--system prompt” flag) shape behavior, and how session persistence is handled via a demo flag (d-resme), arguing this yields lower cost, faster responses, and full inspectability. *OpenClaw is absolutely everywhere.* *But what if there was a way to turn it into a glass box?*
+이 영상은 발표자가 OpenClaw 대신 Claude Code를 쓰면서 느낀 장점을 강하게 주장합니다. 핵심은 더 간단한 작업 흐름, 더 직접적인 결과, 덜 복잡한 운영 경험입니다.
 
-The live demo builds an email‑triage sniper agent launched by Telegram messages or a daily cron, configured with four environment variables (Telegram token, allowed user ID, Gmail address, Gmail app password), a workspace, and a fetch_emails.py script that grabs recent mail via IMAP. Tools are executed when the model emits tool‑triggering tokens (bash/read to run the fetch script), outputs are returned over Telegram, and the system prompt file plus flags let you tighten or strip defaults; the presenter contrasts seconds of automated briefing on Claude Max tokens with the claimed OpenClaw cost/time of “$1 to 3” and minutes or timeouts, emphasizing that this approach gives deterministic control, easier debugging, and cheaper, faster automation.
+OpenClaw가 가진 확장성과 별개로, 어떤 사용자는 더 단순한 개발 도구를 더 선호할 수 있다는 점을 보여줍니다.

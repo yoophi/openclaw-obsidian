@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/tH54k9hKBG8/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-This video tests hundreds of OpenClaw skills and isolates 13 that “actually changed” the creator’s workflow, showing how agents can replace whole tasks when configured right. The standout example is Larry, an agent that *"generate Tik Tok slideshow content to promote his app."* In one week Larry produced over 8 million views and drove about $1,000/month in recurring revenue; it generates six portrait images with a locked scene architecture, enforces strict layout rules (font at 6.5% of image height, text positioned 30% from the top, line breaks every 4–6 words), posts drafts, and then tracks the full funnel (views → downloads → trials → paid subs) so the skill learns what to fix automatically. Another high-impact tool is QMD, the “token killer,” which indexes documents with BM25 and vector search so agents pull only the relevant paragraphs and can cut token usage by up to 70%.
+## 지금 설치해야 할 OpenClaw 스킬 13가지
 
-## Other highlights and risks
-Additional recommended skills include a self-upgrading meta-skill that *"Your AI agent debugs itself and upgrades itself automatically."* (review and “mad dog” modes), an anti‑AI‑style humanizer for cleaner prose and code, a web-search skill to give agents live internet access, a unified Google-workspace CLI, a Twitter/X research tool with quality filters and cost transparency, a persistent-memory system to avoid context loss, WhatsApp messaging, browser automation via Playwright, a mission-control daily dashboard, and a predictive tweet-impact checker based on the platform’s recommendation signals. The video also warns about marketplace safety: many malicious skills have been discovered, so audit skill code and privileges before installing.
+이 영상은 OpenClaw 사용자에게 특히 유용한 스킬 13가지를 추천합니다. 발표자는 어떤 스킬이 어떤 작업을 더 잘하게 만들어 주는지 설명하면서, 무턱대고 많이 깔기보다 실전 가치가 큰 스킬을 우선적으로 쓰라고 조언합니다.
+
+OpenClaw 확장 전략을 고민하는 사용자에게 좋은 참고 자료입니다.

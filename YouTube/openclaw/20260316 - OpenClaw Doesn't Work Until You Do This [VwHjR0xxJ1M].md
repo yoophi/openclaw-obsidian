@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/VwHjR0xxJ1M/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw multi-agent workflows that scale
+## OpenClaw가 제대로 작동하려면 먼저 해야 하는 것
 
-Problem: single OpenClaw agents get brittle as you pile on tasks—they bloat context, hallucinate, and cut corners. Solution: split work into specialists and add a manager. *"You don't build one agent. You build a team and you give that team a manager."* The video shows a concrete lead-finder example: an orchestrator agent delegates to two focused subagents (a signal detector that finds hiring signals and an enrichment agent that builds company/decision-maker profiles), all wired together so one top-level command runs the whole pipeline.
+이 영상은 OpenClaw를 설치만 해두고 기대한 만큼 결과가 안 나오는 이유를 짚으면서, 실제로 잘 쓰기 위해 먼저 해야 할 설정이나 운영 포인트를 설명합니다.
 
-How to implement: everything lives in your OpenClaw workspace as a small folder tree (projects → leadfinder agent → orchestrator.md and subagents/*.md). The orchestrator file defines which subagents to call, in what order, and how to combine outputs; the main agent gains a single “route” instruction to hand control to that orchestrator. Production checklist: 1) strict boundaries in subagent prompts, 2) tuned signal criteria and tiering, 3) orchestrator error handling (flag incomplete results for manual review), 4) explicit tool declarations for subagents, and 5) model routing so cheap models handle simple tasks and larger models handle complex ones. *"Every sub aent markdown needs to define what it does and what it doesn't do."* Benefits: clearer outputs, fewer hallucinations, lower token use, repeatable projects (client onboarding, content pipelines, competitive intel) by repeating the same folder+markdown pattern.
+핵심은 OpenClaw가 바로 마법처럼 작동하는 것이 아니라, 올바른 구성과 사용법이 선행돼야 한다는 점입니다.
