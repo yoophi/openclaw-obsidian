@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/WqWMszBB9t0/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-The creator demos "Muddy OS," a multi-agent org built in OpenClaw that runs dozens of agents continuously to handle research, delegation, and ops across role-based agents (CEO human + primary orchestrator + CTO/CMO/CRO-like agents). He shows the org chart, per-agent workspaces and heartbeats, weekly/monthly standups, and how agents share meeting memory so tasks and progress don't repeat. *I have 28 agents running 24/7 round the clock*
+## OpenClaw로 멀티 에이전트 팀 만들기
 
-The video walks through the concrete technical pieces you need: set sessions send and session key to enable agent-to-agent messaging; define each agent’s identity, startup sequence and empty memory; create cron jobs tied to custom skills; and build autonomous daily executive syncs that read recent transcripts, run debate rounds, produce a transcript and audio, and push summaries. He demonstrates delegation patterns (A asks B to do a task and report back) and a bypass phrase ("Do it now") that forces the primary agent to execute directly, and stresses adapting the prompts to your own org rather than copying verbatim. *This is the true unlock with automations and multi- aent teams.*
+이 영상은 OpenClaw 위에서 구성한 멀티 에이전트 조직인 **Muddy OS**를 시연합니다. 사람 CEO와 메인 오케스트레이터, 그리고 CTO·CMO·CRO에 해당하는 역할형 에이전트들이 함께 돌아가며, 리서치·위임·운영 업무를 계속 처리하는 구조입니다. 발표자는 조직도, 에이전트별 워크스페이스, 하트비트, 주간·월간 스탠드업, 회의 메모리 공유 구조를 보여주면서, 여러 에이전트가 같은 맥락을 이어받아 일하더라도 작업이 중복되지 않게 설계하는 방식을 설명합니다. 핵심 메시지는 **단일 에이전트보다 조직 구조를 설계했을 때 자동화의 효율이 훨씬 커진다**는 점입니다.
+
+기술적으로는 에이전트 간 메시징을 위해 `sessions send`와 `session key`를 설정하고, 각 에이전트의 정체성·시작 루틴·빈 메모리 상태를 정의하며, 커스텀 스킬과 연결된 cron 작업을 만드는 방법을 다룹니다. 또 최근 대화를 읽고 토론 라운드를 돌린 뒤 요약과 오디오까지 생성하는 자율적인 경영 회의 흐름도 예시로 보여줍니다. 한 에이전트가 다른 에이전트에게 일을 위임하고 결과를 다시 보고받는 패턴, 그리고 필요하면 메인 에이전트가 직접 처리하게 만드는 우회 명령까지 소개하면서, **프롬프트를 그대로 복사하기보다 자기 조직 구조에 맞게 다듬는 것이 중요하다**고 강조합니다.

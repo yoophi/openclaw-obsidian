@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/sCPjeu7mpOU/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw 225 — quick take
+## OpenClaw 대형 업데이트: 서브에이전트 흐름 개선 중심 정리
 
-This update brings two headline changes: *"heartbeat DM delivery."* and a broad overhaul of the *"sub agent delivery feature."* The video tests both in real workflows: sub-agents now spawn more reliably when asked, keep a much cleaner, task-specific context (useful for research and updating presentations), and the system is far more vocal about progress — you get timeout notices, cron-job tracking, and better cleanup so you can see when background tasks succeed or fail. The presenters show a real example where an orchestrator spun sub-agents to research and rebuild a slide deck, and they demonstrate that the platform reports when sub-agents time out or leave files truncated.
+이 영상은 이번 OpenClaw 업데이트에서 가장 큰 변화로 **하트비트 DM 전달 기능**과 **서브에이전트 전달/실행 흐름 개편**을 꼽습니다. 실제 시연에서는 서브에이전트가 이전보다 더 안정적으로 생성되고, 각 작업에 맞는 맥락을 깔끔하게 유지하며, 진행 상황도 훨씬 잘 드러나는 모습이 소개됩니다. 예를 들어 리서치나 발표자료 업데이트 같은 작업을 맡길 때, 서브에이전트가 별도 문맥에서 일하고 타임아웃, 성공/실패, 정리 상태 같은 정보를 더 잘 알려줘서 백그라운드 작업 추적이 쉬워졌다는 점이 강조됩니다.
 
-Practical caveats: the underlying AI models haven’t changed, so raw intelligence is the same and some sub-agent behaviors remain flaky (truncated slides, occasional failures), meaning you should test sub-agents right after updating and consider splitting large jobs across specialized sub-agents (research, writing, QA, art). The video also notes security/gateway hardening, improved messaging visibility (Telegram/Discord), an Android client update and a forthcoming vision/video feature the hosts haven’t fully tested yet, and recommends more naming/visibility for sub-agents to clarify who’s actually doing the work.
+다만 영상은 한계도 함께 짚습니다. 기반 모델 자체가 바뀐 것은 아니기 때문에 순수한 추론 능력이 갑자기 올라간 것은 아니며, 서브에이전트 작업이 여전히 간헐적으로 불안정할 수 있다고 설명합니다. 따라서 업데이트 직후에는 실제 워크플로우에 맞춰 테스트해보고, 큰 작업은 리서치/작성/검수처럼 여러 전문 서브에이전트로 나누는 편이 좋다고 권합니다. 추가로 보안과 게이트웨이 강화, Telegram/Discord 같은 메시징 가시성 개선, Android 클라이언트 업데이트, 앞으로 나올 비전/비디오 관련 기능도 언급합니다.
