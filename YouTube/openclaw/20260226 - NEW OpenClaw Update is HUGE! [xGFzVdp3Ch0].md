@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/xGFzVdp3Ch0/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw 2.26 — summary
-This release is a stability-focused patch that targets three pain points: cron jobs, secrets handling, and thread-bound agents. The cron fixes address duplicate runs, ignored parallel executions, manual-trigger hangs and timing drift by improving queue drain reliability, raising the safety timeout, and ensuring /stop clears backlogs between threads. *cron jobs are how you automate recurring tasks.* *The new secrets workflow changes that completely with this fix.*
+## 새로운 OpenClaw 업데이트가 왜 큰 변화인지
 
-Secrets gain a safer workflow (audit, configure, apply, reload) to remove plaintext API keys and enable hot reloads at runtime. ACP/thread-bound agents now get proper lifecycle handling and coalesced thread replies to stop message spam. Additional changes: memory embeddings gain a new provider for seven non-English languages (improving semantic search), typing and cross-channel leakage fixes, redaction of sensitive config/session exports, rate limits for voice endpoints, platform updates (native NAS plugin, CLI transport and updater changes), and three breaking changes to check before upgrading (error-detail hiding by default, DM scope default change, and a v1 device migration removal).
+이 영상은 최근 OpenClaw 업데이트가 왜 의미 있는지, 어떤 사용 경험이 달라졌는지를 중심으로 설명합니다. 발표자는 새 버전에서 사용자 입장에서 체감할 수 있는 변화들을 짚으면서, 단순한 버전 숫자 상승이 아니라 실제 워크플로우 개선이 있었는지에 초점을 맞춥니다.
+
+핵심은 OpenClaw의 업데이트를 기능 나열이 아니라 운영 관점에서 평가하는 것입니다. 즉 무엇이 더 편해졌고, 어떤 흐름이 좋아졌고, 실제로 업그레이드할 가치가 있는지가 중요하다는 점을 보여줍니다.

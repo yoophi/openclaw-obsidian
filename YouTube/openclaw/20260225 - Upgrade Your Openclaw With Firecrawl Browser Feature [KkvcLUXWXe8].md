@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/KkvcLUXWXe8/maxresdefault.jpg
 
 ## 한글 요약
-## Upgrade OpenClaw with Firecrawl browser feature
+## Firecrawl Browser 기능으로 OpenClaw 업그레이드하기
 
-The clip demonstrates how to turn OpenClaw into a browser-powered agent by adding Firecrawl’s browser feature so it can handle JavaScript-driven sites. The presenter walks through cloning the OpenClaw repo, running it in Docker, selecting an OpenRouter provider (noting the required model prefix), fixing gateway bind/allowed-origins if needed, and installing/authenticating the Firecrawl CLI so OpenClaw can spawn browser sessions. He emphasizes permission risk when giving powerful access and shows the Firecrawl dashboard’s browser sandbox where sessions and actions (clicks, pagination) are visible.
+이 영상은 Firecrawl의 브라우저 기능을 OpenClaw에 붙여 더 강력한 웹 탐색과 데이터 수집 흐름을 만드는 방법을 설명합니다. 발표자는 일반적인 텍스트 기반 크롤링보다 브라우저 기반 접근이 필요한 경우가 많고, 이런 기능이 연결되면 OpenClaw의 웹 작업 능력이 훨씬 넓어진다고 말합니다.
 
-The practical difference is shown with a scraping test on arirank.dev: OpenClaw’s default extractor only saw a few items because “*it won't be able to click to see more.*” After enabling Firecrawl’s browser feature, the agent opened pages, clicked “see more,” paginated, gathered the table rows and returned the full results — *"it successfully scraped all the LLMs despite it having a dynamic render."* The video also notes a verbosity/glitch in OpenClaw’s TUI where you must scroll up to view the final answer, but otherwise demonstrates that browser-backed scraping recovers data standard extraction misses.
+핵심은 OpenClaw의 성능 자체보다, 어떤 외부 도구를 붙이느냐에 따라 실제 활용 가능 범위가 크게 넓어진다는 점입니다. 즉 이 영상은 OpenClaw 확장 전략의 좋은 예시입니다.

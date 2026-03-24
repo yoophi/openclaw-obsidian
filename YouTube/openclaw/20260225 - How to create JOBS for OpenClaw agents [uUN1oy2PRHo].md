@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uUN1oy2PRHo/maxresdefault.jpg
 
 ## 한글 요약
-## How the creator hires OpenClaw agents as real jobs, not one-off assistants
+## OpenClaw 에이전트를 위한 JOBS 만드는 법
 
-The core argument: treat OpenClaw agents like employees filling repeatable roles rather than ad-hoc personal assistants. The practical payoff is lower hiring thresholds—agents can start with one or two recurring tasks because you pay per task rather than a salary—so you can scale earlier and free your time for higher-value work. The video emphasizes that *"a job is a recurring need."* and shows a three-part system you must build: scheduling/dispatch, stable process documentation, and artifact storage/review.
+이 영상은 OpenClaw에서 JOBS를 설정해 특정 작업을 예약·자동 실행하는 방식을 설명합니다. 발표자는 일회성 대화가 아니라, 반복되거나 시점이 중요한 작업을 시스템에 맡기는 방법을 보여주며, JOBS가 OpenClaw 자동화에서 어떤 역할을 하는지 설명합니다.
 
-Concretely, he built a small ops stack: a Rails dashboard (BMHQ) that schedules and dispatches recurring tasks to specific agents via the OpenClaw gateway, captures execution logs for troubleshooting, and shows task cadence (daily, multiple times per day, weekly, monthly). Processes live as reusable skills on the filesystem—*skills are just folders with a markdown file* plus scripts and references—so improving a skill upgrades every future run. Outputs are stored as markdown artifacts synced via Dropbox and surfaced in a simple editor (Brainown); agents proactively message progress via Telegram and link to the markdown files so you can review work without remoting into the agent host.
+핵심은 사람의 개입 없이도 반복 작업을 안정적으로 수행하게 만드는 운영 루프를 구축하는 것입니다. 그래서 이 영상은 OpenClaw를 진짜 자동화 시스템처럼 쓰고 싶은 사용자에게 특히 유용합니다.

@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/rNtEAbeknEM/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw Mission Control: hands-on test
+## OpenClaw의 새로운 무료 미션 컨트롤 소개
 
-The creator installs OpenClaw’s new, free Mission Control extension and walks through a fresh setup that clones the repo, installs dependencies and runs a local dev server in minutes. The dashboard is a live Kanban-style control room for AI agents: you create tasks (or create them from chat), enable planning mode so the system asks clarifying questions, and it auto-creates specialized agents that appear on a live feed. *"Mission control is a brand new dashboard for open core"*  
+이 영상은 OpenClaw를 더 체계적으로 운영할 수 있도록 돕는 새로운 무료 미션 컨트롤 개념을 소개합니다. 발표자는 단순 채팅창이 아니라, 에이전트 상태와 작업 흐름을 더 명확히 보고 제어할 수 있는 운영 중심 인터페이스가 왜 필요한지 설명합니다.
 
-Mission Control’s agents don’t just spit out text — the reviewer shows them writing code, browsing the web, creating files and delivering completed work back to the board, while you can change models, set priorities, due dates and move cards through planning→in progress→review→done. The presenter calls it the easiest and most polished mission-control UI they’ve tested, recommends using an agent-dispatch framework, and emphasizes that it centralizes agent orchestration and visibility for running many concurrent AI tasks. *"the agent writes the code, browses the web, creates files and builds things"*
+핵심은 OpenClaw가 단순 답변형 도구를 넘어서 여러 작업을 동시에 돌리는 시스템이 되었기 때문에, 이를 관찰하고 관리하는 별도 관제 화면의 가치가 커졌다는 점입니다. 즉 이 영상은 OpenClaw를 더 ‘운영 가능한 시스템’으로 만드는 보조 계층을 보여줍니다.

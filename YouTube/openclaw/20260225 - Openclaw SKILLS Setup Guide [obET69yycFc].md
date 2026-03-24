@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/obET69yycFc/maxresdefault.jpg
 
 ## 한글 요약
-## Openclaw SKILLS Setup Guide — Quick summary
-The video’s core claim is that skills are the most important thing to set up in OpenClaw because they let your agent perform repetitive, specification-driven tasks reliably. The creator shows a custom “presentation” skill (plus a separate deep-research skill) that produces daily briefings and full slide decks automatically, saves them to the correct folder, and can be scheduled as a cron job to run at a fixed time each morning. *skills is the number one most important thing you should get set up on your open claw.*
+## OpenClaw 스킬 설정 가이드
 
-Practical advice: build skills to your own preferences instead of blindly downloading others’ skills, store behaviors as skills rather than relying on the agent’s transient memory, and update skills by simply telling the bot how you want slides, colors, or research tuned. The presenter emphasizes that the agent “dies” (loses context) daily, so skills act as persistent, refreshable instructions — *the skill makes it much smarter.* He also flags using skill-hub for inspiration but recommends human review before importing third-party skills.
+이 영상은 OpenClaw에서 스킬을 어떻게 추가하고 설정하는지, 그리고 왜 스킬이 중요한지를 설명합니다. 스킬은 OpenClaw가 단순 대화형 AI를 넘어서 실제 작업을 할 수 있게 만드는 핵심 확장 지점이기 때문에, 발표자는 설정 방식과 활용 포인트를 단계별로 소개합니다.
+
+핵심은 스킬을 많이 넣는 것보다, 자신의 워크플로우에 맞는 스킬을 정확히 연결하는 것이 중요하다는 점입니다. 이 영상은 OpenClaw의 확장 구조를 처음 이해하려는 사용자에게 기본기를 잡아주는 가이드입니다.

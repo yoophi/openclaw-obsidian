@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/9Svv-n11Ysk/maxresdefault.jpg
 
 ## 한글 요약
-## I Replaced OpenClaw With Claude Code in One Day
+## OpenClaw를 Claude Code로 하루 만에 교체한 이유
 
-The creator demonstrates a local "Claude Code" setup that replaces OpenClaw by running a Claude subprocess on a personal desktop and bridging it to Telegram via Anthropics’ agent SDK, giving remote, multimodal access (video, voice, images) to the same skills already installed locally. He shows a live demo where a short video is uploaded and, after ~30–40 seconds, Claude returns a scene interpretation; the end-to-end message pipeline (Telegram → API → media handler → agent SDK → memory injection → Claude subprocess → response formatting → Telegram) can complete routine queries in seconds. *It's just as good if not better than openclaw out of the box.* 
+이 영상은 발표자가 OpenClaw를 사용하다가 Claude Code 중심의 흐름으로 빠르게 전환한 경험을 설명합니다. 핵심은 특정 도구가 유행이라서가 아니라, 실제 작업 흐름에서 더 단순하고 직관적이며 원하는 결과를 더 빨리 얻을 수 있었느냐입니다. 발표자는 OpenClaw가 분명 강력하지만, 자신이 원하는 사용 방식에는 Claude Code 쪽이 더 잘 맞았다고 평가합니다.
 
-Key engineering details: memory is layered—session IDs for conversation persistence, SQLite plus vector-based semantic memory and episodic decay for long-term context, and a context-injection step that searches top memories before each response. The agent SDK spawns a local Claude subprocess so tool calls and cron jobs (proactive scheduling) run on your machine; that creates a single unified runtime for desktop and mobile use. Setup is automated by a "mega prompt" wizard that asks preferences (voice engine, memory type, feature toggles) and can clone repos or reconfigure services; the author notes other CLI-capable models could substitute for Claude. *you have one unified system, one unified AI operating system*
+즉 이 영상은 절대적인 우열 비교보다는, 사용자마다 중요하게 보는 기준이 다르다는 점을 보여줍니다. 어떤 사람에게는 OpenClaw의 확장성과 자동화가 매력적이지만, 다른 사람에게는 더 직접적이고 예측 가능한 개발 경험이 더 중요할 수 있다는 이야기입니다.

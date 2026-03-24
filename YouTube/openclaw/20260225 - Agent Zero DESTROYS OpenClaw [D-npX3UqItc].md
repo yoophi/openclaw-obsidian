@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/D-npX3UqItc/maxresdefault.jpg
 
 ## 한글 요약
-## Agent Zero vs OpenClaw — quick summary
+## Agent Zero가 OpenClaw를 압도한다는 주장에 대한 사례
 
-The video’s core claim is that Agent Zero is a more capable, privacy-first open-source agentic AI framework than OpenClaw, and it’s already mature and community-backed. *"Agent Zero destroys OpenClaw."* Agent Zero runs inside a Docker container on your machine with full Linux-level access, persistent memory, and transparent, editable prompts; *"It can write code, run that code, install software, search the web, browse websites, manage files, and create tools it doesn't have yet."* It’s model-agnostic (works with cloud providers or fully local models via Olma), can spawn subagents for complex multi-step workflows, and stores what worked so it improves over time.
+이 영상은 Agent Zero가 OpenClaw보다 더 강력하거나 더 실용적이라는 비교 관점을 제시합니다. 발표자는 성능, 실행 방식, 사용성, 작업 결과 등을 바탕으로 두 시스템을 비교하며, 특정 상황에서는 Agent Zero가 더 나은 선택이 될 수 있다고 설명합니다.
 
-The presenter contrasts that with OpenClaw’s strengths and weaknesses: OpenClaw went viral for making assistant-style automation easy (WhatsApp/Telegram integrations), but had documented security issues in a third‑party skill and rapid, uncertain growth after its creator moved to a different employer. Agent Zero emphasizes sandboxing (Docker), a privacy-respecting web search option (se XNG), editable behaviors, and an architecture intended for long-running, system-level automation rather than just chat-based personal assistants. Bottom line: pick OpenClaw for quick messaging-integrated assistants; pick Agent Zero for hands-on, autonomous, system-level tasks that need privacy, extensibility, and local control.
+핵심은 OpenClaw가 무조건 최고라는 전제를 깨고, 목적에 따라 다른 에이전트 프레임워크가 더 적합할 수 있다는 점입니다. 이런 비교 영상은 도구 자체보다도, 실제 업무 흐름에 어떤 구조가 더 맞는지 재평가하게 만든다는 점에서 의미가 있습니다.
