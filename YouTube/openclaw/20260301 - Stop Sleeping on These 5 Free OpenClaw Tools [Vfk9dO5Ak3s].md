@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Vfk9dO5Ak3s/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
+## 사람들이 놓치고 있는 무료 OpenClaw 도구 5가지
 
-This clip picks five free tools the creator tested that reliably extend OpenClaw agents’ capabilities: AgentMail (agent-specific email accounts you connect via an API key), here.now (instant hosting that returns a shareable URL), Tavly/Tavali (agent-focused web search with generous free queries), Firecrawl (turns web pages into clean, AI-ready scraped data), and Remotion (programmatic video creation and voice-driven edits on a usable free tier). The core claim is that these tools remove a lot of wiring and brittle automations—give your agent an API key and it handles setup and use. *"OpenClaw is changing the game."*
+이 영상은 OpenClaw 사용자들이 같이 쓰면 좋은 무료 도구 다섯 가지를 소개합니다. 발표자는 기본 설치만으로는 아쉬운 부분을 이런 보조 도구로 보완할 수 있다고 설명합니다.
 
-Evidence and examples: AgentMail bypasses common Gmail bot restrictions by letting an agent use its own mailbox and API key to send and log messages; here.now was shown hosting a full marketing plan as an immediately shareable URL (temporary without an account, permanent with one); Tavly is presented as faster and cheaper for agent searches than the paid browser API the presenter used before; Firecrawl scrapes competitor pages and extracts product/pricing details into clean data; Remotion generated a short promo video and was edited by voice. Integration is repeatedly described as copying an API key into your agent and instructing it to use that tool, which the presenter says simplified previously tedious automation work. *"It just makes it super duper easy."*
+핵심은 OpenClaw의 가치가 본체 하나에만 있는 것이 아니라, 주변 도구와의 조합에서 훨씬 커진다는 점입니다. 어떤 확장 도구를 붙이느냐가 실제 효용을 많이 좌우합니다.

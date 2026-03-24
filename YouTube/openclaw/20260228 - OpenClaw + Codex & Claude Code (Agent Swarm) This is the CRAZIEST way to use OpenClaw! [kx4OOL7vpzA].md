@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kx4OOL7vpzA/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This clip explains a reported "one-person dev team" built by orchestrating OpenClaw, Codex, Claude Code and Gemini into an agent swarm that claimed 94 commits in a day, seven pull requests in 30 minutes, and an operating cost of roughly $100–$190/month. The core architecture is two-tier: an OpenClaw orchestrator agent called Zoey holds business context in an Obsidian vault and spawns specialized coding agents (Codex, Claude Code, Gemini) that only write code; *Zoey holds all the business context* and converts that context into focused prompts so coding agents don’t need product-level knowledge.
+## OpenClaw + Codex + Claude Code: 가장 과격한 활용 방식 중 하나
 
-The workflow includes agent spawning with isolated git worktrees and tmux sessions, a monitoring cron every ten minutes that checks active sessions, PR status and CI health and retries failing agents up to three times, and automated PR creation where "done" means branch synced and CI passing (PRs that change UI must include screenshots or CI fails). Each PR is auto-reviewed by three models (a Codex-style reviewer for logic, Gemini for UI/security/scalability sensibilities, and Claude Code for final validation), CI runs lint/TypeScript/unit/E2E tests, and human merges often happen in 5–10 minutes; a Ralph Loop V2 feedback mechanism dynamically edits prompts from failure analysis and the system tracks tasks in cloudbot/active-tasks.js. The main practical limit is RAM — each agent loads its own node_modules, compiler and test runner, so running several agents concurrently can saturate a 16 GB machine. *The real power isn't in any single AI coding tool*
+이 영상은 OpenClaw에 Codex와 Claude Code 같은 개발 에이전트를 붙여, 사실상 스웜처럼 동작하는 흐름을 보여줍니다. 발표자는 서로 다른 역할의 도구를 조합할 때 작업 분해와 병렬 실행이 얼마나 강력해질 수 있는지 설명합니다.
+
+핵심은 OpenClaw를 단독으로 쓰는 것보다, 강한 코딩 도구들과 연결했을 때 훨씬 복합적인 자동화가 가능하다는 점입니다. 개발 생산성 관점에서 특히 흥미로운 사례입니다.

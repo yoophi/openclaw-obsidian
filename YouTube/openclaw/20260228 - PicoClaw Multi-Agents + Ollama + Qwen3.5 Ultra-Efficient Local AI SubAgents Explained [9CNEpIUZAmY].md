@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/9CNEpIUZAmY/maxresdefault.jpg
 
 ## 한글 요약
-## PicoClaw subagents: setup, test, and current limits
+## PicoClaw 멀티 에이전트 + Ollama + Qwen3.5 설명
 
-This tutorial shows how to enable PicoClaw’s new subagent feature, how to configure models and profiles, and how to test spawning subagents locally (example uses an OpenAI-compatible endpoint, Ollama and Qwen3.5/27B). Key config changes are: set restrict_to_workspace (default true) to false for testing, declare a subagent list with one agent marked *default = true* (the lead agent), and configure the model entries (model name, api_base, api_key). Installation steps covered: install Go, install Ollama/compatible model, clone PicoClaw repo and run make install, then run the agent CLI to send messages and view logs.
+이 영상은 PicoClaw와 Ollama, Qwen3.5를 결합한 초고효율 로컬 멀티에이전트 구성을 설명합니다. 발표자는 로컬 모델 기반에서도 멀티에이전트 흐름을 꽤 실용적으로 만들 수 있고, 비용과 통제 측면에서 장점이 크다고 설명합니다.
 
-The demo spawns a research agent that should spawn a fast subagent to fetch Seattle weather; logs show the spawn succeeded but the parent can’t retrieve the child’s result: *successfully spawn a sub aent using the fast profile* and *but it cannot really find anything for that specific sub aent task.* Observations: the system creates an async/background subagent and runs workspace-level shell checks (ls, etc.), but there’s no separate visible process or built-in tool to wait for/collect the subagent’s output, so the lead agent falls back to performing the task itself. Practical notes: top-level orchestration (A calls B, A calls C) works for sequential agents, but nested chains where a subagent spawns another subagent do not reliably return results yet. The subagent implementation and sample test configs live in package.tools (recently added), so reviewers can inspect the new code and example configs in the repo.
+핵심은 OpenClaw 계열 생태계가 꼭 클라우드 대형 모델에만 의존하지 않아도 된다는 점입니다. 로컬 기반 자동화의 대안을 찾는 사람에게 유용한 내용입니다.

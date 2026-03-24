@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/QvfqAMUJTT4/maxresdefault.jpg
 
 ## 한글 요약
-## 3 tools that make OpenClaw actually useful
+## OpenClaw를 실제로 유용하게 만들어주는 3가지 도구
 
-This clip demonstrates three add-ons that turn a bare OpenClaw install into a practical, agentic assistant. First, Agent Mail gives the agent a dedicated programmatic inbox (there’s an Agent Mail skill on Clawub you can install) so OpenClaw can receive, summarize, and act on emails. Second, QMD replaces OpenClaw’s simple keyword memory with a local hybrid search (keyword + vector + LLM re-ranker) so past work is found even when you don’t repeat exact terms; it runs locally with small models so no external API costs. Third, Agent Browser is a command-line, agent-focused browser that simulates clicks, fills forms, takes screenshots and interacts like a user but with far fewer tokens than Playwright, plus basic guard rails against prompt injection and an Electron controller for desktop apps.
+이 영상은 OpenClaw를 그냥 흥미로운 데모가 아니라 실제로 쓸 만한 시스템으로 바꿔주는 세 가지 도구를 소개합니다. 발표자는 각각의 도구가 OpenClaw의 어떤 빈틈을 메우는지 설명하며, 조합의 중요성을 강조합니다.
 
-The video stresses ease of setup (Cloud Code can provision the skills for you) and a couple of practical notes: install Clawub carefully because some community packages have raised safety concerns, and QMD is recommended as the single most impactful upgrade for consistent memory. Demonstrations show OpenClaw surfacing forwarded email summaries into Telegram, QMD improving recall of past sessions, and Agent Browser visiting Hacker News, taking a screenshot, and returning a distilled list of trending topics. *Out of the box, OpenClaw actually doesn't have its own email.* *this is a much better way to interact with and search your memories in OpenCloud.*
+핵심은 OpenClaw를 제대로 쓰려면 본체만 보는 게 아니라, 실제 사용 흐름을 보완하는 주변 도구까지 함께 설계해야 한다는 점입니다.

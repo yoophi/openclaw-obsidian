@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/esuPIJeRotI/maxresdefault.jpg
 
 ## 한글 요약
-## This Openclaw Trick Makes Single Agents Obsolete
+## 단일 에이전트를 낡은 방식으로 만드는 OpenClaw 트릭
 
-*Most people using OpenClaw are doing it wrong.* Using one agent for everything overwhelms its context window and creates “prompt pollution” (conflicting instructions like “be concise” vs “be thorough”), prevents parallel work, and makes failures affect every task instead of isolating them.
+이 영상은 OpenClaw에서 특정한 운영 패턴을 사용하면 단일 에이전트 중심 사고를 넘어설 수 있다고 설명합니다. 발표자는 역할 분리, 위임, 맥락 분산 같은 구조를 통해 한 에이전트에게 모든 걸 몰아주는 방식을 벗어날 수 있다고 말합니다.
 
-OpenClaw offers two practical fixes: the route method and the terminal method. The route method keeps focused sub-agent prompts as markdown files inside your project (create a folder like check_email and a file such as check_email.md, then add a route command in your root agents file—agents.mmd/agents.md—to spin that sub-agent up). The terminal method uses the command openclaw agents add <name> to create a fully separate workspace, prompt file, and toolset for agents that need different files, permissions, or web access. Start by adding 2–3 route-based specialists for the same repo, then graduate isolated terminal agents when you need true separation; many setups combine both for best results. *This agent doesn't know anything about your codebase, your deployment pipeline or anything else.*
+핵심은 성능을 올리는 비결이 더 큰 모델 하나가 아니라, 더 나은 작업 구조일 수 있다는 점입니다.

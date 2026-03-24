@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Qbw40hXdImc/maxresdefault.jpg
 
 ## 한글 요약
-## ClawX brings OpenClaw to a usable desktop app
+## ClawX: OpenClaw용 무료 데스크톱 앱 소개
 
-Claw X is a free desktop wrapper that puts OpenClaw behind a graphical UI so you don’t need the command line to run agents. *"Claw X fixes that."* It installs via a setup wizard, runs OpenClaw locally inside the app, and exposes a chat interface, scheduler and process management so agents can run 24/7 without manual terminal commands. *"you don't need to type commands."*
+이 영상은 ClawX라는 무료 데스크톱 앱을 소개하며, OpenClaw를 좀 더 편하게 다루는 별도 인터페이스가 왜 필요한지 설명합니다. 발표자는 사용성을 개선하는 UI 계층이 있으면 OpenClaw의 진입 장벽이 낮아지고 관리도 쉬워진다고 봅니다.
 
-The app shows a dashboard/“mission control” with channels (Telegram, Discord, WhatsApp), model/provider configuration, skills/plugins, and scheduled tasks, and it accepts a GitHub URL to install OpenClaw integrations directly. You can add AI providers (transcript mentions “O Lama” plus other providers), switch themes/languages, connect bots by token or QR, and download updates from the UI. Expect typical open-source rough edges: the presenter notes bugs and flaky updating behaviour, so it’s powerful but not as polished as commercial offerings.
+핵심은 OpenClaw 생태계가 엔진만이 아니라, 그 위에서 더 쉽게 다루게 해 주는 앱과 도구들로 확장되고 있다는 점입니다.
