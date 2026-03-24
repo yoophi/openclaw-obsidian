@@ -1,59 +1,27 @@
 ---
-title: "New OpenClaw Update: Heartbeat + Subagents"
-source: "https://www.youtube.com/watch?v=uKzcoFaaAhc"
-original_url: "https://www.youtube.com/watch?v=uKzcoFaaAhc"
 youtube_id: "uKzcoFaaAhc"
-playlist: "📙 openclaw"
+title: "New OpenClaw Update: Heartbeat + Subagents"
 channel: "Julian Goldie SEO"
-duration: "10:38"
 publish_date: "2026-02-26T05:01:47-08:00"
-playlist_index: 47
-generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 18:14:35 +0900"
+original_url: "https://www.youtube.com/watch?v=uKzcoFaaAhc"
+thumbnail: "https://i.ytimg.com/vi/uKzcoFaaAhc/maxresdefault.jpg"
+playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF8Ql9OBo"
+tags:
+  - youtube-summary
+  - openclaw
 ---
 
 # New OpenClaw Update: Heartbeat + Subagents
 
-## Video Info
+## 영상 정보
+- 채널: Julian Goldie SEO
+- 게시일: 2026-02-26T05:01:47-08:00
+- 원본 URL: https://www.youtube.com/watch?v=uKzcoFaaAhc
+- 썸네일: https://i.ytimg.com/vi/uKzcoFaaAhc/maxresdefault.jpg
 
-- Original URL: https://www.youtube.com/watch?v=uKzcoFaaAhc
-- Channel: Julian Goldie SEO
-- Title: New OpenClaw Update: Heartbeat + Subagents
-- Published: 2026-02-26T05:01:47-08:00
-- Duration: 10:38
-- Playlist: 📙 openclaw
-- Playlist Index: 47
+## 한글 요약
+## New OpenClaw update: Heartbeat + Subagents
 
-## Description
+This update (25th February) restores heartbeat DMs so your assistant actually pings you again and overhauls how helper subagents deliver results, plus a set of security and reliability fixes. *Heartbeat DM deliveries back on.* The core user-facing change: heartbeat checks are on by default again (you can still toggle via the agent config), so you won’t be left “shouting into an empty room.”  
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about
-
-Get a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about
-
-Want to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about
-
-Get a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian
-
-Get the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about
-
-OpenClaw Update: Heartbeat DMs & Sub-Agent Fixes (Feb 25)
-
-Discover everything new in the latest OpenClaw update, including the return of heartbeat DMs and a complete overhaul of sub-agent messaging. We walk through a live update demonstration and explain how these security and performance fixes improve your AI assistant's reliability.
-
-00:00 - Intro: OpenClaw Update
-01:24 - Exploring the Change Log
-02:03 - How to Update OpenClaw
-03:32 - Verifying the New Version
-04:53 - What is OpenClaw?
-05:28 - Heartbeat DM & Sub-Agents
-08:30 - AI Automation Community
-
-## Summary
-
-## New OpenClaw update (Feb 25) — what's fixed and why it matters
-
-This release restores heartbeat DM delivery and rebuilds subagent messaging, plus a bundle of security fixes for OpenClaw integrations (Slack, Discord, Telegram and OpenCore). *Heartbeat DM deliveries back on.* *Your assistant can reach you again.* Those two fixes are the headline: the assistant’s periodic “still working” pings now go to your DMs again by default, and the helper subagents that run background tasks no longer silently drop or mis-route results.
-
-Under the hood the subagent delivery flow was rewritten as a state machine: deliveries follow a checklist, use fallback routes on failure, and only mark tasks complete when delivery is confirmed, which addresses lost messages and cleanup problems. The update also addresses platform-specific bugs (for example Telegram reporting false deliveries), Slack thread/session context and routing errors (silent overflow, wrong routing, oversized page blocks), improved startup/chat streaming and markdown handling on Android, and new agent/heartbeat configuration options so you can disable heartbeat DMs per agent or via the config file.
-
-How to get it: enable automatic updates in Settings → All settings → Updates (the creator shows updating to the Feb 25 build and version 2025). Expect occasional instability during live updates — the gateway may pause or stop responding briefly and some users have needed to reinstall or restart the OpenCore daemon if it fails completely. Net effect for users: more reliable, auditable message delivery from subagents, restored heartbeat visibility, and tighter security for messaging integrations, though the creator notes the project has grown more buggy as it’s expanded.
+The subagent delivery pipeline was rebuilt as a state machine that retries and uses backup routes and only marks tasks complete when delivery is confirmed, fixing lost or falsely “delivered” messages (Telegram was singled out for a delivery-report bug). Slack thread handling and context inheritance were corrected to stop silent overflows and wrong routing, and there are improvements to startup performance, streaming/markdown handling, agent config, and DM delivery. To get the update you can enable automatic updates under Config → All Settings → Updates or trigger a manual upgrade; the presenter notes the gateway may pause briefly during upgrades and, in some cases, a reinstall resolves persistent failures. *The whole delivery process was rebuilt from scratch using what's called a state machine.*
