@@ -1,56 +1,27 @@
 ---
-title: "OpenClaw + PaperClip is INSANE!"
-source: "https://www.youtube.com/watch?v=49_WitY66yM"
-original_url: "https://www.youtube.com/watch?v=49_WitY66yM"
 youtube_id: "49_WitY66yM"
-playlist: "📙 openclaw"
+title: "OpenClaw + PaperClip is INSANE!"
 channel: "Julian Goldie SEO"
-duration: "15:27"
 publish_date: "2026-03-11T14:00:04-07:00"
-playlist_index: 20
-generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 17:55:13 +0900"
+original_url: "https://www.youtube.com/watch?v=49_WitY66yM"
+thumbnail: "https://i.ytimg.com/vi/49_WitY66yM/maxresdefault.jpg"
+playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF8Ql9OBo"
+tags:
+  - youtube-summary
+  - openclaw
 ---
 
 # OpenClaw + PaperClip is INSANE!
 
-## Video Info
+## 영상 정보
+- 채널: Julian Goldie SEO
+- 게시일: 2026-03-11T14:00:04-07:00
+- 원본 URL: https://www.youtube.com/watch?v=49_WitY66yM
+- 썸네일: https://i.ytimg.com/vi/49_WitY66yM/maxresdefault.jpg
 
-- Original URL: https://www.youtube.com/watch?v=49_WitY66yM
-- Channel: Julian Goldie SEO
-- Title: OpenClaw + PaperClip is INSANE!
-- Published: 2026-03-11T14:00:04-07:00
-- Duration: 15:27
-- Playlist: 📙 openclaw
-- Playlist Index: 20
+## 한글 요약
+## PaperClip + OpenClaw: autonomous AI companies
 
-## Description
+This video demos PaperClick, an open-source orchestration that turns OpenClaw into a full AI-run company—no code and no human hires required. The presenter installs PaperClick from GitHub inside OpenClaw, sets a company mission, creates a CEO agent that spawns and hires roles (CMO, founding engineer, etc.), and shows agents waking on schedules, assigning tasks, checking an inbox, and coordinating work in an org chart and dashboard. *This is a virtual company where AI agents have bosses get assigned work check in on a schedule and actually coordinate with each other.*
 
-Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about
-
-Video notes + links ot the tools 👉 https://www.skool.com/ai-profit-lab-7462/about
-
-Get a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about
-
-Build a Zero Employee AI Company with PaperClick & OpenClaw
-
-Discover how to use PaperClick, a new open-source tool that automates entire business structures with AI agents. This step-by-step guide shows you how to integrate OpenClaw to build an autonomous team that runs your company for free.
-
-00:00 - Intro: AI Companies with Zero Employees
-01:10 - How to Install PaperClick
-01:36 - Setting Up Your First AI CEO
-02:38 - Dashboard & Org Chart Walkthrough
-04:04 - Hiring AI Marketing & Engineering Teams
-08:18 - The 5 Layers of an AI Company
-11:16 - 30-Day Plan & Scaling with AI
-
-## Summary
-
-## OpenClaw + PaperClip — quick summary and verdict
-Paperclip is an open‑source orchestration layer you install into OpenClaw that turns your setup into a virtual company: an org chart of AI agents with job titles, bosses, scheduled “heartbeats,” task assignment and approvals. It requires no code to start, runs with models like GPT‑5.4 and Claude in the demo, and is designed so every agent’s work ties back to a shared mission. *This is a virtual company where AI agents have bosses get assigned work check in on a schedule and actually coordinate with each other.* *Paperclip takes that goal and every single task your AI agent does traces back to that.*
-
-How it works (practical flow)
-Install by pointing OpenClaw at the Paperclip GitHub repo, then configure a company name, mission and the first agents inside the Paperclip dashboard. You can create a CEO agent (or have the CEO auto‑provision other roles like CMO, CTO, content manager), assign tasks through an inbox, and watch agents run assignments, produce deliverables, or request approvals. The UI shows org chart relationships, activity logs and cost tracking; if integrations error you can patch them in OpenClaw and re-run onboarding.
-
-Governance, safety and use cases
-Paperclip enforces a governance layer: agents must seek approvals for hires, budgets or major actions so humans act as the board. Agents “wake” on schedules to check work (the heartbeat), and one Paperclip instance can run multiple isolated companies. Practical cautions in the demo include checking skill MD files when installing agent packs and considering secure deployment (mworker/Cloudflare was suggested for hardened OpenClaw).
+PaperClick is organized into five layers: mission control (goal-driven tasks), org chart (roles, reporting lines, job descriptions), heartbeat (scheduled wake/execute cycles), governance (approvals, budgets, board oversight) and multi-company support (run isolated companies from one dashboard). The demo assigns content and marketing tasks, connects OpenClaw as an execution agent, watches the CEO agent create and approve hires, tracks activity and cost, and notes occasional integration errors and security cautions when installing skill files. *PaperClick takes that goal and every single task your AI agent does traces back to that.* The tool is shown working with large models in the demo and is distributed on GitHub as open source.
