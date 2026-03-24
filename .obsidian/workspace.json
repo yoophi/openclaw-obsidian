@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkDeck Development History - 2026-03-14 01-32.md",
+                "file": "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MarkDeck Development History - 2026-03-14 01-32"
-            }
-          }
-        ]
-      },
-      {
-        "id": "57a96494b9671c17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "870cb646511cbb7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/frontend/react-native-동향.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "react-native-동향"
+              "title": "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력"
             }
           }
         ]
@@ -205,42 +185,42 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
-    "YouTube/openclaw/ZioSec/083 - How to Set Up OpenClaw (Clawdbot) Without Getting Hacked Isolation + Least Privilege + Firewall.md",
-    "YouTube/openclaw/ZioSec",
-    "YouTube/openclaw/Peter Yang/082 - How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes Peter Steinberger.md",
-    "YouTube/openclaw/Peter Yang",
-    "YouTube/openclaw/Stack Snacks/081 - Why I Prefer Zo Over OpenClaw.md",
-    "YouTube/openclaw/Stack Snacks",
     "YouTube/openclaw/소스놀이터/080 - ㄷㄷㄷ 클로드봇 복제 성공! 이제 텔레그램으로 일 시키세요. 클로드 구독 기반이라 비용, 보안 모두 걱정 없음. 사진 & 위치에다 메모리 기능까지.md",
-    "YouTube/openclaw/Cole Medin/079 - I Built a Safer OpenClaw Alternative Using Claude Code.md",
-    "YouTube/openclaw/Cole Medin",
-    "YouTube/openclaw/WorldofAI/078 - OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!.md",
-    "YouTube/openclaw/WorldofAI",
-    "YouTube/openclaw/Clearmud/077 - I have 25 AI Agents working 24 7 with Openclaw.md",
-    "YouTube/openclaw/Alex Finn/076 - 100 hours of OpenClaw lessons in 35 minutes.md",
-    "YouTube/openclaw/Manolo Remiddi/075 - I turned OpenClaw into a Beast. (ResonantOS Memory Fix).md",
-    "YouTube/openclaw/Manolo Remiddi",
-    "YouTube/openclaw/Matthew Berman/074 - 21 INSANE Use Cases For OpenClaw.md",
-    "YouTube/openclaw/Dave Swift/073 - My OpenClaw Is Forgetting Everything — Here's How I Fixed It.md",
-    "YouTube/openclaw/Dave Swift",
-    "YouTube/openclaw/The Next New Thing/072 - 🚨 Do NOT use Claude in OpenClaw.md",
-    "YouTube/openclaw/The Next New Thing",
-    "YouTube/openclaw/Devs Kingdom/071 - PicoClaw + Ollama + GLM-4.7-Flash Ultra-Efficient Local OpenClaw Fork.md",
-    "YouTube/openclaw/JavaScript Mastery/070 - Deploy Your Own AI Agent in 45 Minutes Beginner OpenClaw Tutorial.md",
-    "YouTube/openclaw/JavaScript Mastery",
+    "YouTube/openclaw/소스놀이터/066 - 오픈클로가 하는건 다한다. 소놀봇 - 클로드 코드에 이어 코덱스도 동시 지원! 무한 봇 생성 기능에 데몬 실시간 응답까지!.md",
+    "YouTube/openclaw/소스놀이터",
+    "YouTube/openclaw/방구석 리뷰룸/052 - M4 맥미니가 품절된 진짜 이유 🤯 오픈클로 실제로 어떻길래 논란일까.md",
+    "YouTube/openclaw/방구석 리뷰룸",
+    "YouTube/openclaw/대모산 개발단/030 - 미쳐버린 OpenClaw, 직접 설치해봤습니다.md",
+    "YouTube/openclaw/대모산 개발단",
+    "YouTube/openclaw/눈쟁이/029 - 자비스 프로토타입 오픈클로 2주 사용기.md",
+    "YouTube/openclaw/눈쟁이",
     "YouTube/openclaw/scrollypedia/069 - OpenClaw Architecture Explained Gateway, Runtime, Skills, and Security.md",
     "YouTube/openclaw/scrollypedia",
-    "YouTube/openclaw/VelvetShark/068 - 50 days with OpenClaw The hype, the reality & what actually broke.md",
-    "YouTube/openclaw/Dubibubii/067 - OpenClaw Use Cases Nobody's Talking About.md",
-    "YouTube/openclaw/소스놀이터/066 - 오픈클로가 하는건 다한다. 소놀봇 - 클로드 코드에 이어 코덱스도 동시 지원! 무한 봇 생성 기능에 데몬 실시간 응답까지!.md",
-    "YouTube/openclaw/Tech Bridge/065 - Mac Mini에 OpenClaw 깔았더니, 개발 업무가 사라졌습니다.md",
-    "YouTube/openclaw/Larue/064 - How to Make OpenClaw 10x More Powerful.md",
-    "YouTube/openclaw/Jacob Klug/063 - OpenClaw Built This $250K Mission Control in a Single Prompt.md",
-    "YouTube/openclaw/Agentic Lab/062 - How OpenClaw Works (and why you should build your own).md",
+    "YouTube/openclaw/ZioSec/083 - How to Set Up OpenClaw (Clawdbot) Without Getting Hacked Isolation + Least Privilege + Firewall.md",
+    "YouTube/openclaw/ZioSec",
     "YouTube/openclaw/ZeroCho TV/061 - OpenClaw 3주 사용해봤더니 이제 없으면 못 살겠습니다... 너무 좋아요 오픈클로 ai agent 비서.md",
-    "YouTube/openclaw/Julian Goldie SEO/060 - OpenClaw New FREE Mission Control.md",
-    "YouTube/openclaw/Adam Goodyer/059 - I Tamed Claude & OpenClaw with BMAD v6 — Free Framework Breakdown.md",
+    "YouTube/openclaw/Zach Babiarz/036 - Stop Sleeping on These 5 Free OpenClaw Tools.md",
+    "YouTube/openclaw/Zach Babiarz",
+    "YouTube/openclaw/WorldofAI/078 - OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!.md",
+    "YouTube/openclaw/WorldofAI",
+    "YouTube/openclaw/Vibe with AI/043 - Openclaw Henry - My 24 7 Agent on Mac Mini (Detailed Setup).md",
+    "YouTube/openclaw/Vibe with AI",
+    "YouTube/openclaw/VelvetShark/068 - 50 days with OpenClaw The hype, the reality & what actually broke.md",
+    "YouTube/openclaw/VelvetShark",
+    "YouTube/openclaw/The Next New Thing/072 - 🚨 Do NOT use Claude in OpenClaw.md",
+    "YouTube/openclaw/Tech Bridge/065 - Mac Mini에 OpenClaw 깔았더니, 개발 업무가 사라졌습니다.md",
+    "YouTube/openclaw/Stack Snacks/081 - Why I Prefer Zo Over OpenClaw.md",
+    "YouTube/openclaw/SoftwareGent/034 - I Build a FREE OpenClaw with Antigravity + Opencode (It’s INSANE).md",
+    "YouTube/openclaw/Sean Matthew/057 - I Gave OpenClaw Its Own Computer (Here's Why).md",
+    "YouTube/openclaw/Sean Matthew/033 - 3 Tools That Make OpenClaw Actually Useful.md",
+    "YouTube/openclaw/Sean Matthew/021 - My OpenClaw Broke - Here's How I Fixed It.md",
+    "YouTube/openclaw/Peter Yang/082 - How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes Peter Steinberger.md",
+    "YouTube/openclaw/Openclaw Labs/042 - Openclaw Memory Mistake You're Making Right Now.md",
+    "YouTube/openclaw/Openclaw Labs/028 - This Openclaw Trick Makes Single Agents Obsolete.md",
+    "YouTube/openclaw/Openclaw Labs/027 - 5 OpenClaw Hacks That Replace Team Members.md",
+    "YouTube/openclaw/Openclaw Labs/015 - OpenClaw Doesn't Work Until You Do This.md",
     "YouTube/openclaw/OpenAI/058 - Builders Unscripted Ep. 1 - Peter Steinberger, Creator of OpenClaw.md",
+    "YouTube/openclaw/Onchain AI Garage/022 - Better than OpenClaw Testing Hermes Agent w Qwen 3 model.md",
     "public/static/og-image.png",
     "public/static/icon.png",
     "node_modules/cli-spinner/img/spinner.gif",
