@@ -1,26 +1,39 @@
 # By Topic
 
-## comparison (4)
+## comparison (5)
+- [[20260221 - AI 잘 쓰는 팀 vs 망하는 팀, 딱 하나 차이입니다 [7GjRM2uv-6E]]] — 메이커 에반 | Maker Evan
 - [[20260305 - Claude Code Skills Just Got Even Better [RAZVk5NPNtE]]] — Nate Herk | AI Automation
 - [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]]] — AICodeKing
 - [[20260307 - T3 Code Better Than Codex [6x7hh6Qzm9U]]] — Better Stack
 - [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
 
-## general (53)
+## general (65)
 - [[20230425 - Tmux has forever changed the way I write code. [DzNmUNvnB04]]] — Dreams of Code
 - [[20240308 - Tmux will SKYROCKET your productivity - here’s how [niuOc02Rvrc]]] — typecraft
 - [[20250327 - Vibe Coder Tries Neovim [CbQGeaa8XrQ]]] — Bog
 - [[20251210 - BMAD v6 The Future of Coding. [Zo6_d_xdgRY]]] — Adam Goodyer
 - [[20251212 - The Best Coding Agent is... (and how I use them) [kSipXea2TbE]]] — Ben Davis
 - [[20260120 - Best AI Coding CLI (Claude Code, Codex, OpenCode Alternative) [P3onJNQhS60]]] — Tech With Turis
+- [[20260121 - 당신이 원하던 n8n 2026 버전 마스터클래스! 8시간 완전정복 기초강의. 실전 프로젝트로 '자동화 괴물'이 됩니다 🚨🚨 [LR2vONAVEYk]]] — 샘 호트만 : AI 엔지니어의 시선
 - [[20260125 - Short Demo of my Pi Todo Extension [uPR7aAneg2U]]] — Armin Ronacher
 - [[20260128 - 미쳤다. 클로드 코드로 클로드봇(ClaudeBot) 그냥 만들어버림 ㄷㄷ (심지어 공짜로 사용 가능) [fM7Tg_bK10I]]] — 소스놀이터
 - [[20260218 - TMUX + Claude Agent Teams = Game Changer [Dyj9ShddyMw]]] — Eric Tech
 - [[20260221 - Pi Coding Agent - Visual Plan Mode Extension [XqFun9XCXPw]]] — Michael
 - [[20260221 - 오픈클로가 하는건 다한다. 소놀봇 - 클로드 코드에 이어 코덱스도 동시 지원! 무한 봇 생성 기능에 데몬 실시간 응답까지! [17BB1fLdyfQ]]] — 소스놀이터
+- [[20260223 - Design with Claude Code The Designer’s Guide [JMQ0X_si144]]] — UI Collective
+- [[20260223 - How I Use Obsidian + Claude Code to Run My Life [6MBq1paspVU]]] — Greg Isenberg
 - [[20260223 - The Pi Coding Agent The ONLY REAL Claude Code COMPETITOR [f8cfH5XX-XU]]] — IndyDevDan
+- [[20260223 - 풀버전 클로드코드로 고퀄리티 상세페이지 자동으로 만드는 방법 (기획, 카피라이팅, 디자인 모두) [ysA5Wd_o4_Q]]] — 빌더 조쉬 Builder Josh
+- [[20260225 - Anthropic 얼마나 더 성공하고 싶은건지 감도 안옴 Claude Code 휴대폰에서 실행하기 [fpv0XFEtDb8]]] — 하리아빠 HariFatherKR
 - [[20260225 - 클로드 코드보다 ‘코워크’가 초보자에게 훨씬 쉽고 강력합니다. 100% 완벽하게 리뷰합니다. [mcJXTYb0Vt4]]] — 빌더 조쉬 Builder Josh
+- [[20260226 - Claude Code Mobile just changed AI coding forever (Remote Control) [L36aPV6g2II]]] — Alex Finn
+- [[20260226 - I Built an AI Operating System with Claude Code and BMAD v6 [jBB6nrqUcCA]]] — Adam Goodyer
 - [[20260226 - Introducing Superset [mk02bSQmEKY]]] — Superset
+- [[20260226 - This simple Claude Cowork system saves 5 hours a week [W9AOkjmt-XU]]] — Dylan Davis
+- [[20260226 - 클로드코드 직접 만든 사람이 공개한 사용법, 저도 충격받았습니다 [2WJzwwvzbBQ]]] — 메이커 에반 | Maker Evan
+- [[20260227 - Claude Can Now Do OpenClaw Natively (Remote Control + Tasks) [Sg74Di2Yc88]]] — JeredBlu
+- [[20260228 - AI 7개 무호흡으로 돌려서 방치형 디아블로 만들었습니다 [CUeR7DBOEAg]]] — 에피코딩
+- [[20260301 - NEW Claude Code & OpenCode KILLER! This Just Fixed 90% of AI Coding! (Open Source) [4H_an5xtyr0]]] — WorldofAI
 - [[20260302 - I Built a Full AI Team Inside OpenClaw for $400 Month [4HyNQe6UI_c]]] — Jacob Klug
 - [[20260303 - Claude Code + Obsidian = UNSTOPPABLE [eRr2rTKriDM]]] — Chase AI
 - [[20260303 - how i use Claude Code across multiple projects at the same time [d1T_farOOCE]]] — Kaya Rezende
@@ -61,19 +74,26 @@
 - [[20260322 - ClaudecodeChannel Agent로 뭘 해야하나요 -클로드코드채널 [IRBb6A-sIPE]]] — Alex AI
 - [[20260323 - Claude Code + GSD — 기획부터 검증까지 자동화하는 법 [oU-BbX0Om4I]]] — AgentOS
 
-## memory (1)
+## memory (2)
+- [[20260301 - 쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등) [V3zdDI7G69w]]] — 개발동생
 - [[20260316 - Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem! [srqWFT_TUec]]] — WorldofAI
 
-## setup (2)
+## setup (4)
+- [[20260219 - 65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat 생활형 계산기 10개 [tcDoacn64Lo]]] — 오늘코드todaycode
+- [[20260304 - Build Your AI Second Brain with Obsidian + Claude Code (Free Setup) [2mAGV7MQd04]]] — Noah Vincent
 - [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
 - [[20260319 - Paperclip AI Complete Guide Fast Setup, Local Installation, Configuration, and Agent Automation [aRz6OAxl9ss]]] — Fru Dev
 
-## subagents (2)
+## subagents (3)
+- [[20260227 - 클로드 코드 Agent Teams 완벽 정리 Subagent와 차이점 [qGm8odiBkBg]]] — 짐코딩
 - [[20260319 - My Multi-Agent Team (Live Demo) [Zhbx-dj0qHE]]] — Owain Lewis
 - [[20260323 - Pi CEO Agents. Claude 1M Context. Multi-Agent Teams. [TqjmTZRL31E]]] — IndyDevDan
 
-## tools (19)
+## tools (22)
+- [[20260211 - Codex Skills Every Design Engineer Needs [IdqeXTXzY98]]] — Lukas Margerie
 - [[20260213 - I Let AI Agents Build My Dev Tool (cmux + Squad) [ndpfeO6M6P8]]] — Ian Philpot
+- [[20260219 - 65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat 생활형 계산기 10개 [tcDoacn64Lo]]] — 오늘코드todaycode
+- [[20260228 - AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기 [H0Sua5inCUU]]] — 샘 호트만 : AI 엔지니어의 시선
 - [[20260304 - Claude Code Skills Just Got a MASSIVE Upgrade [UxfeF4bSBYI]]] — Chase AI
 - [[20260305 - Anthropic이 Claude Code Skills 2.0을 출시했습니다 [-NkxSGtes7k]]] — Tech Bridge
 - [[20260305 - Claude Code Skills Just Got Even Better [RAZVk5NPNtE]]] — Nate Herk | AI Automation
@@ -93,6 +113,12 @@
 - [[20260321 - Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead. [I2K81s0OQto]]] — The AI Automators
 - [[20260321 - OpenCLI is the Latest Claude Code CLI Tool Raking in Github Stars [3xZFJMNW8RE]]] — Chase AI
 
-## updates (2)
+## updates (4)
+- [[20260227 - 구글 플로우 'UI 업데이트'를 적용한 멀티샷 연출 (ft. 캐릭터 시트, 구글 Gem) [23KQ7pAj4EI]]] — 라이프3.0픽처스
+- [[20260301 - 쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등) [V3zdDI7G69w]]] — 개발동생
 - [[20260309 - 클로드 코드 Schedule 업데이트. 앙 맛이쪄 [i1GPX8CEwP4]]] — 코드팩토리
 - [[20260319 - 4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! [uub34E4DwZI]]] — 코드팩토리
+
+## use-cases (2)
+- [[20260219 - 65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat 생활형 계산기 10개 [tcDoacn64Lo]]] — 오늘코드todaycode
+- [[20260228 - AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기 [H0Sua5inCUU]]] — 샘 호트만 : AI 엔지니어의 시선
