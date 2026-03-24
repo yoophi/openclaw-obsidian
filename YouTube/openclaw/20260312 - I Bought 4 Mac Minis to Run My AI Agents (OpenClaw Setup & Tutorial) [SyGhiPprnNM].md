@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/SyGhiPprnNM/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take
+## AI 에이전트를 돌리려고 Mac Mini 4대를 산 사례
 
-Kevin shows how he turned four Mac Minis (about $2,400 total) into a 24/7 OpenClaw automation rig that handled his video production and helped him pull roughly *4 million views in the last month*. He demonstrates the full practical setup and configuration steps, with evidence that the system handles research, scripting, voiceover and editing: *"we generate those videos, use my B-roll, generates a voice over, does the scripting and recording."*.
+이 영상은 발표자가 OpenClaw 기반 AI 에이전트를 운영하기 위해 Mac Mini 여러 대를 구입한 이유를 설명합니다. 핵심은 에이전트를 단발성 실험이 아니라 상시 운영 인프라로 보기 시작하면, 하드웨어 투자도 자연스럽게 따라온다는 점입니다.
 
-Setup highlights and gotchas: create burner Chrome accounts (”Do not use your personal information on OpenClaw. That is security nightmare.”), install Jump Desktop for remote access, prevent sleep via Energy settings, and use dummy HDMI adapters so each MacMini stays active. Installation runs from the Terminal (Homebrew + OpenClaw) and takes ~5–10 minutes; answer “yes” at the prompt or the onboarding will stop. He uses OpenRouter API keys and recommends L4.6 for onboarding (Sonnet for cost-sensitive workflows; he warns Opus is expensive) and configures Telegram via BotFather for channel integration. The walkthrough is practical and step-by-step, focused on making OpenClaw reliable for continuous, production-level automation rather than casual experiments.
+OpenClaw를 장기 운영 시스템으로 보는 관점을 잘 보여주는 사례입니다.

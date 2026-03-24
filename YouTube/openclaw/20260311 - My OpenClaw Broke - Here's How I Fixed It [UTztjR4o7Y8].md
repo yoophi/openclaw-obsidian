@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/UTztjR4o7Y8/maxresdefault.jpg
 
 ## 한글 요약
-## My OpenClaw Broke — Here's How I Fixed It
-OpenClaw was “forgetting everything” because its compaction routine compresses entire conversation history into a generic summary, treating important facts the same as throwaway chatter. The practical fix is a memory-flush workflow that triggers a silent turn before compaction so the agent writes durable facts to a daily log on disk, plus context pruning (e.g., a 4‑hour window that keeps the last three assistant responses) so repeated compactions don’t lose newly written facts. Improve retrieval by switching from pure semantic search to QMD (hybrid semantic + exact matching) and force the agent—via agents.md—to check daily logs and a concise learnings.md file of one‑line rules whenever it performs a task. *The problem is it treats every single thing in that conversation history equally.*
+## 내 OpenClaw가 고장났을 때 어떻게 고쳤는가
 
-A separate cost problem was the heartbeat: by default every 30 minutes it sends the full system prompt, memory and tool files as a full agent turn, burning tokens and money. Remedies: set active hours for heartbeats, enable light context so heartbeats only load heartbeat.md, and run heartbeats on a cheaper or local model; do a system‑prompt audit (use an agent like Claude Code to remove redundancy and trim bloated files) so each turn is leaner. Quick recap: enable memory flush, add context pruning, use QMD plus learnings.md for retrieval, fix heartbeat settings, and audit system prompt to restore stable, cheaper OpenClaw behavior. *The heartbeat is really what enables open claw to be more like a real-time agent.*
+이 영상은 OpenClaw가 망가졌을 때 실제로 어떻게 문제를 추적하고 해결했는지를 설명합니다. 발표자는 겪었던 증상과 원인을 분리해서 이야기하며, 비슷한 문제를 겪는 사용자가 어디부터 확인해야 할지 알려줍니다.
+
+유지보수 관점에서 유용한 실전 사례 영상입니다.

@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/WohSEtrqNiY/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-The creator ran an orchestration platform that lets an AI "CEO" run a small LowCode agency for a few hours with a $20 budget. The system auto-created roles (content strategist, content analyzer, founding engineer), generated tasks and a content calendar, and pushed outputs that needed human approval; *"set up a CEO agent and give that agent the responsibility to run a company"* captures the experiment's premise.
+## AI에게 에이전시를 2시간 맡겨본 실험
 
-## What it produced and limits
-The AI autonomously hired a founding engineer, connected to the team's recording tool via an API, pulled transcripts/highlights, and fed those into a content workflow that produced daily reports, competitor/trend analysis, and platform-specific content suggestions for LinkedIn, Twitter, and a newsletter; *"I just gave it the API key and then it figured out what we needed to pull from TLV"*. Work happened quickly and was self-contained, making it useful as an automated starting point, but the creator found it opaque and wanted clearer human/agent hybrid roles and more granular approval pathways so humans other than the single board reviewer could sign off on developer or QA tasks.
+이 영상은 AI에게 실제 에이전시 운영의 일부를 맡겨보는 실험을 다룹니다. Paperclip 중심의 사례이지만, 반복 의사결정과 운영 보조를 AI에게 넘길 때 어떤 가능성과 한계가 있는지를 보여줍니다.
+
+핵심은 AI가 단순 생성 도구를 넘어 운영 실험의 참여자가 될 수 있다는 점이지만, 동시에 사람의 감독과 구조 설계가 여전히 중요하다는 사실도 드러납니다.

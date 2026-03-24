@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/49_WitY66yM/maxresdefault.jpg
 
 ## 한글 요약
-## PaperClip + OpenClaw: autonomous AI companies
+## OpenClaw와 PaperClip 조합이 강력한 이유
 
-This video demos PaperClick, an open-source orchestration that turns OpenClaw into a full AI-run company—no code and no human hires required. The presenter installs PaperClick from GitHub inside OpenClaw, sets a company mission, creates a CEO agent that spawns and hires roles (CMO, founding engineer, etc.), and shows agents waking on schedules, assigning tasks, checking an inbox, and coordinating work in an org chart and dashboard. *This is a virtual company where AI agents have bosses get assigned work check in on a schedule and actually coordinate with each other.*
+이 영상은 OpenClaw와 PaperClip을 함께 쓸 때 어떤 시너지가 나는지를 설명합니다. 발표자는 OpenClaw의 에이전트 운영 능력과 PaperClip의 오케스트레이션 흐름이 결합될 때 더 큰 자동화 가능성이 열린다고 봅니다.
 
-PaperClick is organized into five layers: mission control (goal-driven tasks), org chart (roles, reporting lines, job descriptions), heartbeat (scheduled wake/execute cycles), governance (approvals, budgets, board oversight) and multi-company support (run isolated companies from one dashboard). The demo assigns content and marketing tasks, connects OpenClaw as an execution agent, watches the CEO agent create and approve hires, tracks activity and cost, and notes occasional integration errors and security cautions when installing skill files. *PaperClick takes that goal and every single task your AI agent does traces back to that.* The tool is shown working with large models in the demo and is distributed on GitHub as open source.
+핵심은 단일 도구보다 도구 간 결합이 더 큰 가치를 만든다는 점입니다.

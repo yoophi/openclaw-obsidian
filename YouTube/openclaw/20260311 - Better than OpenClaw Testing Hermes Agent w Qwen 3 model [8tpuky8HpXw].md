@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/8tpuky8HpXw/hqdefault.jpg
 
 ## 한글 요약
-## Better than OpenClaw? Quick take on Hermes Agent (demo)
+## Hermes 에이전트는 OpenClaw보다 나은가
 
-Hermes Agent claims to be like OpenClaw but adds an autonomous skill-improvement loop and a different memory approach; in setup the reviewer ran Hermes on WSL2/Linux, tried OpenRouter backends, and switched from Hermes 4 (tooling incompatible with OpenRouter) to Qwen 3 (235B Mixture-of-Experts) for testing. The standout architecture differences shown were that *“it creates and improves skills autonomously”* and *“Hermes agent uses full text search um across all past conversations.”* The reviewer also notes OpenClaw can be stronger when you explicitly use embedding-based fuzzy recall, so the advantages depend on your memory/search preferences.
+이 영상은 Qwen 3 기반 Hermes 에이전트를 OpenClaw와 비교 테스트합니다. 발표자는 실제 사용 흐름에서 어떤 점이 더 낫고 어떤 점이 부족한지를 살펴보며, 단순 성능 수치보다 사용 경험을 기준으로 평가합니다.
 
-In live tests Hermes listed ~80 skills across 13 categories and performed end-to-end tasks: it browsed Poly Market and produced a weather.md file summarizing markets, crawled GitHub to summarize trending repos and highlight AI projects, and wrote then executed a Python script (installed yfinance) to fetch Tesla’s price. Memory persisted across sessions and recalled files and prior topics after a fresh restart. Limitations shown: some model/tool combos (Hermes 4 + OpenRouter) didn’t allow tooling, some APIs weren’t configured so actions fell back to browser navigation, and the project is very new (about two weeks), so the self-improvement promise still needs longer-term validation. Overall: promising autonomous tooling and persistent memory, but early and situationally dependent.
+핵심은 도구 선택에서 브랜드보다 워크플로우 적합성이 더 중요하다는 점입니다.

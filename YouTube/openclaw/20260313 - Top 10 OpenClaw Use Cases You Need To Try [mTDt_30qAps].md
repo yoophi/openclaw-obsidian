@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/mTDt_30qAps/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
-*“The first use case for OpenClaw you definitely need to set up is the morning brief.”* This video outlines ten practical OpenClaw automations you can deploy: a daily morning brief that scans email, calendar, tasks, and overnight news; proactive research that reads meeting attendees’ public profiles and blogs; competitor and market research that watches channels, forums, and news sites for new content or model releases; and automatic scheduling (examples: daily brief at 9:00 a.m., weekly competitor reports, hourly trend scans). It also covers continuous monitoring (websites, services, prices, reviews), running the agent 24/7 on a cloud VPS for isolation, and using a middleware connector to give limited, audited access to apps instead of broad direct API rights.
+## 꼭 시도해볼 만한 OpenClaw 활용 사례 Top 10
 
-The video stresses security and cost tradeoffs: use a trusted MCP/middleware layer to restrict permissions and limit risk, host OpenClaw in an isolated cloud environment rather than a personal workstation, and consider running a locally hosted LLM for routine tasks to reduce cloud usage (at the cost of speed and sophistication). It closes by recommending a shared content-management-style repository so multiple agents can read/write a common “truth” (memory, skills, saved context) and continue to work after migrations or upgrades. *“OpenClaw can save things like skills and working memory inside of its repository as text files.”*
+이 영상은 OpenClaw를 활용할 수 있는 대표적인 사례 10가지를 정리해 보여줍니다. 발표자는 생산성, 자동화, 비서형 활용, 운영 흐름 등 여러 측면에서 아이디어를 제시합니다.
+
+입문자가 OpenClaw를 어디에 써볼 수 있을지 감을 잡는 데 도움이 되는 요약형 콘텐츠입니다.
