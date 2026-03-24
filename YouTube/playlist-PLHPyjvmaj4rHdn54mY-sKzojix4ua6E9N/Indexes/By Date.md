@@ -73,24 +73,47 @@
 ## 2026-03-09 (1)
 - [[20260309 - 클로드 코드 Schedule 업데이트. 앙 맛이쪄 [i1GPX8CEwP4]]] — 코드팩토리
 
-## 2026-03-08 (1)
+## 2026-03-08 (2)
 - [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
+- [[20260308 - 클로드 스킬 사용하신다면 skill-creator는 무조건 쓰세요 (스킬 개선기능 추가됨) [1Ffh2Obqxks]]] — 스테판초 StefanCho
 
-## 2026-03-07 (1)
+## 2026-03-07 (5)
 - [[20260307 - AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편 [SOWsG2Idgzg]]] — jisungs
+- [[20260307 - Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent [R7OCrqyGMeY]]] — The AI Automators
+- [[20260307 - Claude Code + Playwright = 놀라운 브라우저 자동화입니다 [GaVoI5ZxV10]]] — Tech Bridge
+- [[20260307 - Claude Code의 loop 기능은 게임 체인저입니다 [LsHgkoxLpMU]]] — Tech Bridge
+- [[20260307 - T3 Code Better Than Codex [6x7hh6Qzm9U]]] — Better Stack
 
-## 2026-03-06 (1)
+## 2026-03-06 (6)
+- [[20260306 - AI 도입 3개월 했는데 혼자만 쓰고 있었습니다 [l6zoiJ3Wb2U]]] — 메이커 에반 | Maker Evan
 - [[20260306 - Claude Code + Playwright = INSANE Browser Automations [I9kO6-yPkfM]]] — Chase AI
+- [[20260306 - Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! [WtMTUSpl1Fc]]] — WorldofAI
+- [[20260306 - OpenCode Agents in 16 Minutes & my best tips [WQ6xcjB-tqU]]] — Brandon Melville
+- [[20260306 - 프론트엔드 400개 라이브러리를 학습한 AI Agent Kombai (50% 할인 쿠폰) [qi-tliqg25I]]] — 개발동생
+- [[20260306 - 하네스 엔지니어(Harness Engineer)란 무엇이고 왜 중요할까요 [7Hj9Khv_HU0]]] — Tech Bridge
 
-## 2026-03-05 (2)
+## 2026-03-05 (7)
+- [[20260305 - Anthropic이 Claude Code Skills 2.0을 출시했습니다 [-NkxSGtes7k]]] — Tech Bridge
 - [[20260305 - CMUX Just Changed Everything for Developers using Agentic CLIs 🔥 [J__rNtFttx0]]] — Fru Dev
+- [[20260305 - Claude Code Skills Just Got Even Better [RAZVk5NPNtE]]] — Nate Herk | AI Automation
 - [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]]] — AICodeKing
+- [[20260305 - wtf is Harness Engineer & why is it important [kJPvfoLtFFY]]] — AI Jason
+- [[20260305 - 챗GPT 5.4 완벽 정리 100만 토큰 컨텍스트 윈도우, 할루시네이션 감소, 달라진 점 총정리 [6Z23q9RF3o0]]] — AI 겸임교수 이종범
+- [[20260305 - 초보자들을 위한 RAG 개념 20분 마스터클래스 (3년 RAG 프로젝트 압축 경험을 곁들인) [NbrN-NwKvuc]]] — 샘 호트만 : AI 엔지니어의 시선
 
-## 2026-03-03 (1)
+## 2026-03-04 (2)
+- [[20260304 - Claude Code + CMUX The Ultimate AI Coding Terminal [8oLP8oxqtOE]]] — Better Stack
+- [[20260304 - Claude Code Skills Just Got a MASSIVE Upgrade [UxfeF4bSBYI]]] — Chase AI
+
+## 2026-03-03 (2)
+- [[20260303 - Claude Code + Obsidian = UNSTOPPABLE [eRr2rTKriDM]]] — Chase AI
 - [[20260303 - how i use Claude Code across multiple projects at the same time [d1T_farOOCE]]] — Kaya Rezende
 
 ## 2026-03-02 (1)
 - [[20260302 - I Built a Full AI Team Inside OpenClaw for $400 Month [4HyNQe6UI_c]]] — Jacob Klug
+
+## 2026-02-26 (1)
+- [[20260226 - Introducing Superset [mk02bSQmEKY]]] — Superset
 
 ## 2026-02-25 (1)
 - [[20260225 - 클로드 코드보다 ‘코워크’가 초보자에게 훨씬 쉽고 강력합니다. 100% 완벽하게 리뷰합니다. [mcJXTYb0Vt4]]] — 빌더 조쉬 Builder Josh
@@ -119,6 +142,9 @@
 
 ## 2025-12-12 (1)
 - [[20251212 - The Best Coding Agent is... (and how I use them) [kSipXea2TbE]]] — Ben Davis
+
+## 2025-12-10 (1)
+- [[20251210 - BMAD v6 The Future of Coding. [Zo6_d_xdgRY]]] — Adam Goodyer
 
 ## 2025-03-27 (1)
 - [[20250327 - Vibe Coder Tries Neovim [CbQGeaa8XrQ]]] — Bog

@@ -1,10 +1,19 @@
 # By Channel
 
+## AI Jason (1)
+- [[20260305 - wtf is Harness Engineer & why is it important [kJPvfoLtFFY]]] — 2026-03-05
+
 ## AI LABS (1)
 - [[20260317 - GSD Is the Missing Piece For Claude Code [uEit1oOJK0w]]] — 2026-03-17
 
+## AI 겸임교수 이종범 (1)
+- [[20260305 - 챗GPT 5.4 완벽 정리 100만 토큰 컨텍스트 윈도우, 할루시네이션 감소, 달라진 점 총정리 [6Z23q9RF3o0]]] — 2026-03-05
+
 ## AICodeKing (1)
 - [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]]] — 2026-03-05
+
+## Adam Goodyer (1)
+- [[20251210 - BMAD v6 The Future of Coding. [Zo6_d_xdgRY]]] — 2025-12-10
 
 ## AgentOS (2)
 - [[20260320 - Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다 [sLaMtz7j8cE]]] — 2026-03-20
@@ -19,20 +28,25 @@
 ## Ben Davis (1)
 - [[20251212 - The Best Coding Agent is... (and how I use them) [kSipXea2TbE]]] — 2025-12-12
 
-## Better Stack (2)
+## Better Stack (4)
+- [[20260304 - Claude Code + CMUX The Ultimate AI Coding Terminal [8oLP8oxqtOE]]] — 2026-03-04
+- [[20260307 - T3 Code Better Than Codex [6x7hh6Qzm9U]]] — 2026-03-07
 - [[20260313 - Why Every Claude Code User Needs To Try AgentMail (Not Gmail) [U3TXAdpmvVk]]] — 2026-03-13
 - [[20260318 - The toolkit from Y Combinator CEO that Will Makes Claude Code Amazing [kLq5p43huYQ]]] — 2026-03-18
 
 ## Bog (1)
 - [[20250327 - Vibe Coder Tries Neovim [CbQGeaa8XrQ]]] — 2025-03-27
 
-## Brandon Melville (1)
+## Brandon Melville (2)
+- [[20260306 - OpenCode Agents in 16 Minutes & my best tips [WQ6xcjB-tqU]]] — 2026-03-06
 - [[20260315 - Google’s New Tool Makes OpenCode WAY More Useful [CCUV1YzVYzg]]] — 2026-03-15
 
 ## Build Great Products (1)
 - [[20260319 - Google Stitch + Claude Code = Insane App Design [sZQ7lqaOGMg]]] — 2026-03-19
 
-## Chase AI (4)
+## Chase AI (6)
+- [[20260303 - Claude Code + Obsidian = UNSTOPPABLE [eRr2rTKriDM]]] — 2026-03-03
+- [[20260304 - Claude Code Skills Just Got a MASSIVE Upgrade [UxfeF4bSBYI]]] — 2026-03-04
 - [[20260306 - Claude Code + Playwright = INSANE Browser Automations [I9kO6-yPkfM]]] — 2026-03-06
 - [[20260319 - Claude Code Now DESTROYS Web Design with Stitch 2.0 [qqcpiDXPCvY]]] — 2026-03-19
 - [[20260321 - 10 CLI Tools That Make Claude Code UNSTOPPABLE [uULvhQrKB_c]]] — 2026-03-21
@@ -80,6 +94,9 @@
 ## Michael (1)
 - [[20260221 - Pi Coding Agent - Visual Plan Mode Extension [XqFun9XCXPw]]] — 2026-02-21
 
+## Nate Herk | AI Automation (1)
+- [[20260305 - Claude Code Skills Just Got Even Better [RAZVk5NPNtE]]] — 2026-03-05
+
 ## Owain Lewis (1)
 - [[20260319 - My Multi-Agent Team (Live Demo) [Zhbx-dj0qHE]]] — 2026-03-19
 
@@ -89,19 +106,28 @@
 ## ShanAI (1)
 - [[20260312 - Unlock Your Mac with Osaurus Best Plugins for Local LLMs (Apple Music, Files, Browser & More) [gWMeceGyT8k]]] — 2026-03-12
 
-## Tech Bridge (1)
+## Superset (1)
+- [[20260226 - Introducing Superset [mk02bSQmEKY]]] — 2026-02-26
+
+## Tech Bridge (5)
+- [[20260305 - Anthropic이 Claude Code Skills 2.0을 출시했습니다 [-NkxSGtes7k]]] — 2026-03-05
+- [[20260306 - 하네스 엔지니어(Harness Engineer)란 무엇이고 왜 중요할까요 [7Hj9Khv_HU0]]] — 2026-03-06
+- [[20260307 - Claude Code + Playwright = 놀라운 브라우저 자동화입니다 [GaVoI5ZxV10]]] — 2026-03-07
+- [[20260307 - Claude Code의 loop 기능은 게임 체인저입니다 [LsHgkoxLpMU]]] — 2026-03-07
 - [[20260318 - Claude Code에 부족했던 마지막 퍼즐, GSD를 알아보겠습니다 [sh67yje8zsk]]] — 2026-03-18
 
 ## Tech With Turis (1)
 - [[20260120 - Best AI Coding CLI (Claude Code, Codex, OpenCode Alternative) [P3onJNQhS60]]] — 2026-01-20
 
-## The AI Automators (1)
+## The AI Automators (2)
+- [[20260307 - Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent [R7OCrqyGMeY]]] — 2026-03-07
 - [[20260321 - Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead. [I2K81s0OQto]]] — 2026-03-21
 
 ## Unknown (1)
 - [[INDEX]] — 
 
-## WorldofAI (2)
+## WorldofAI (3)
+- [[20260306 - Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! [WtMTUSpl1Fc]]] — 2026-03-06
 - [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — 2026-03-08
 - [[20260316 - Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem! [srqWFT_TUec]]] — 2026-03-16
 
@@ -117,7 +143,8 @@
 ## typecraft (1)
 - [[20240308 - Tmux will SKYROCKET your productivity - here’s how [niuOc02Rvrc]]] — 2024-03-08
 
-## 개발동생 (1)
+## 개발동생 (2)
+- [[20260306 - 프론트엔드 400개 라이브러리를 학습한 AI Agent Kombai (50% 할인 쿠폰) [qi-tliqg25I]]] — 2026-03-06
 - [[20260321 - TMUX 마스터클래스 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ [vlg8X0N8z08]]] — 2026-03-21
 
 ## 대모산 개발단 (1)
@@ -126,8 +153,14 @@
 ## 릴쏸ᝰ (1)
 - [[20260316 - 코딩 없이도 웹사이트, 앱을 손쉽게 제작 가능해요! [IcbBx9sv2dc]]] — 2026-03-16
 
+## 메이커 에반 | Maker Evan (1)
+- [[20260306 - AI 도입 3개월 했는데 혼자만 쓰고 있었습니다 [l6zoiJ3Wb2U]]] — 2026-03-06
+
 ## 빌더 조쉬 Builder Josh (1)
 - [[20260225 - 클로드 코드보다 ‘코워크’가 초보자에게 훨씬 쉽고 강력합니다. 100% 완벽하게 리뷰합니다. [mcJXTYb0Vt4]]] — 2026-02-25
+
+## 샘 호트만 : AI 엔지니어의 시선 (1)
+- [[20260305 - 초보자들을 위한 RAG 개념 20분 마스터클래스 (3년 RAG 프로젝트 압축 경험을 곁들인) [NbrN-NwKvuc]]] — 2026-03-05
 
 ## 생산성 빌리언 시안 (1)
 - [[20260310 - 다시 찾아오는 CLI의 시대 옵시디언 CLI [d-s2En3dTpo]]] — 2026-03-10
@@ -136,7 +169,8 @@
 - [[20260128 - 미쳤다. 클로드 코드로 클로드봇(ClaudeBot) 그냥 만들어버림 ㄷㄷ (심지어 공짜로 사용 가능) [fM7Tg_bK10I]]] — 2026-01-28
 - [[20260221 - 오픈클로가 하는건 다한다. 소놀봇 - 클로드 코드에 이어 코덱스도 동시 지원! 무한 봇 생성 기능에 데몬 실시간 응답까지! [17BB1fLdyfQ]]] — 2026-02-21
 
-## 스테판초 StefanCho (1)
+## 스테판초 StefanCho (2)
+- [[20260308 - 클로드 스킬 사용하신다면 skill-creator는 무조건 쓰세요 (스킬 개선기능 추가됨) [1Ffh2Obqxks]]] — 2026-03-08
 - [[20260317 - Claude 구독중이라면 OpenClaw 대신에 Claude Dispatch 써보세요 [GuRhtm4iQH0]]] — 2026-03-17
 
 ## 실밸개발자 (1)
