@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube/openclaw/083 - How to Set Up OpenClaw (Clawdbot) Without Getting Hacked Isolation + Least Privilege + Firewall.md",
+                "file": "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "083 - How to Set Up OpenClaw (Clawdbot) Without Getting Hacked Isolation + Least Privilege + Firewall"
-            }
-          }
-        ]
-      },
-      {
-        "id": "57a96494b9671c17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "870cb646511cbb7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/frontend/react-native-동향.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "react-native-동향"
+              "title": "sshpass 사용법 - SCP와 SSH 비밀번호 자동 입력"
             }
           }
         ]
@@ -205,35 +185,35 @@
   },
   "active": "c80fcf9542686e8c",
   "lastOpenFiles": [
+    "OpenClaw - Agent 간 메시지 공유 정리.md",
+    "OpenClaw Agents 조사.md",
+    "README.md",
+    "YouTube/openclaw/079 - Claude Code를 사용하여 더 안전한 OpenClaw 대체 도구를 개발했습니다.md",
+    "YouTube/openclaw/편집자P 1/002 - 클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE).md",
+    "2026-03-20.md",
+    "research/frontend/react-native-동향.md",
+    "research/agents/tycono-분석.md",
+    "research/agents/pi-coding-agent-심화가이드.md",
+    "research/agents/pi-coding-agent-가이드.md",
+    "research/agents/Paperclip-AI-오케스트레이션-툴.md",
+    "research/agents/open-code-2026-워크플로우.md",
+    "research/agents/GSD-AI-코딩-프레임워크.md",
+    "YouTube/openclaw/083 - How to Set Up OpenClaw (Clawdbot) Without Getting Hacked Isolation + Least Privilege + Firewall.md",
     "YouTube/openclaw/082 - 오픈클로 창시자가 AI를 활용해 40분 만에 자신의 삶을 관리하는 방법 피터 스타인버거.md",
     "YouTube/openclaw/081 - Why I Prefer Zo Over OpenClaw.md",
-    "YouTube/openclaw/079 - Claude Code를 사용하여 더 안전한 OpenClaw 대체 도구를 개발했습니다.md",
     "YouTube/openclaw/075 - I turned OpenClaw into a Beast. (ResonantOS Memory Fix).md",
     "YouTube/openclaw/BoxminingAI/011 - NemoClaw Setup Guide FASTEST Way to Install.md",
     "YouTube/openclaw/Agentic Lab/007 - I Replaced OpenClaw with Claude Code (It's Not Even Close).md",
-    "YouTube/📙 openclaw v2/편집자P/002 - 클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE).md",
-    "YouTube/📙 openclaw v2/Openclaw Labs/001 - OpenClaw Memory Deep Dive QMD vs Core.md",
+    "YouTube/openclaw/Openclaw Labs 1/001 - OpenClaw Memory Deep Dive QMD vs Core.md",
     "research/frontend/spec-driven-development-프론트엔드.md",
-    "research/frontend/react-native-동향.md",
-    "research/agents/pi-coding-agent-가이드.md",
-    "research/agents/open-code-2026-워크플로우.md",
-    "research/agents/GSD-AI-코딩-프레임워크.md",
     "YouTube/openclaw/편집자P/002 - 클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE).md",
     "YouTube/openclaw/코난쌤 conanssam/009 - 탠덤 브라우져를 오픈클로 메인으로 바꾼 이유, AI용 브라우져 크롤링 비교(스크래플링 vs 탠덤).md",
     "YouTube/openclaw/ZeroCho TV/003 - AI가 자꾸 기억을 잃는다고요 스킬을 한번 줘보세요. 스킬 만드는 법 대공개. (feat. MyClaw) Agent Skills llm openclaw gemini.md",
     "YouTube/openclaw/Wes Roth/013 - NEMOCLAW... NVIDIA is going ALL IN on OpenClaw.md",
     "YouTube/openclaw/Openclaw Labs/001 - OpenClaw Memory Deep Dive QMD vs Core.md",
-    "YouTube/openclaw/OpenClaw Dev/008 - NemoClaw Explained in 2 Minutes (OpenClaw for Business by Nvidia Oversimplified) Day 23 100.md",
-    "YouTube/openclaw/Mayukh Builds/005 - I Built an OpenClaw Mission Control You Can Talk To (Raspberry Pi).md",
-    "YouTube/openclaw/Jay E RoboNuggets/012 - Every OpenClaw Concept Explained for Normal People.md",
-    "YouTube/openclaw/070 - 45분 만에 나만의 AI 에이전트 배포하기 OpenClaw 초보자 튜토리얼.md",
-    "YouTube/openclaw/080 - ㄷㄷㄷ 클로드봇 복제 성공! 이제 텔레그램으로 일 시키세요. 클로드 구독 기반이라 비용, 보안 모두 걱정 없음. 사진 & 위치에다 메모리 기능까지.md",
-    "YouTube/openclaw/080.md",
-    "YouTube/openclaw/Jay E RoboNuggets/006 - Does NemoClaw Replace OpenClaw (Full Comparison).md",
-    "YouTube/openclaw/Fru Dev/010 - Paperclip AI Just Changed Everything 🔥 an open-source platform for building zero-human companies.md",
     "YouTube/📙 openclaw",
-    "YouTube/📙 openclaw v2/편집자P",
-    "YouTube/📙 openclaw v2/Openclaw Labs",
+    "YouTube/openclaw/편집자P 1",
+    "YouTube/openclaw/Openclaw Labs 1",
     "YouTube/📙 openclaw v2",
     "YouTube/openclaw/편집자P",
     "YouTube/openclaw/코난쌤 conanssam",
