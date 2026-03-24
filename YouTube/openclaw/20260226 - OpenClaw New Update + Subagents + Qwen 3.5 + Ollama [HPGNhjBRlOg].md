@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/HPGNhjBRlOg/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take — is this clip worth watching?
+## OpenClaw 새 업데이트 + 서브에이전트 + Qwen 3.5 + Ollama
 
-This video demos a February update to an AI-assistant platform and shows why it matters: the system restores direct “heartbeat” check-ins and rebuilds subagent messaging reliability, plus fixes Slack thread handling and adds several security patches. Key technical fixes include re-enabling direct heartbeat DMs (so your assistant actually reports to you again), and a redesigned delivery flow for helper agents: *Heartbeat DM deliveries back on.* *the whole delivery process was rebuilt from scratch using what's called a state machine*.
+이 영상은 OpenClaw의 새 업데이트와 함께, 서브에이전트 흐름, Qwen 3.5, Ollama 조합 등을 함께 다룹니다. 발표자는 OpenClaw가 다양한 모델 및 실행 방식과 어떻게 조합될 수 있는지 보여주며, 특히 로컬 모델과 멀티에이전트 운영 가능성에 주목합니다.
 
-The host walks step-by-step through upgrading (auto-update toggle or manual GitHub install), troubleshooting a gateway freeze that may require restarting/reinstalling, and plugging a newly released large local model into the stack via a local model manager. Practical notes: the full local model download is ~24 GB and can be heavy on hardware (the presenter used a high-end desktop), there are lighter variants and cloud fallbacks for lower-end rigs (the presenter favors a lightweight flash model for local use), and the platform still shows lingering instability — useful if you want power and flexibility, less so if you need a “set-and-forget” reliable service.
+핵심은 OpenClaw가 하나의 고정된 제품이 아니라, 여러 모델과 도구를 엮어 사용자에게 맞는 운영 구성을 만드는 플랫폼이라는 점입니다.

@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uKzcoFaaAhc/maxresdefault.jpg
 
 ## 한글 요약
-## New OpenClaw update: Heartbeat + Subagents
+## OpenClaw 최신 업데이트: 하트비트와 서브에이전트
 
-This update (25th February) restores heartbeat DMs so your assistant actually pings you again and overhauls how helper subagents deliver results, plus a set of security and reliability fixes. *Heartbeat DM deliveries back on.* The core user-facing change: heartbeat checks are on by default again (you can still toggle via the agent config), so you won’t be left “shouting into an empty room.”  
+이 영상은 OpenClaw 최신 업데이트 중에서도 하트비트와 서브에이전트 관련 변화를 중심으로 설명합니다. 발표자는 OpenClaw가 점점 단일 응답형 도구가 아니라, 계속 상태를 확인하고 여러 작업을 병렬로 나눠 처리하는 방향으로 진화하고 있다고 봅니다.
 
-The subagent delivery pipeline was rebuilt as a state machine that retries and uses backup routes and only marks tasks complete when delivery is confirmed, fixing lost or falsely “delivered” messages (Telegram was singled out for a delivery-report bug). Slack thread handling and context inheritance were corrected to stop silent overflows and wrong routing, and there are improvements to startup performance, streaming/markdown handling, agent config, and DM delivery. To get the update you can enable automatic updates under Config → All Settings → Updates or trigger a manual upgrade; the presenter notes the gateway may pause briefly during upgrades and, in some cases, a reinstall resolves persistent failures. *The whole delivery process was rebuilt from scratch using what's called a state machine.*
+핵심은 하트비트와 서브에이전트가 결합될 때 OpenClaw가 더 살아 있는 시스템처럼 동작한다는 점입니다. 즉 지속적 체크와 역할 분리를 통해 자동화의 깊이가 커진다는 관점입니다.

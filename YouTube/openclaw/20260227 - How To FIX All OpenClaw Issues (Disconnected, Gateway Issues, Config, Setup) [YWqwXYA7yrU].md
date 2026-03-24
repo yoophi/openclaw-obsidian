@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/YWqwXYA7yrU/maxresdefault.jpg
 
 ## 한글 요약
-## How to fix OpenClaw issues with Claude code
+## OpenClaw 문제를 전반적으로 고치는 가이드
 
-This clip’s core claim: you can repair OpenClaw gateway errors (disconnected 1006/1008), malformed or corrupted config files, and restart failures by running Claude code against your OpenClaw installation. The presenter shows the practical workflow: install Claude code, open a terminal in your OpenClaw folder, run Claude and “trust” the folder, then paste the OpenClaw FAQ/documentation into Claude and ask it to validate and repair the config. The process checks ports, gateway status, session/model settings, and basic security; you can also switch to a lower-cost model (e.g., Sony 4.6) to reduce API expense while troubleshooting. *"if your Open Claw keeps disconnecting"* *"I need you to fix my Open Claw."*
+이 영상은 연결 끊김, 게이트웨이 문제, 설정 오류, 설치 이슈처럼 OpenClaw 사용 중 자주 만나는 문제들을 폭넓게 다룹니다. 발표자는 증상별로 점검 포인트를 나누고, 사용자가 어디서부터 원인을 좁혀야 하는지 설명합니다.
 
-Why this happens and what to watch for: problems often stem from OpenClaw’s automated self-modifying tasks (gateway or channel config changes, model swaps) or from using non-default providers/models that don’t set up configs correctly—those actions can corrupt the config or break the gateway. The video targets local setups (with a separate VPS walkthrough referenced) and demonstrates that Claude can parse the documentation, validate configs, tighten security, and fix port/gateway issues without manual deep-dives, making it a fast first-step repair for most disconnects and config corruption.
+핵심은 OpenClaw 문제를 단순 오류 하나로 보기보다, 게이트웨이/설정/런타임/네트워크 등 여러 층위에서 점검해야 한다는 점입니다. 운영 중 문제 대응에 도움이 되는 정리형 영상입니다.

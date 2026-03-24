@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/pmbftRnW4Yc/maxresdefault.jpg
 
 ## 한글 요약
-## How to revive a dead Clawbot/OpenClaw with Cloud Code
+## Clawdbot이 고장났을 때 고치는 방법
 
-This clip demonstrates a practical, command-line method to diagnose and revive an offline Clawbot/OpenClaw using a CLI tool called Cloud Code. The creator lists common errors you might see (disconnected, internal error, device identity required, gateway token missing, token mismatch, pairing required) and shows how to install and run Cloud Code from a terminal (use sudo on macOS), log in, and run its diagnostic flow. In the demo Cloud Code inspects local instances, checks gateway state and logs, identifies a missing gateway token and an unloaded launch agent, and then relaunches the services to restore connectivity—after which the bot immediately comes back online. The video also notes an alternate command-based repair (an “open claw doctor/fix” command) but emphasizes Cloud Code’s automated repair as the simplest route. *these are all very common issues and honestly, they are super easy to fix.*
+이 영상은 Clawdbot/OpenClaw 환경이 망가졌을 때 어떤 부분부터 점검하고 복구해야 하는지 설명합니다. 발표자는 사용자가 흔히 겪는 연결 문제, 설정 꼬임, 실행 불안정 등을 사례로 들면서, 어디를 먼저 확인해야 하는지 순서 있게 짚어줍니다.
 
-The presenter also recommends using a voice-to-text flow to speed up command entry and shows a broader support package: a step-by-step SOP covering local setup, integrations (messaging platforms, project tools, file access), prompts for improving AI behavior, and an optional VPS deployment (trade-offs: better isolation vs. slower performance and reduced local functionality). He warns about subscription vs. API-token costs when using Cloud Code and demonstrates the tool reading logs (“Last activity midnight and shut down gracefully”) to explain why the bot stopped. *the secret is just talk with your claw claw code and it'll fix itself.*
+핵심은 문제가 생겼을 때 무작정 재설치하기보다, 구조를 이해하고 원인을 분리해서 해결하는 접근입니다. 유지보수 관점에서 실용적인 영상입니다.

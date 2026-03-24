@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/ad_OU6jZXbI/maxresdefault.jpg
 
 ## 한글 요약
-## What the video shows
-The creator turns a Mac Mini into a 24/7 AI “chief of staff” named Henry, powered by Claude Opus 4.6, reachable via Telegram and a web UI. The stack: OpenClaw installed natively as the orchestration gateway, Docker to sandbox each agent’s execution, and Tailscale for encrypted remote access; the Mac runs under a fresh, separate user account with screen sharing enabled so the owner can administer it headless. *"Henry is here. Chief of staff, friendly online, and ready to roll."*
+## Mac Mini 위 24/7 OpenClaw 에이전트 세팅 사례
 
-The walkthrough covers the practical install steps and security reasoning: enable VNC screen sharing and note the Mini’s IP, connect from your main Mac via Finder, install Xcode/Git and Homebrew, install Docker Desktop, then run the OpenClaw oneliner and supply the Opus API key; create a Telegram bot through BotFather and paste its token into OpenClaw so messages route to the agent. The presenter stresses isolation—each agent runs in its own container with only the keys it needs so prompt injection or a rogue agent is confined—and previews the next episode where Henry will gain a team (research, coding, security) and automated briefs.
+이 영상은 Mac Mini를 이용해 OpenClaw 에이전트를 상시 실행하는 상세 설정 사례를 보여줍니다. 발표자는 왜 별도 머신이 유리한지, 어떤 식으로 항상 켜진 에이전트 환경을 만들 수 있는지 설명합니다.
+
+핵심은 OpenClaw를 일회성 실행이 아니라 상시 동작형 시스템으로 다루는 것입니다. 안정적인 홈 서버/전용 머신 구성에 관심 있는 사용자에게 유용한 사례입니다.

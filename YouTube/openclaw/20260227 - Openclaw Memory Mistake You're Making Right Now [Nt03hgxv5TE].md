@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Nt03hgxv5TE/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw memory: 4 practical ways to get persistent memory
+## 지금 사람들이 하고 있는 OpenClaw 메모리 실수
 
-Default OpenClaw setups dump everything into one giant memory file, which bloats token usage and loses session context; the video presents four concrete fixes. It recommends simple, transparent structured folders (project-specific markdown like goals.md, decisions.md, preferences.md) that the agent updates at session end; built-in Memory Search (semantic embeddings) which works only if you enable and provide an OpenAI/Gemini/Voyage embedding API key; the MEM0 plugin that automatically extracts important facts, stores them as vector embeddings, and retrieves them when relevant; and using SQLite (SQL light) natively for dense, structured data where exact queries matter. *OpenClaus memory is a total junk drawer.* *OpenClaw can natively read from and write to a SQL light database.*
+이 영상은 OpenClaw 메모리를 다룰 때 많은 사용자가 저지르는 실수를 지적합니다. 발표자는 메모리를 많이 넣는 것 자체보다, 어떤 구조로 저장하고 어떻게 검색되게 설계하느냐가 더 중요하다고 설명합니다.
 
-Start with method one for a fast, transparent improvement (minutes to set up). If you want natural-language recall, enable Memory Search with a compatible embedding key. For automated long-term conversational memory choose MEM0 (trade-offs: third-party dependency and occasional irrelevant recalls). For catalogs, endpoints, or tabular research data use the native SQLite option for precise SQL queries and combine methods (folders + MEM0 + SQLite) to cover short-, medium-, and long-term memory needs.
+핵심은 메모리의 양보다 품질과 검색 가능성입니다. OpenClaw를 오래 쓸수록 메모리 구조가 성능과 안정성에 큰 영향을 준다는 점을 잘 보여주는 영상입니다.
