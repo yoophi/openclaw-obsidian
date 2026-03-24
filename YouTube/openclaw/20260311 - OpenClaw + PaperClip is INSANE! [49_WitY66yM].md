@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/julian-goldie-seo
+  - topic/general
+  - date/2026-03-11
 ---
 
 # OpenClaw + PaperClip is INSANE!

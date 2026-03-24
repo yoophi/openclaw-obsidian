@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/manolo-remiddi
+  - topic/memory
+  - date/2026-02-16
 ---
 
 # I turned OpenClaw into a Beast. (ResonantOS Memory Fix)

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/편집자p
+  - topic/setup
+  - date/2026-03-20
 ---
 
 # 클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE)

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/ziosec
+  - topic/security
+  - date/2026-01-30
 ---
 
 # How to Set Up OpenClaw (Clawdbot) Without Getting Hacked: Isolation + Least Privilege + Firewall

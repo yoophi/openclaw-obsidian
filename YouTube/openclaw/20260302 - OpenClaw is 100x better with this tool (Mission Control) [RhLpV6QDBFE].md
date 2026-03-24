@@ -9,6 +9,11 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/alex-finn
+  - topic/mission-control
+  - topic/tools
+  - topic/comparison
+  - date/2026-03-02
 ---
 
 # OpenClaw is 100x better with this tool (Mission Control)

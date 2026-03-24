@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/lowcode-agency
+  - topic/general
+  - date/2026-03-10
 ---
 
 # I let AI run my agency for 2 hours (Paperclip Experiment)

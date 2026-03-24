@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/aicodeking
+  - topic/general
+  - date/2026-02-28
 ---
 
 # OpenClaw + Codex & Claude Code (Agent Swarm): This is the CRAZIEST way to use OpenClaw!

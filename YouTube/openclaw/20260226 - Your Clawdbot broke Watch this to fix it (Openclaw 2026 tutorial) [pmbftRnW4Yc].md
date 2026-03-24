@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/alessandro-colford
+  - topic/setup
+  - date/2026-02-26
 ---
 
 # Your Clawdbot broke? Watch this to fix it (Openclaw 2026 tutorial)

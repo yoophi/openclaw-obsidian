@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/onchain-ai-garage
+  - topic/comparison
+  - date/2026-03-11
 ---
 
 # Better than OpenClaw? Testing Hermes Agent w/ Qwen 3 model

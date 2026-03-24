@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/matthew-berman
+  - topic/use-cases
+  - date/2026-02-17
 ---
 
 # 21 INSANE Use Cases For OpenClaw...

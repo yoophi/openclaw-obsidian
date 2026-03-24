@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/devs-kingdom
+  - topic/subagents
+  - date/2026-02-24
 ---
 
 # OpenClaw Multi-Agent + Ollama: 10X Productivity with SubAgent Team

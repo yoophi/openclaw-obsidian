@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/adam-goodyer
+  - topic/general
+  - date/2026-02-24
 ---
 
 # I Tamed Claude & OpenClaw with BMAD v6 — Free Framework Breakdown

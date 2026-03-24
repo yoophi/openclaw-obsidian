@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/peter-yang
+  - topic/general
+  - date/2026-02-01
 ---
 
 # How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger

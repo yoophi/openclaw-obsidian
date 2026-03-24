@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/openclaw-labs
+  - topic/memory
+  - date/2026-02-27
 ---
 
 # Openclaw Memory Mistake You're Making Right Now

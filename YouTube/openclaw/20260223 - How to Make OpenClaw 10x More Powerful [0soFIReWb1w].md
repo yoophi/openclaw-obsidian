@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/larue
+  - topic/general
+  - date/2026-02-23
 ---
 
 # How to Make OpenClaw 10x More Powerful

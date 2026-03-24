@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/sean-matthew
+  - topic/general
+  - date/2026-02-24
 ---
 
 # I Gave OpenClaw Its Own Computer (Here's Why)

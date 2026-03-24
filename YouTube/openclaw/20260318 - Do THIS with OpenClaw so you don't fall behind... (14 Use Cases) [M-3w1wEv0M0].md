@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/matthew-berman
+  - topic/use-cases
+  - date/2026-03-18
 ---
 
 # Do THIS with OpenClaw so you don't fall behind... (14 Use Cases)

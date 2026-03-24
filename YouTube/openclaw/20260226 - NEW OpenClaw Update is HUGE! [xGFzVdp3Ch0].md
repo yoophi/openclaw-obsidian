@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/boxminingai
+  - topic/updates
+  - date/2026-02-26
 ---
 
 # NEW OpenClaw Update is HUGE!

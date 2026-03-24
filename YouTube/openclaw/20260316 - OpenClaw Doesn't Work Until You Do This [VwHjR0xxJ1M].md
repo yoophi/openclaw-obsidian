@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/openclaw-labs
+  - topic/general
+  - date/2026-03-16
 ---
 
 # OpenClaw Doesn't Work Until You Do This

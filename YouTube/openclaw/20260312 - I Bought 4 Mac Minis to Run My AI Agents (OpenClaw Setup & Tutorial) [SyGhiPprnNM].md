@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/keven-builds
+  - topic/setup
+  - date/2026-03-12
 ---
 
 # I Bought 4 Mac Minis to Run My AI Agents (OpenClaw Setup & Tutorial)

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/mayukh-builds
+  - topic/mission-control
+  - date/2026-03-18
 ---
 
 # I Built an OpenClaw Mission Control You Can Talk To (Raspberry Pi)

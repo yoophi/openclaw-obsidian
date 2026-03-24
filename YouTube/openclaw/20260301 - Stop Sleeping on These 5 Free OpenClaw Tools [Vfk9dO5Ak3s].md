@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/zach-babiarz
+  - topic/tools
+  - date/2026-03-01
 ---
 
 # Stop Sleeping on These 5 Free OpenClaw Tools

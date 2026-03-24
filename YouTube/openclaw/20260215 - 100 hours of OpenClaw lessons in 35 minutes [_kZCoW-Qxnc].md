@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/alex-finn
+  - topic/general
+  - date/2026-02-15
 ---
 
 # 100 hours of OpenClaw lessons in 35 minutes

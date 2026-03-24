@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/agentic-lab
+  - topic/comparison
+  - date/2026-03-17
 ---
 
 # I Replaced OpenClaw with Claude Code (It's Not Even Close)

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/boxminingai
+  - topic/setup
+  - date/2026-03-17
 ---
 
 # NemoClaw Setup Guide: FASTEST Way to Install

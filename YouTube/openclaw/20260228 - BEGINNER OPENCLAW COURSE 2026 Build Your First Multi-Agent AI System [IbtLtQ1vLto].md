@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/kevin-jeppesen---the-operator-vault
+  - topic/subagents
+  - date/2026-02-28
 ---
 
 # BEGINNER OPENCLAW COURSE 2026: Build Your First Multi-Agent AI System

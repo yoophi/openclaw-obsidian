@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/openclaw-labs
+  - topic/comparison
+  - date/2026-03-07
 ---
 
 # 5 OpenClaw Hacks That Replace Team Members

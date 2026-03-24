@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/softwaregent
+  - topic/general
+  - date/2026-03-03
 ---
 
 # I Build a FREE OpenClaw with Antigravity + Opencode (It’s INSANE)

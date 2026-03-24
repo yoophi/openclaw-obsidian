@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/vibe-with-ai
+  - topic/setup
+  - date/2026-02-27
 ---
 
 # Openclaw Henry - My 24/7 Agent on Mac Mini (Detailed Setup)

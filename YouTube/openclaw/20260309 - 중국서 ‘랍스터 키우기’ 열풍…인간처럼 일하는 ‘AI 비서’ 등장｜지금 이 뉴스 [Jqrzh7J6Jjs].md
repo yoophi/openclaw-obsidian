@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/jtbc-news
+  - topic/general
+  - date/2026-03-09
 ---
 
 # 중국서 ‘랍스터 키우기’ 열풍…인간처럼 일하는 ‘AI 비서’ 등장｜지금 이 뉴스

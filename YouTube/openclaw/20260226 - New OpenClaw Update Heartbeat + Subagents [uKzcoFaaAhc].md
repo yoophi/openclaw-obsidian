@@ -9,6 +9,10 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/julian-goldie-seo
+  - topic/subagents
+  - topic/updates
+  - date/2026-02-26
 ---
 
 # New OpenClaw Update: Heartbeat + Subagents

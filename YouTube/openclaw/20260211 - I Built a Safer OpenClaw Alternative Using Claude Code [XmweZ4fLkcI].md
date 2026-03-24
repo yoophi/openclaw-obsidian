@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/cole-medin
+  - topic/general
+  - date/2026-02-11
 ---
 
 # I Built a Safer OpenClaw Alternative Using Claude Code

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/stack-snacks
+  - topic/general
+  - date/2026-02-06
 ---
 
 # Why I Prefer Zo Over OpenClaw

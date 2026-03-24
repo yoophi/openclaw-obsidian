@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/clearmud
+  - topic/general
+  - date/2026-02-12
 ---
 
 # I have 25 AI Agents working 24/7 with Openclaw

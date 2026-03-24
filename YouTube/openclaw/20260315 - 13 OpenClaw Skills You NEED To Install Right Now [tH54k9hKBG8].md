@@ -9,6 +9,10 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/dubibubii
+  - topic/setup
+  - topic/tools
+  - date/2026-03-15
 ---
 
 # 13 OpenClaw Skills You NEED To Install Right Now

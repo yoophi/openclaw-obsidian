@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/jay-e-|-robonuggets
+  - topic/comparison
+  - date/2026-03-17
 ---
 
 # Does NemoClaw Replace OpenClaw? (Full Comparison)

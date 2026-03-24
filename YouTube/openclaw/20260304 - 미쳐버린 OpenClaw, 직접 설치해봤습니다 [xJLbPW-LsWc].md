@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/대모산-개발단
+  - topic/setup
+  - date/2026-03-04
 ---
 
 # 미쳐버린 OpenClaw, 직접 설치해봤습니다

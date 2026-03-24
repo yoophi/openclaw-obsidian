@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/javascript-mastery
+  - topic/setup
+  - date/2026-02-20
 ---
 
 # Deploy Your Own AI Agent in 45 Minutes | Beginner OpenClaw Tutorial

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/clearmud
+  - topic/subagents
+  - date/2026-03-03
 ---
 
 # Build a Multi-Agent Team with Openclaw

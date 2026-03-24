@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/firecrawl
+  - topic/tools
+  - date/2026-02-25
 ---
 
 # Upgrade Your Openclaw With Firecrawl Browser Feature

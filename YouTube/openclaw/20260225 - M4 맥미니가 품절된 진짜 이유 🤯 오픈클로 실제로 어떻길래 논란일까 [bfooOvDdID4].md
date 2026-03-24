@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/방구석-리뷰룸
+  - topic/general
+  - date/2026-02-25
 ---
 
 # M4 맥미니가 품절된 진짜 이유 🤯 오픈클로 실제로 어떻길래 논란일까?

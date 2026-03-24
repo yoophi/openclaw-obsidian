@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/brian-casel
+  - topic/general
+  - date/2026-02-25
 ---
 
 # How to create JOBS for OpenClaw agents

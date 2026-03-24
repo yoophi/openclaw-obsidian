@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/코난쌤-conanssam
+  - topic/comparison
+  - date/2026-03-17
 ---
 
 # 탠덤 브라우져를 오픈클로 메인으로 바꾼 이유, AI용 브라우져 크롤링 비교(스크래플링 vs 탠덤)

@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/dave-swift
+  - topic/memory
+  - date/2026-02-18
 ---
 
 # My OpenClaw Is Forgetting Everything — Here's How I Fixed It

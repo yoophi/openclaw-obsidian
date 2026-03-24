@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/jacob-klug
+  - topic/mission-control
+  - date/2026-02-23
 ---
 
 # OpenClaw Built This $250K Mission Control in a Single Prompt

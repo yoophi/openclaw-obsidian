@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/jordan-rafealov
+  - topic/general
+  - date/2026-02-25
 ---
 
 # You’re Using OpenClaw Wrong - Copy These 14 Prompts (ClawdBot)

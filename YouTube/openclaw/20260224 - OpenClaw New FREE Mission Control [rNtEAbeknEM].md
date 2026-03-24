@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/julian-goldie-seo
+  - topic/mission-control
+  - date/2026-02-24
 ---
 
 # OpenClaw: New FREE Mission Control

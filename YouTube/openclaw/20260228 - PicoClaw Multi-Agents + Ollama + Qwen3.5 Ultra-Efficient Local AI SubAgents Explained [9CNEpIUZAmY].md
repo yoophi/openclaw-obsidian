@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/devs-kingdom
+  - topic/subagents
+  - date/2026-02-28
 ---
 
 # PicoClaw Multi-Agents + Ollama + Qwen3.5: Ultra-Efficient Local AI SubAgents Explained

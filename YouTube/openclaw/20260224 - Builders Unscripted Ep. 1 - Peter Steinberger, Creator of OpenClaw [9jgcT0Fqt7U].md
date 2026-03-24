@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/openai
+  - topic/general
+  - date/2026-02-24
 ---
 
 # Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw

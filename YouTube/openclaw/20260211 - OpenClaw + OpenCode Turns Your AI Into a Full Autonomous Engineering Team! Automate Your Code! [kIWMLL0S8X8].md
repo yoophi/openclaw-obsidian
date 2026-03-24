@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/worldofai
+  - topic/general
+  - date/2026-02-11
 ---
 
 # OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!

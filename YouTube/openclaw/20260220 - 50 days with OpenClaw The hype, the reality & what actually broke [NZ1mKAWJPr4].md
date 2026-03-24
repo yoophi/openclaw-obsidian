@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/velvetshark
+  - topic/general
+  - date/2026-02-20
 ---
 
 # 50 days with OpenClaw: The hype, the reality & what actually broke

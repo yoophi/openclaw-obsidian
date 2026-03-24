@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/눈쟁이
+  - topic/general
+  - date/2026-03-04
 ---
 
 # 자비스 프로토타입 오픈클로 2주 사용기

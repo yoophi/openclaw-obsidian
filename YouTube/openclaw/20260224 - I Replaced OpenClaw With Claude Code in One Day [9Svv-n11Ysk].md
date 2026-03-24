@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/mark-kashef
+  - topic/comparison
+  - date/2026-02-24
 ---
 
 # I Replaced OpenClaw With Claude Code in One Day

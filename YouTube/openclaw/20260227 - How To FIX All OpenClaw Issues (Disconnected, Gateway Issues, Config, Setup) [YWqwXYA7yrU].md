@@ -9,6 +9,10 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/kevin-jeppesen---the-operator-vault
+  - topic/setup
+  - topic/architecture
+  - date/2026-02-27
 ---
 
 # How To FIX All OpenClaw Issues (Disconnected, Gateway Issues, Config, Setup)

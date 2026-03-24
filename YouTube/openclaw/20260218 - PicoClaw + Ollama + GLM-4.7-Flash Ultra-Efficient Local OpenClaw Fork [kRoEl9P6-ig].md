@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/devs-kingdom
+  - topic/general
+  - date/2026-02-18
 ---
 
 # PicoClaw + Ollama + GLM-4.7-Flash: Ultra-Efficient Local OpenClaw Fork

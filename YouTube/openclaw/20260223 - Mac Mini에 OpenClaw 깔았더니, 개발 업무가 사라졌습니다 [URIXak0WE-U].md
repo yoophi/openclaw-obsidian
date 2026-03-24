@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/tech-bridge
+  - topic/general
+  - date/2026-02-23
 ---
 
 # Mac Mini에 OpenClaw 깔았더니, 개발 업무가 사라졌습니다

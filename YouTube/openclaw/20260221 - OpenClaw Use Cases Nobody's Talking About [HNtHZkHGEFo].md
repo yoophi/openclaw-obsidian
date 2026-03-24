@@ -9,6 +9,9 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/dubibubii
+  - topic/use-cases
+  - date/2026-02-21
 ---
 
 # OpenClaw Use Cases Nobody's Talking About

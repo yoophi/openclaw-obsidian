@@ -9,6 +9,10 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/boxminingai
+  - topic/setup
+  - topic/tools
+  - date/2026-02-25
 ---
 
 # Openclaw SKILLS Setup Guide

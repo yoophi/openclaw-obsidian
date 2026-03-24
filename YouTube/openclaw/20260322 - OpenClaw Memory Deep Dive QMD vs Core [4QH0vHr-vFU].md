@@ -9,6 +9,10 @@ playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF
 tags:
   - youtube-summary
   - openclaw
+  - channel/openclaw-labs
+  - topic/memory
+  - topic/comparison
+  - date/2026-03-22
 ---
 
 # OpenClaw Memory Deep Dive: QMD vs Core
