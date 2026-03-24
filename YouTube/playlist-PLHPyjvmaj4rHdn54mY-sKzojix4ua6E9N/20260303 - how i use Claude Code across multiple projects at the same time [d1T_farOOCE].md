@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/d1T_farOOCE/maxresdefault.jpg
 
 ## 한글 요약
-## how i use Claude Code across multiple projects at the same time
-The creator demonstrates using an app called Cox to aggregate Claude Code sessions so they can work across multiple repos and workspaces at once. The interface offers vertical and horizontal tabs, quick workspace creation and folder navigation (cd into a workspace), resizable panes, and audio/visual notifications when an agent needs input; *"this is how I've been managing to code across multiple repos simultaneously."* 
+## 여러 프로젝트에서 동시에 Claude Code를 쓰는 방법
 
-He also shows an approval flow: agents stop and request confirmation before running risky CLI actions, and a safety-net plugin blocks dangerous commands (examples called out include file removal, installing updates, or reaching external APIs) until he approves them; *"keeps my agents from running dangerous commands in the CLI."* When his Claude quota ends he swaps to another model (Codeex) and continues the same workflow.
+이 영상은 여러 프로젝트를 병렬로 진행할 때 Claude Code를 어떻게 운영하는지 설명합니다. 핵심은 프로젝트별 문맥을 잘 분리하고, 동시에 흐름을 유지하는 전략입니다.
+
+멀티프로젝트 환경에서 AI 도구를 실전적으로 쓰는 관점을 보여줍니다.

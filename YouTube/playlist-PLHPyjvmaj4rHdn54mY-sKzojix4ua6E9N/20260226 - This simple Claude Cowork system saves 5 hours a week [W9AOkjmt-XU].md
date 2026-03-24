@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/W9AOkjmt-XU/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
+## 단순한 Claude 협업 시스템이 주당 5시간을 아껴주는 이유
 
-The video demonstrates a three-level Claude/Cloud Co-work workflow that turns an LLM from an adviser into an active assistant: Do, Make, and Know. At the Do level you give the AI a folder and a clear system prompt (stored in a cloud.md file) and it performs single, repeatable tasks — e.g., scan a miscellaneous folder, *“rename each one of the files in this specific format”* and log every change to change_log.txt so work isn’t repeated. The presenter highlights connector permissions (read vs write), picking a stronger model for complex tasks (opus 4.6), and a strict constraint set (never delete files) to keep automation safe and auditable.
+이 영상은 복잡한 자동화보다도, 단순한 Claude 기반 협업 구조만으로도 시간을 꽤 절약할 수 있다는 점을 보여줍니다. 핵심은 매주 반복되는 작업과 의사결정을 줄이는 운영 루프입니다.
 
-The Make level shows how a single input (like a meeting transcript) can spawn parallel sub‑agents that read/write across systems (calendar, Gmail, CRM, Drive) and produce deliverables simultaneously: a follow‑up email, an action‑item spreadsheet with formatting, and a PDF executive summary. Sub‑agents preserve large context (around 200,000 tokens each) so outputs stay high quality and faster. The Know level adds a persistent memory text file that the AI reads before acting and updates after each session, letting it *“transition this from a tool to an asset”* by accumulating client preferences, recurring themes, and key decisions over time. The walkthrough focuses on concrete prompts, folder-level instructions, connector capabilities, logging, and constraints as the key components that make the system reliable and progressively more valuable.
+거창한 에이전트 시스템보다, 작지만 반복 가능한 협업 구조가 실제 효율을 크게 올릴 수 있다는 메시지를 줍니다.

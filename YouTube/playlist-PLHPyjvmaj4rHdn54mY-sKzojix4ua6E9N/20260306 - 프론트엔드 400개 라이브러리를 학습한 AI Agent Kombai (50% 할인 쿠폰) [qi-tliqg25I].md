@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/qi-tliqg25I/maxresdefault.jpg
 
 ## 한글 요약
-## Kombai — frontend‑specialized AI agent (demo)
+## 프론트엔드 400개 라이브러리를 학습한 AI Agent | Kombai (50% 할인 쿠폰) 요약
 
-The video’s core claim is that Kombai is a frontend‑focused agent that produces more consistent, production‑ready UI than general coding LLMs by combining a human‑verified RAG built from 400+ frontend libraries, component indexing, and a configurable tech‑stack rule set. The presenter demos three built‑in skills—Create Wireframe, Review Design, and implementation—showing how Kombai indexes a project’s components, reuses them, and enforces stack rules so the agent generates code that matches existing patterns and avoids hallucinated choices. *Kombai is built on a RAG system based on over 400 frontend libraries and frameworks.*
+이 영상은 프론트엔드 400개 라이브러리를 학습한 AI Agent | Kombai (50% 할인 쿠폰)를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 
-In the walkthrough the creator generates wireframes for a pricing page, signup/login, and a dashboard; wireframes flag reused components (green) and new ones (orange), then Kombai builds the dashboard, runs an automated browser verification, and runs a design review that reported 14 issues (3 critical). The agent fixes critical problems (example: sidebar fixed from a 220px mobile width to a responsive hamburger), applies animations and UI resources (number ticker, animated list, gradient hover), and offers SEO and accessibility checks; the extension also supports selecting DOM areas or elements and sending targeted prompts to refine UI. *component indexing identifies which existing components to reuse and which new ones to create*
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

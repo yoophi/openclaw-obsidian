@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/8oLP8oxqtOE/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code + CMUX: The Ultimate AI Coding Terminal
+## Claude Code + CMUX: The Ultimate AI Coding Terminal 요약
 
-This demo shows Semox (referred to as CMOX/CMAX in the clip), a native macOS terminal that exposes a CLI and a Unix socket JSON API so AI agents can control panes, browsers, and other UI elements. Core claim: give coding agents full control of the development environment—open a browser in a split, navigate and interact with pages (including devtools), spawn parallel subagents in separate panes to analyze or test code, and return results to the main agent. The presenter walks through Claude using the CLI to open Google, type a search, click links, run parallel analyses in two splits that later close themselves, and surface results in a sidebar. *This is Semox, a terminal built for coding agents that gives them the ability to open and control a browser*.
+이 영상은 Claude Code + CMUX: The Ultimate AI Coding Terminal를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 
-Key features and evidence from the demo: agents can create and manage splits/tabs, show logs and progress in the sidebar, rename tabs and add branch icons, and trigger visible notifications (the “trigger flash” command creates a blue flashing border on a pane). Communication happens via a Unix socket and JSON, which the presenter says helps keep interactions fast and simple. Setup currently requires manually installing agent “skills” and hooking Claude Code (the presenter disabled sandboxing during the demo), and they note a desire for an easier installer or auto-detection like skills.sh. Overall the clip is practical if you want to see a hands-on demonstration of agent-driven workflows, real-time browser automation inside a terminal layout, and how notifications/progress are surfaced back to the developer. *The trigger flash command activates a blue flashing border on the specified pane.*
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

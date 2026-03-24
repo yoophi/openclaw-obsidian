@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/WQ6xcjB-tqU/maxresdefault.jpg
 
 ## 한글 요약
-## OpenCode agents in 16 minutes — core takeaways
-The video’s core claim is that custom OpenCode agents let you treat the environment like infrastructure instead of a chat interface, improving consistency, speed, and safety by packaging workflows, tools, constraints, and instructions into reusable units. Primary agents drive interaction while sub agents handle narrow, read-or-write-limited tasks; *"Agents let you package a workflow, tools, constraints, instructions so you can run it again."* Agents are defined as plain files: *"An open code agent is really just a markdown file with a YAML front matter."* That front matter controls model, tools, permissions, temperature and mode, which lets teams standardize behavior across repos.
+## OpenCode Agents in 16 Minutes & my best tips 요약
 
-Concrete demos show how this works in practice: a reviewer sub-agent with write disabled analyzed a Python file, produced categorized findings (high/medium/low), and auto-created a code-review document with line-level evidence and a recommended fix; switching modes can make the same agent primary so you can invoke it directly. The presenter explains agent primitives (agents = configured assistants, skills = reusable playbooks, commands = shortcuts), shows JSON and Markdown agent definitions, and demonstrates the BMAD framework that installs prebuilt agent personas (project manager, developer, UX, quick-flow solo dev) to scaffold tasks like building a Pygame snake or a static React/Vite site. The takeaway: design one-job-per-agent, combine agents + skills + commands, and iterate prompts to continuously raise baseline quality across projects.
+이 영상은 OpenCode Agents in 16 Minutes & my best tips를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
+
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/I9kO6-yPkfM/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code + Playwright CLI — quick take
+## Claude Code + Playwright = INSANE Browser Automations 요약
 
-This clip demos using Claude Code to run Playwright CLI browser automation for fast, parallel UI testing. The core claim is that the Playwright CLI is far more efficient than the older MCP server or the Claude-in-browser approach: it supports headless browsers, parallel “sub agents,” and dramatically lower token use (the presenter cites an example gap of ~90,000 tokens). Practically, the CLI saves the page’s accessibility tree to disk and only sends a compact summary to Claude Code, which explains the token savings; you can run headed sessions for debugging, capture screenshots, and check happy-path plus edge-case form validation across multiple simultaneous agents. *"Claude Code just spawned three sub agents."* *"it takes screenshots of your web page"*
+이 영상은 Claude Code + Playwright = INSANE Browser Automations를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 
-The video also covers setup and workflow automation: install the Playwright CLI and a browser engine, wire the Playwright skill into Claude Code, then use plain-language prompts to run tests or package the whole workflow as a reusable skill (so you can repeatedly run the same multi-agent UI tests without re-describing steps). If you want a practical demo of how to convert one-off browser checks into repeatable, low-cost automated tests inside Claude Code, this video shows the end-to-end pattern and tradeoffs.
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

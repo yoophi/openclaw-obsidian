@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/WtMTUSpl1Fc/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-Enthropic's Claude Code update sharpens its agent workflow: a rebuilt skill creator adds automated "evolve" tests, multi-agent benchmarking and regression checks so skills can be validated and fixed as models change. The scale-evolve benchmarks report pass rate, runtime and token usage; the creator can auto-generate test scenarios (example: a PDF form skill that learned to anchor to text coordinates to fill missing fields). *Claude Code is Enthropic's terminal-based AI coding agent that can build, debug, and ship applications directly from your terminal.* *This mode extends the reasoning budget of models like Opus and Sonnet.*
+## Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! 요약
 
-Practical UX and tooling changes aim to make agents more reliable and usable: ultrathink/ultra mode (Opus and Sonnet 4.6) raises the reasoning budget for complex, multi-step coding and debugging (the presenter used it to generate a full-stack React+TypeScript calendar app); a remote-control feature lets paid users start and monitor runs from phones; voice mode (rolling out to a small percent of users) enables /voice transcription; a built-in Claude API skill detects language, picks interfaces, and pulls docs into sessions; a read-only Cloud Code guide agent answers CLI/SDK questions; /simplify analyzes diffs, finds reusable patterns, and applies edits (it can spawn parallel analyzers like haiku 4.5 or be routed to other agents); and a Slack plugin surfaces team context inside Cloud Code. Together these changes emphasize automated testing, longer-horizon reasoning, and tighter integrations to speed iteration and reduce manual context-switching.
+이 영상은 Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More!를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
+
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

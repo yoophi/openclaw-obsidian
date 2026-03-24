@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/eRr2rTKriDM/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take
-This clip’s core claim: pair Claude Code with an Obsidian vault to give Claude persistent, browsable memory so it behaves more like a personal assistant. Claude turns loose input into properly formatted Markdown inside your vault, maintains a project-level *claude.md* for conventions, and uses Obsidian’s links and graph view to expose relationships Claude can reason over. *"Obsidian is an orchestration layer, an organization layer on top of your markdown files in a specific folder known as a vault."*
+## Claude Code + Obsidian 조합이 강력한 이유
 
-Supporting points and evidence: Obsidian provides a middle ground between a chaotic file dump and a heavyweight RAG/embedding system—organized, low-friction file linking that’s easy for humans to inspect. Claude can auto-create and link notes to match Obsidian conventions, keep *claude.md* as a living system message for non-code workflows, and periodically reconcile notes and conventions to improve future responses; the presenter contrasts this practical setup with a study that questioned repository-level context for coding agents but argues such conventions still help when they encode personal, non-code structure. *"Claude Code essentially supercharges the Obsidian experience for you."*
+이 영상은 Claude Code와 Obsidian을 함께 사용하면 왜 지식 관리와 실행 흐름이 강해지는지 설명합니다. 핵심은 메모와 AI 실행 보조가 하나의 루프로 연결된다는 점입니다.
+
+개인 지식 시스템과 코딩 에이전트를 함께 쓰는 사람에게 특히 의미 있는 조합입니다.

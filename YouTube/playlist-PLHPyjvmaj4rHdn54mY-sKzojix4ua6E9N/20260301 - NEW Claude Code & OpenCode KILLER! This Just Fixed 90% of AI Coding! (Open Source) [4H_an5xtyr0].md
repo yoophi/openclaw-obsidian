@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/4H_an5xtyr0/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-The video presents CodeBuff, an open-source AI coding agent that coordinates multiple specialized sub-agents rather than relying on a single model. The core claim is that this multi-agent approach yields faster execution and higher-quality code: internal tests on a 175-task suite (reconstructing git commits) show large gains in completion, efficiency, and code quality, and a concrete example compares a ~20-minute run from another agent to CodeBuff’s 6 minutes 45 seconds. *we finally have an AI coding agent that is not only faster than existing agents, but produces higher quality code* *Codebuff finished earlier and got it right.*
+## Claude Code & OpenCode 킬러 조합이 AI 코딩 문제의 90%를 해결한다는 주장
 
-Key supporting details: CodeBuff initializes a project directory and creates a knowledge.md to give agents project context, then launches parallel sub-agents that produce, review, and diff multiple solutions in real time; the UI is interactive (mouse/TUI) and lets you inspect, pause, and visualize agent topology. It offers model modes (free tier with Miniax M2.5, default and max using Opus 4.6 with a multi-prompt editor agent), a “plan” mode to produce implementation plans, and token-tiered usage options ($100=1x, $200=3x, $500=8x). The presenter concludes the workflow feels noticeably smoother and substantially faster for hands-on engineering tasks.
+이 영상은 새로운 오픈소스 조합이 기존 AI 코딩 도구의 큰 문제를 해결할 수 있다는 관점에서 소개됩니다. 발표자는 더 실용적인 워크플로우와 개선된 사용 경험을 강조합니다.
+
+과장이 섞여 있지만, 핵심은 AI 코딩 도구 시장이 빠르게 진화하고 있고 더 나은 조합이 계속 등장하고 있다는 점입니다.

@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/L36aPV6g2II/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code Mobile: what it does and why it matters
-Anthropic’s Claude Code mobile (remote control) lets you start a project on your desktop and continue editing it on your phone while the code actually runs on your computer, removing the need for SSH, cloud builds, or manual merges. The demo builds a Next.js markdown “second brain” app on localhost, uses the slash command /remote control to push the live session to a phone (either via browser link or the app), and shows edits made on the phone being executed back on the desktop in real time with a visible change log. *"You can now claude code natively on your phone on the go."*  
+## Claude Code Mobile이 AI 코딩을 바꿔놓은 이유
 
-The video compares use cases versus an agent-based tool (OpenClaw): use OpenClaw for quick prototypes, passive/background task lists, or tooling that relies on long-term agent context; use Claude Code (now mobile) for hands-on, complex projects where you want step‑by‑step control and nuanced prompts. Claude Code mobile’s strengths are local execution (no extra merge work), live UI feedback, and richer interactive prompting; its limits are that it’s not built for unattended background runs. *"When you send it to your phone, it actually keeps running on your computer."* Watch if you want a practical walkthrough of setup, a live build-and-edit demo, and a clear comparison of when to pick Claude Code versus an agent workflow.
+이 영상은 Claude Code Mobile이 원격 제어와 이동 중 작업 흐름 측면에서 왜 큰 변화인지 설명합니다. 핵심은 데스크톱 앞에 앉아 있지 않아도 에이전트 작업을 이어가고 확인할 수 있다는 점입니다.
+
+즉 AI 코딩 도구가 점점 고정된 작업 공간을 벗어나, 더 유연한 모바일 운영 흐름으로 확장되고 있다는 메시지를 전합니다.

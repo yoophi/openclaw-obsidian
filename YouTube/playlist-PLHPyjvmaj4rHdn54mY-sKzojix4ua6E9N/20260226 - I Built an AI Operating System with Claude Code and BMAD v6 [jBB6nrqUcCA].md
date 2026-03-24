@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/jBB6nrqUcCA/maxresdefault.jpg
 
 ## 한글 요약
-## AI “operating system” for content teams — quick summary
+## Claude Code와 BMAD v6로 AI 운영체제 만들기
 
-The creator built a production content module inside Claude Code that organizes six collaborating agents (content strategist, copywriter, creative director, editor, video editor, publisher) into a three-layer architecture: modules (business process), agents (role-based actors) and workflows (reusable tools like transcription, clipping, long/short‑form edit, image generation). The system adds persistent memory (a “sidecar”) so agents share context and reference prior posts, research and brand guidelines; the presenter’s claim: *“We built a single module with six AI agents, each with a specific role that replaced 80% of our marketing process.”* He frames isolated agents as ineffective: *“That's not a workforce. That's chaos.”*
+이 영상은 Claude Code와 BMAD v6를 결합해 하나의 AI 운영체제처럼 동작하는 시스템을 구축하는 사례를 보여줍니다. 핵심은 단일 모델 사용을 넘어서 역할과 프로세스를 구조화하는 데 있습니다.
 
-Evidence is operational rather than hypothetical: the team prototyped the suite in about 10 days, used it to edit recent videos and schedule multi‑channel posts, and reported improved reach (about 50,000 LinkedIn impressions and nearly 10,000 YouTube views in a strong week) and faster ideation-to-publication. The demo shows agents calling shared workflows and commands (examples mentioned: create_module, create_agent, create_workflow), reorganizing with the BMAD framework for clearer data structure, and running inside an IDE so updates and persistent memory are available across the pipeline—so the video is useful if you want a practical, production‑oriented pattern for turning LLM agents into an integrated content workforce.
+작업을 체계적으로 분해하고 반복 흐름을 만드는 것이 진짜 생산성 향상 포인트라는 점을 강조합니다.

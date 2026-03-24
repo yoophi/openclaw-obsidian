@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/hv0V0GJpC78/maxresdefault.jpg
 
 ## 한글 요약
-## Pi coding agent — concise summary
+## Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! 요약
 
-Pi is an open-source, terminal-first coding agent that prioritizes minimal core behavior and deep customization over an opinionated default experience. It ships with four basic tools (read, write, edit, bash), supports 15+ model providers, uses a small system prompt to let models reason (*PI has a roughly 200 token system prompt.*) and stores conversations as branching trees with automatic compaction for long contexts. *"adapt the tool to your workflow, not the other way around."*
+이 영상은 Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER!를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 
-Pi’s standout features are its TypeScript extension system and extensive hook surface (25+ hook points) that let you register tools, intercept or block dangerous commands, add UI widgets, and compose complex behaviors like subagents or custom task flows. It offers multiple integration modes (interactive terminal UI, print/JSON for scripting, RPC, and a TypeScript SDK), on‑demand skills that keep context lean, and an npm/git/local package ecosystem. Tradeoffs: higher setup and learning cost, no built-in enterprise/team features, no MCP server support, and some capabilities (subagents, task lists) require you to implement extensions yourself. Overall, Pi is compelling for mid/senior engineers who want full control, experimentation, and cost flexibility by choosing different models for different tasks.
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

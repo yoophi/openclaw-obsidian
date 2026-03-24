@@ -23,8 +23,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/RAZVk5NPNtE/maxresdefault.jpg
 
 ## 한글 요약
-## Skill creator for assistant workflows
+## Claude Code Skills Just Got Even Better 요약
 
-The video’s core claim: a new “skill creator” tool makes building, testing and improving assistant skills far faster and more reliable by automating best practices for authoring, evaluating and tuning those text‑based recipes. The presenter defines a skill as plain text instructions — *"It's basically just a recipe."* — and distinguishes two kinds: capability‑uplift skills (prompts that teach the model to do a task better, e.g., front‑end design tips) and encoded‑preference skills (sequential workflows that enforce a specific multi‑step process, e.g., an idea‑mining pipeline that runs parallel agents and consolidates results). He explains that capability skills can become redundant as base models improve, whereas encoded‑preference skills tend to stay useful because they codify a user‑specific procedure.
+이 영상은 Claude Code Skills Just Got Even Better를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 
-Supporting evidence and demo: the skill creator can “create new skills. It can modify and improve existing skills.” It also runs evaluations and benchmarks (pass rate, elapsed time, token usage) to catch regressions or spot growth so you know when to retire or refine a skill, and it offers trigger‑tuning to reduce false activations. In a live build the presenter asked the tool to make a “YouTube weekly roundup” skill: the creator scaffolded YAML, scripts and templates, ran tests, produced a PDF report (metrics, per‑video breakdown, SWOT, competitor context and trending topics), and iterated after human feedback to fix data‑scraping gaps. The workflow shows how the tool shortens the loop from spec to a working skill and embeds continuous evals so outputs improve with reuse.
+전체적으로 실전 사용 경험과 구조적 활용 포인트를 정리해 주는 요약형 콘텐츠입니다.

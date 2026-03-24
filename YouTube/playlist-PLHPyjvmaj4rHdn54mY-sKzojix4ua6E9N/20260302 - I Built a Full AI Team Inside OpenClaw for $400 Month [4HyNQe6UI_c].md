@@ -22,8 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/4HyNQe6UI_c/maxresdefault.jpg
 
 ## 한글 요약
-## I Built a Full AI Team Inside OpenClaw for $400/Month
+## OpenClaw 안에 전체 AI 팀을 만든 사례
 
-An 18‑year‑old founder, Vim, runs his startup using a single OpenClaw/OpenCloud instance that hosts about 15–16 subagents (sessions) for development, research, copywriting, clipping, monitoring and more. Agents run scheduled cron jobs and on‑demand flows so work happens 24/7: a developer agent (Claude/Cloud Code + Codeex) can scan the repo, build features and open pull requests overnight, a researcher (Alice) compiles virality playbooks, Scribe drafts posts, Trendy scouts trends, Clip turns videos into scheduled clips, and Sentinel audits code and user errors every two hours. *"This 18-year-old is running his entire company on 15 AI agents powered by OpenCloud."*
+이 영상은 OpenClaw 내부에 여러 역할의 AI 팀을 구성해 운영한 사례를 보여줍니다. 핵심은 단일 에이전트가 아니라 팀 구조가 생산성을 더 크게 끌어올린다는 점입니다.
 
-Vim’s stack mixes paid cloud access and API keys across models to optimize cost and capability (Claude via an OOTH Cloud Code route, GLM 4.7/GLM5, Grok, Hickfield/Cling AI, Remotion for motion, a Google image model, etc.). He reports about $400/month total: roughly $250 for the cloud subscription plus $150 for API credits. He built a simple mission‑control UI early to visualize memory files, agent prompts and task routing, and emphasizes heavy prompt/context engineering — agents do what you specify, not magic autonomy. *"I went to bed and I woke up with a new feature on my own behalf."* Vim argues this model can scale—acquiring or integrating other people’s agent setups—and sees OpenClaw as promising if you invest in structured prompts, cron jobs and monitoring.
+비용 대비 어느 정도의 자동화를 얻을 수 있는지도 함께 보여주는 운영 사례입니다.

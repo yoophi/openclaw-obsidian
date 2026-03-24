@@ -22,7 +22,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/mk02bSQmEKY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGQCIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAGosETUOy-McpFTn0ZqLOZjG10EA
 
 ## 한글 요약
-## Introducing Superset — quick take
-Superset is presented as a terminal-style "command center" for running multiple coding agents in parallel; the demo shows an agent (Claude) spun up alongside others with live notifications and concurrent output. The presenter highlights orchestration and visibility as the core claim: you can run several agents at once and watch them work.
+## Superset 소개
 
-Feature highlights shown include persistent workspaces tied to Git, visible ports and dev servers, PR “pills” and a built-in diff viewer, a file tree, and a Linear integration that creates a workspace from a ticket. Key lines: *Superset, the command center for running all your coding agents in parallel* and *workspaces, which are basically isolated environments backed by Git work trees*.
+이 영상은 Superset이 무엇인지, 어떤 문제를 해결하려는 도구인지 간단히 소개합니다. 큰 틀에서는 데이터를 더 잘 탐색하고 시각화하는 플랫폼으로 이해할 수 있습니다.
+
+실전 사용 전 개념을 잡는 소개용 영상에 가깝습니다.
