@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/8kNv3rjQaVA/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw: what the video claims and shows
-The clip presents OpenClaw as a locally run, open-source personal AI assistant you can tailor via two files (identity.md and soul.md) and a memory system that saves daily notes, vectorizes them for RAG search, and "learns from you." It demonstrates real workflows: a personal CRM that ingests Gmail, calendar and meeting transcripts to auto-create profiles, extract action items and send reminders (the presenter says he has 371 local contacts), a knowledge base that ingests articles, tweets and videos into SQLite with vector embeddings, and a nightly business advisory that runs parallel expert agents across 14 data sources to synthesize ranked recommendations.
+## OpenClaw의 강력한 활용 사례 21가지
 
-The video also covers security, backups, scheduling and content pipelines: a security council that scans code, commits and logs nightly (3:30 a.m.), cron jobs that run tasks like Fathom ingestion every five minutes and hourly backups to encrypted archives on cloud storage, and a dev workflow using sub-agents and automated updates. Other examples: social-media trackers, an automated video-idea pipeline that researches and creates Asana cards, image/video generation integrations, and a food journal that identifies triggers from photos and symptom logs. The presenter includes concrete prompts used to build each pipeline and emphasizes iterative tuning, permission lockdowns, prompt-injection defenses and encrypted hourly backups to recover a full setup. *"OpenClaw is the most important AI software I have ever used."* *"It learns from you."*
+이 영상은 OpenClaw를 어디에 쓸 수 있는지 감을 잡기 어려운 사람들을 위해, 실전 활용 사례를 대량으로 소개하는 형식입니다. 발표자는 단순 질의응답을 넘어서 자동화, 비서 업무, 운영 관리, 정보 정리, 콘텐츠 흐름 같은 다양한 사용 시나리오를 나열하면서 OpenClaw의 확장성을 보여줍니다.
+
+핵심 메시지는 OpenClaw를 ‘무엇이든 되는 만능 도구’처럼 보는 것이 아니라, **반복적이고 문맥이 필요한 작업을 이어서 처리하는 시스템**으로 이해해야 한다는 점입니다. 활용 사례를 많이 보는 것만으로도 자신의 업무에 맞는 적용 아이디어를 얻을 수 있다는 점에서 입문자에게 유용한 영상입니다.

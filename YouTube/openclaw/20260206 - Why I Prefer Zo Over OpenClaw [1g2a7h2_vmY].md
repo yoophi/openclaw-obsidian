@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/1g2a7h2_vmY/maxresdefault.jpg
 
 ## 한글 요약
-## Quick take — is this clip worth your time?
+## 왜 이 발표자는 OpenClaw보다 Zo를 선호하나
 
-The creator argues Zo is a faster, easier alternative to running a local Claude/OpenClaw setup, and demonstrates four practical strengths: easy site building, a terminal-backed "cloud code" editor with full file access, scheduled tasks that send SMS/email and read your calendar, and a skills framework for reusable automations. He shows a real workflow: spinning up a markdown blog in minutes, having Zo write and save sample posts to the site folder, using the terminal to edit files, and setting up scheduled SMS reminders that pull calendar items and accept follow-up text edits.
+이 영상은 발표자가 OpenClaw보다 Zo를 더 선호하는 이유를 비교 관점에서 설명합니다. 핵심은 기능 수 자체보다도, 실제 사용 경험에서 느끼는 단순함·안정성·작업 흐름의 매끄러움입니다. 발표자는 OpenClaw가 강력하고 확장성이 높지만, 설정과 운영 부담이 상대적으로 크고, 어떤 사용자에게는 그 복잡함이 장점보다 진입 장벽으로 작용할 수 있다고 봅니다.
 
-Concrete examples back the claim: a read-it-later/blog site created in minutes; cloud code generating three blog posts and wiring them into the site; a scheduled task that texts a morning calendar summary and lets him add items by reply; and a saved skill that converts a YouTube transcript into a blog post, a newsletter version, and a LinkedIn post. The video emphasizes speed and tight file+AI integration — *"you can kind of make your own sites in here"* and *"tie a file system with your AI with your services."* If you want a hands-on demo of turning simple chat prompts into working automations (no VPS or Mac mini required), this walkthrough shows concrete, repeatable examples and is worth watching.
+반면 Zo는 더 가볍고 직관적인 경험을 제공해, 빠르게 목적을 달성하고 싶은 사용자에게 더 잘 맞는 선택지로 묘사됩니다. 즉 이 영상은 어느 쪽이 절대적으로 더 뛰어나다기보다, **복잡하지만 유연한 도구와 단순하지만 즉시성 있는 도구 사이의 선택** 문제로 비교합니다. 결론적으로 발표자는 자신이 원하는 사용성 기준에서는 Zo가 더 잘 맞는다고 평가합니다.

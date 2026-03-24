@@ -20,9 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/PmTZlnm8V9Q/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This video documents how the creator fixed a major failure mode when running OpenClaw locally: the model’s short/medium-term “compaction” memory causes lossy summarization and hallucination once the context window grows (he pins the trigger at about 180 tokens). His core solution is ResonantOS’s R‑memory: a lossless meaning‑compression layer that reduces context size by roughly 80% (so the same window holds far more coherent state), plus a visual dashboard and external audits so he can verify behavior without reading raw code. He also isolates the agent inside a VM for safety, routes model calls through APIs, and treats a layered “single source of truth” document (L0–L2) as canonical project state rather than trusting the ephemeral context alone.
+## OpenClaw를 더 강하게 만든 메모리 개선 사례
 
-Technically, R‑memory compresses conversation chunks into the minimal machine-readable representation that preserves meaning (not human‑readable), which keeps token costs down and prevents the model from drifting into incorrect summaries; older compressed blocks are evicted when necessary. He adds a “symbiotic shield” so the AI cannot directly overwrite critical documents, and he audits generated code with an independent model before accepting changes. The project is presented as open‑source and DAO‑oriented and is currently an alpha for technical contributors who can run isolated instances and test the system locally.  
-*"you can't trust the eye."*  
-*"I create this dashboard where I can see things changing in real time."*
+이 영상은 ResonantOS 방식의 메모리 수정을 통해 OpenClaw를 더 유용하게 만든 사례를 보여줍니다. 핵심은 모델 자체를 바꾸지 않더라도, **메모리 구조와 검색 흐름을 개선하면 체감 성능이 크게 달라질 수 있다**는 점입니다. 발표자는 에이전트가 필요한 정보를 더 잘 되찾고, 문맥을 더 안정적으로 이어가게 만드는 쪽에 초점을 둡니다.
+
+즉 이 영상은 단순히 더 똑똑한 모델을 찾는 접근보다, 메모리와 검색 계층을 조정하는 것이 실제 사용성 향상에 더 직접적일 수 있다는 관점을 보여줍니다. OpenClaw를 오래 쓰면서 기억 상실, 문맥 단절, 설정 누락 같은 문제를 겪는 사용자에게 특히 의미 있는 내용입니다.

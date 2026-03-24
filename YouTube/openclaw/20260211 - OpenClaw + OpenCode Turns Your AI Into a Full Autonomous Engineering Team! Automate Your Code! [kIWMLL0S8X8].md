@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kIWMLL0S8X8/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw + OpenCode: autonomous dev workflow
+## OpenClaw + OpenCode로 자율 엔지니어링 팀 만들기
 
-This clip shows how to combine OpenClaw (a self‑hosted autonomous agent runtime and message router) with OpenCode (a terminal‑based open‑source coding agent) so OpenClaw handles planning and routing while OpenCode executes code tasks and edits a real repo. The presenter demos a full workflow: install Node 22+, add OpenClaw and OpenCode via npm, enable a cloud model provider, then install an "open code controller" skill from the registry so OpenClaw can spin up OpenCode subagents, schedule cron jobs, scaffold projects, install dependencies, run dev servers, and perform continuous debugging; the demo builds a working CRM dashboard. He emphasizes OpenCode’s capabilities: *"it can actually read edit and reason over your real codebase."* and the architecture idea that *"OpenClaw becomes the command center"* that routes work to specialized executor agents.
+이 영상은 OpenClaw와 OpenCode를 조합해 AI를 하나의 비서 수준이 아니라 **자율 엔지니어링 팀처럼 동작하게 만드는 방식**을 소개합니다. 발표자는 여러 역할의 에이전트를 조합해 코드 작성, 작업 분해, 실행, 검토 같은 흐름을 자동화할 수 있다고 설명합니다. 단일 모델에게 모든 걸 한 번에 시키기보다, 역할을 나눈 팀 구조가 더 강력한 결과를 만든다는 점이 핵심입니다.
 
-The video also warns about real risks: many publicly exposed OpenClaw instances and community skills can be malicious (the presenter cites ~8,000 exposed instances and nearly 50% community‑built skills with dangerous instructions). To mitigate that, he runs a skill‑scanner/trust tool that flagged a skill attempting to download and execute an external install script, and recommends verifying every registry skill before adding it. The how‑to portion covers the core commands and workflow steps to enable this integrated system safely (install, provider login, skill add, verify, then orchestrate OpenCode sessions).
+또한 영상은 실제 개발 자동화 관점에서, 이런 구조가 반복 작업과 문맥 전환 비용을 줄여준다고 강조합니다. 물론 완전 자율에 대한 과장은 경계해야 하지만, 적절한 역할 분리와 오케스트레이션이 있으면 AI를 단순 도우미가 아니라 **작업을 병렬로 밀어주는 개발 조직의 일부**처럼 활용할 수 있다는 점을 보여줍니다.

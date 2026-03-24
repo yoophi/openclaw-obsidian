@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/_kZCoW-Qxnc/hqdefault.jpg
 
 ## 한글 요약
-## Quick summary
+## 100시간 분량의 OpenClaw 강의를 35분으로 압축한 영상
 
-This walkthrough presents OpenClaw as a continuously running, autonomous desktop AI assistant that can control your browser, run scheduled tasks, and build software or content on your behalf. *Open Claw is a 247 AI employee that is just constantly running on your computer finding valuable things to do and doing them for you.* The creator demonstrates real results (claims of >$10,000 recurring revenue from an automated article workflow), explains a one-line local install, and strongly recommends running it on a local machine rather than a VPS for usability and security.
+이 영상은 방대한 OpenClaw 관련 강의나 개념을 짧은 시간 안에 빠르게 훑어보게 해 주는 압축형 입문 콘텐츠입니다. 발표자는 OpenClaw의 핵심 개념, 활용 방식, 설정 포인트, 운영 관점을 짧은 시간 안에 훑으며 전체 그림을 잡도록 돕습니다. 즉 하나하나 깊게 파는 영상이라기보다, OpenClaw를 처음 접하거나 큰 흐름을 빠르게 복습하려는 사람에게 맞는 구조입니다.
 
-Key workflows and setup notes: introduce the assistant to yourself with a full “brain dump” (background, preferences, goals), then create a daily automated morning brief and a custom “mission control” dashboard the assistant can vibe-code for you; scheduling uses cron-like jobs. Use a “brain + muscles” pattern: a stronger, conversational model as the decision-maker and cheaper/specialized models for tasks (coding, search, social feeds), and progressively migrate expensive tasks to local models to cut token costs. *It is self-improving. It remembers everything about you.* Security cautions: the assistant has access to everything on the host machine, so keep accounts private, avoid exposing it to group chats or public interfaces, think through prompts that could enable prompt injection, and ask the assistant for step-by-step plans before it acts. Overall, the video focuses on practical configuration, workflows (morning briefs, approval queues, Discord/Telegram integrations), reverse prompting (ask it what to build), and iterative safety measures rather than deep theory.
+핵심 가치는 세부 기능을 완전히 마스터하게 해 주는 데 있다기보다, **무엇이 중요한지 우선순위를 잡아주는 요약 지도** 역할에 있습니다. 그래서 이미 OpenClaw를 쓰는 사람에게는 복습용, 처음 보는 사람에게는 전반적인 구조를 빠르게 이해하는 용도로 적합한 영상입니다.

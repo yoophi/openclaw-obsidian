@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/fooZAZsBmpg/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-This video walks through securing an OpenClaw (formerly Cloudbot) AI agent named Jerry on a Mac Mini, framing the core claim that strong environment controls are essential because these agents can access powerful system capabilities and pose many risks. The host lists concrete attack classes—SSS brute force, exposed control gateways, Telegram allow-list flaws, browser hijacking, password-manager extraction, Slack token theft, root access without sandboxing, prompt injection, and malicious skills—and emphasizes that without containment any of these can let an agent cause serious damage.
+## OpenClaw(Clawdbot)를 안전하게 설정하는 방법: 격리, 최소 권한, 방화벽
 
-Practical guidance follows five security principles and step-by-step actions: *VM isolation* by running Jerry inside a UTM virtual machine; network segmentation with a host-side firewall (Lulu) configured to whitelist only required sites; *least privilege* by creating a non-admin user, no shared credentials, and separate OpenClaw/OpenAI/email/GitHub accounts for the agent; authentication, authorization, logging and alerting so activity is auditable; and opting into FileVault and disabling Apple services during setup. The presenter demos installing macOS in a VM, configuring Lulu, entering API keys for Claude/Chat models, removing admin rights, and stressing that this is a starting point—not a foolproof enterprise hardening—because models remain probabilistic and can still hallucinate or behave unexpectedly.
+이 영상은 OpenClaw(Clawdbot)를 설치할 때 단순히 작동하게 만드는 것을 넘어서, **해킹당하지 않도록 안전하게 운영하는 기본 원칙**을 설명합니다. 핵심은 AI 에이전트가 강한 권한을 가지기 쉬운 만큼, 처음부터 격리 환경을 만들고 최소 권한 원칙을 적용해야 한다는 점입니다. 발표자는 OpenClaw를 메인 시스템과 가능한 한 분리된 환경에서 실행하고, 필요한 권한만 부여하며, 외부에서 접근 가능한 범위를 최대한 좁히는 구성을 권장합니다.
+
+구체적으로는 네트워크 노출을 줄이기 위한 방화벽 설정, 불필요한 포트 차단, 민감한 자격 증명과 API 키 관리, 그리고 에이전트가 쓸 수 있는 도구와 파일 범위를 제한하는 식의 운영 방식을 다룹니다. 요약하면 이 영상은 OpenClaw를 단순한 생산성 도구가 아니라 **실제 권한을 가진 로컬 자동화 시스템**으로 보고, 편의성보다 보안을 먼저 설계해야 한다는 메시지를 전달합니다.

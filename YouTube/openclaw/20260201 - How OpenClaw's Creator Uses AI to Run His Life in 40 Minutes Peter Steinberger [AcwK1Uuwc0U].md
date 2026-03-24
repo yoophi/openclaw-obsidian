@@ -20,10 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/AcwK1Uuwc0U/maxresdefault.jpg
 
 ## 한글 요약
-## Short summary
+## OpenClaw 창시자는 AI로 자기 삶을 어떻게 운영하나
 
-Peter explains how he built a personal AI agent called “cloud” (cloud.bot) that you interact with through messaging apps to run tasks on your own computer. The core claim: give the agent access to your machine and tooling, and it can autonomously solve real problems—he demonstrates fixes like reading a screenshot of a tweet, spotting a bug, checking out the Git repo, committing a fix and replying, and handling a voice message by finding ffmpeg, converting audio, transcribing and responding. *"if you give an AI access to your computer, they can basically do anything that you can do."*
+이 영상은 OpenClaw 창시자가 AI를 활용해 자신의 삶과 업무를 얼마나 체계적으로 관리하는지를 보여줍니다. 핵심은 AI를 단순한 질문응답 도구로 쓰는 것이 아니라, 일정·작업·정보 흐름을 구조화해서 **짧은 시간 안에 삶의 운영 체계를 점검하는 도구**로 사용한다는 점입니다. 발표자는 여러 맥락을 한데 모아 빠르게 상황을 파악하고, 지금 무엇을 해야 하는지 정리하는 흐름을 소개합니다.
 
-The video lays out practical capabilities and limits: cloud installs via a terminal one-liner, is open source, supports major platforms and messaging services, and uses a mix of CLIs and skills to control files, email, calendar, home devices (lights, Sonos), cameras, and even airline check‑ins by finding passport files and steering a browser. Peter discusses persistent memory and skill-building (the agent learns quirks and speeds up repeat tasks), but warns about safety (an agent with full access can delete files) and the “agentic trap” of over‑engineering orchestration systems that produce sloppy output. He emphasizes keeping a human with “taste” in the loop and playing with prompts to learn model behavior. *"This will blend away probably 80% of the apps that you have on your phone."*  
-
-Who should watch: anyone curious about hands‑on, practical automation with personal AI agents—especially developers and power users who want concrete examples, tradeoffs, and pitfalls.
+영상이 강조하는 포인트는 고급 기능 자체보다도, AI를 일회성 호출이 아니라 **일상 운영 루프에 넣는 습관**입니다. 중요한 정보와 반복되는 판단을 시스템 안으로 가져오면, 적은 시간으로도 우선순위를 정리하고 다음 행동을 결정할 수 있다는 메시지입니다. 결국 이 영상은 AI를 삶을 대신 살아주는 존재로 그리기보다는, **복잡한 개인 운영을 빠르게 정렬해 주는 실무형 보조 시스템**으로 활용하는 사례에 가깝습니다.
