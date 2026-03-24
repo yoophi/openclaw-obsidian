@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/OI-rYcaM9LQ/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw mission control on a Raspberry Pi
+## 라즈베리 파이 기반 대화형 OpenClaw 미션 컨트롤
 
-The creator builds a local, talkable “mission control” dashboard that runs OpenClaw on a Raspberry Pi with a 7" touchscreen, three conversational agents (Jansky the orchestrator, Orbit the coder, Nova the researcher), a changing mascot, and a pixel-art office that shows agents working in real time. Interaction is fully voice-based both ways — speech input, agent reasoning, tool calls and spoken responses — and the demo shows practical tasks like checking email and controlling home lights. *This OpenCloud agent running on my Raspberry Pi just checked my email, told me what's important, and I did it all through natural voice.*
+이 영상은 라즈베리 파이를 이용해 음성/대화형으로 상호작용할 수 있는 OpenClaw 미션 컨트롤 센터를 만든 사례를 보여줍니다. OpenClaw를 실제 하드웨어 프로젝트와 결합한 점이 흥미롭습니다.
 
-Setup uses widely available hardware (Raspberry Pi 5 with 8 GB recommended, optional NVMe or SD storage, USB mic and speaker, touchscreen) and a GitHub-driven OpenClaw install that you SSH into, run onboarding, and connect to Telegram for control. The dashboard connects over a websocket to display agent thinking, tool use and an activity log; agents can write and run code, do web lookups, and call Home Assistant to toggle devices (demo turns LED lights on). The repo includes the command-center code, step-by-step install prompts, recommended model/API keys for speech and orchestration, and tips to reduce monthly OpenClaw costs. *Everything is free. Everything is open source.*
+OpenClaw가 단순 소프트웨어가 아니라 물리적 인터페이스와도 결합될 수 있다는 가능성을 보여주는 영상입니다.

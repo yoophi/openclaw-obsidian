@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/qEFaeLlfLmk/maxresdefault.jpg
 
 ## 한글 요약
-## NemoClaw: fastest install path (summary)
+## NemoClaw 가장 빠른 설치 가이드
 
-NemoClaw is an open-source security and privacy layer that sits on top of OpenClaw rather than replacing it, designed to add enterprise-grade protections such as isolated sandboxes, policy-based guardrails, network isolation, data privacy controls, a privacy router, and a hybrid model strategy. *"Nemo claw is an open-source security privacy layer for openclaw."* The creator worked with the OpenClaw founder and the layer can wrap existing agents, so you don’t have to rebuild your whole setup to gain these protections.
+이 영상은 NemoClaw를 가장 빠르게 설치하는 방법을 다룹니다. OpenClaw 직접 활용 영상은 아니지만, 관련 생태계를 따라가는 사용자에게는 참고가 되는 가이드입니다.
 
-The quickest practical route shown is either instructing your orchestrator agent to pull Nvidia’s NemoClaw package for an existing agent or launching a new NemoClaw agent in Discord: you need a small always-on instance (the video cites a $2/month 2 GB option) plus a Discord bot token, and the orchestrator (Stark) can handle configuration. Model choices are flexible—the presenter mentions a free Neotron 3 Super endpoint via OpenRouter or continuing to use Miniax for task execution—and notes Windows local installs ran into Docker Desktop issues during their attempt. *"You can add the Nemo claw layer on top of our existing openclaw agents."*
+실전 설치 중심의 짧은 튜토리얼 성격입니다.

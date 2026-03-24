@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/z8BPjB26-p4/maxresdefault.jpg
 
 ## 한글 요약
-## NemoClaw in 2 minutes
-This short clip demos NemoClaw, a containerized OpenClaw distribution aimed at corporate use. The presenter says *It is free. It is open source and it is called Nemo Claw.* Setup requires Docker, then installing NemoClaw, starting a named sandbox container (nimlclaw) and running OpenClaw inside that container; *Nemo Claw does not work without Docker.*
+## NemoClaw를 2분 만에 이해하기
 
-The video emphasizes isolation and permission controls: each sandbox only accesses its own files and can be moved between servers, which makes deployment portable and IT-manageable. The presenter adds that this portability could let agents migrate across servers and speculates it brings us closer to autonomous, potentially sentient AI.
+이 영상은 NemoClaw가 무엇인지 아주 짧게 이해시키는 초압축 설명 영상입니다. OpenClaw와의 관계, 기업용 포지션, 대략적인 성격을 빠르게 훑습니다.
+
+짧은 시간에 개념을 잡고 싶은 사람에게 적합한 영상입니다.
