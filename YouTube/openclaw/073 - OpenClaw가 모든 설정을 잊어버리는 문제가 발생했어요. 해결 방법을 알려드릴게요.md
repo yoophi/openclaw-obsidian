@@ -1,79 +1,28 @@
 ---
-title: "My OpenClaw Is Forgetting Everything — Here's How I Fixed It"
-source: "https://www.youtube.com/watch?v=iUkFb_TaqZA"
-original_url: "https://www.youtube.com/watch?v=iUkFb_TaqZA"
 youtube_id: "iUkFb_TaqZA"
-playlist: "📙 openclaw"
+title: "My OpenClaw Is Forgetting Everything — Here's How I Fixed It"
 channel: "Dave Swift"
-duration: "19:09"
 publish_date: "2026-02-18T09:19:30-08:00"
-playlist_index: 73
-generated_by: "OpenClaw summarize skill"
-generated_at: "2026-03-23 18:25:25 +0900"
+original_url: "https://www.youtube.com/watch?v=iUkFb_TaqZA"
+thumbnail: "https://i.ytimg.com/vi/iUkFb_TaqZA/maxresdefault.jpg"
+playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rGje-pPUojFDK5cF8Ql9OBo"
+tags:
+  - youtube-summary
+  - openclaw
 ---
 
 # My OpenClaw Is Forgetting Everything — Here's How I Fixed It
 
-## Video Info
+## 영상 정보
+- 채널: Dave Swift
+- 게시일: 2026-02-18T09:19:30-08:00
+- 원본 URL: https://www.youtube.com/watch?v=iUkFb_TaqZA
+- 썸네일: https://i.ytimg.com/vi/iUkFb_TaqZA/maxresdefault.jpg
 
-- Original URL: https://www.youtube.com/watch?v=iUkFb_TaqZA
-- Channel: Dave Swift
-- Title: My OpenClaw Is Forgetting Everything — Here's How I Fixed It
-- Published: 2026-02-18T09:19:30-08:00
-- Duration: 19:09
-- Playlist: 📙 openclaw
-- Playlist Index: 73
-
-## Description
-
-Sponsor 👉 Try the AI Chatbot for FREE here: https://daveswift.link/elfsight
-
-Use coupon DAVESWIFT for a 30% discount on Elfsight widgets!
-
-OpenClaw's built-in memory system doesn't deliver on its promise of persistent, forever memory. In this tutorial, I show you how to integrate Obsidian with your OpenClaw agent to create a real, working memory system that actually persists across conversations.
-
-📝 Show Notes: https://daveswift.com/openclaw-obsidian-memory/
-⭐ Join Premium: https://daveswift.com/join/
-
-
-🔗 Resources:
-📖 X Article: https://x.com/arscontexta/status/2013045749580259680
-📥 Obsidian (Free): https://obsidian.md/
-🔒 Tailscale: https://tailscale.com/
-
-Chapters:
-00:00 Introduction
-00:37 OpenClaw's Memory Problem
-02:31 The Obsidian Inspiration
-03:01 Setting Up Obsidian
-03:27 Creating Your First Vault
-04:38 Designing the File Structure
-07:46 Syncing Across Devices
-10:05 Security Considerations
-12:13 Configuring OpenClaw
-14:42 Setting the Vault Path
-15:25 Indexing the Vault
-16:32 Troubleshooting and Testing
-18:06 Understanding Your Thinking
-
-Follow me:
-Facebook: https://facebook.com/groups/daveswift
-Twitter: https://twitter.com/davidswift
-YouTube: https://youtube.com/@dave-swift
-Web: https://daveswift.com
-
-Website Management: https://clientamp.com
-
-Some links in this description are affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. I only recommend products I genuinely use and believe in.
-
-#OpenClaw #Obsidian #AIMemory #AIAgent #PersonalAI #Tutorial
-
+## 한글 요약
 ## Summary
+This video shows how the creator fixed OpenClaw’s unreliable “persistent memory” by connecting the agent to an Obsidian vault so notes become a durable, searchable memory store. The core claim: OpenClaw alone won’t reliably remember long-form notes out of the box, but pointing its memory/indexer at a local Obsidian folder gives you structured, synced, and editable memory that the agent can read, write, and reason over. *"It doesn't work, at least out of the box in that capacity."*
 
-## My OpenClaw Is Forgetting Everything — Here's How I Fixed It
+The walkthrough covers the practical steps: install Obsidian and create a vault (a folder of Markdown files), design or import a file structure (the agent itself can expand a template and create folders/files), choose where to store the vault (local drive, synced network drive, or cloud sync/Tailscale for remote access), and then edit OpenClaw’s user config JSON to replace the default memory block with a memory connector pointing to the vault path. Important tips shown: back up the config before editing, don’t include extra brackets or stray commas, restart the agent to trigger indexing, and avoid spaces in the vault name (he had indexing fail until renaming). After indexing, the agent successfully searched notes, created a project note (“astronaut path”), and summarized thinking-patterns from the vault. *"He lives under my stairs in an M1 Mac Mini that's been laying around collecting dust for years at this point."*
 
-Dave shows how he turned a flaky OpenClaw agent into a reliable, searchable personal memory by connecting it to an Obsidian vault. He runs OpenClaw’s agent “Lloyd” on an M1 Mac Mini and discovers that the out‑of‑the‑box promise of persistence doesn’t hold: *"It's a promise of persistent forever memory kind of is a lie."* The video’s core solution is to let the agent index a local Obsidian folder so long‑form notes and personal context become first‑class inputs for future conversations.
-
-He walks through the practical steps: install Obsidian and create a vault (a folder of Markdown files), decide whether to store it locally or use Obsidian’s sync, and build a file structure that models your thinking and personal data. Rather than hand‑author everything, he has Lloyd read a recommended template article, ask clarifying questions, and create the folders and sample notes automatically; he also highlights the tip to tell an agent to ask clarifying questions so it won’t invent missing details. For remote access he mentions using a network drive or a VPN‑style tool (Tailscale) so the vault is reachable from multiple devices.
-
-The technical integration requires pasting a memory block into OpenClaw’s JSON config that points at the vault path, removing the default memory block, saving with proper JSON syntax (watch commas and brackets), and restarting the agent so the QMD indexer can scan the vault. He runs into one practical snag—spaces in the vault name prevented indexing—so he renames it and confirms indexing. After indexing, searches and commands work: the agent finds related notes, creates new project notes, and files them in the right place; for example, *"It created a new note in my projects folder."* He also warns about security tradeoffs: if your agent uses cloud LLMs, the shared notes may be exposed to external providers, so consider what you store or whether to run models locally. Other useful tips: keep small Markdown files for fast sync, back up the agent/config before editing, and you can have the agent fix JSON syntax or perform the edits itself.
+Security and convenience notes: if OpenClaw uses cloud LLMs, your vault content may be exposed to that provider; local-only setups reduce that risk. The presenter also points out the agent can fix or edit its own config if you prefer not to change JSON yourself.
