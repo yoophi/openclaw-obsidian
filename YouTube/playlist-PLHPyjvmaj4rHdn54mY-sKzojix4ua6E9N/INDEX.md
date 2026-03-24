@@ -1,6 +1,6 @@
 # Playlist Index
 
-- 총 문서 수: 41
+- 총 문서 수: 61
 
 ## 분류 인덱스
 - [[Indexes/By Date]]

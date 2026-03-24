@@ -1,17 +1,32 @@
 # By Topic
 
-## general (29)
+## comparison (2)
+- [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]]] — AICodeKing
+- [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
+
+## general (40)
 - [[20230425 - Tmux has forever changed the way I write code. [DzNmUNvnB04]]] — Dreams of Code
 - [[20240308 - Tmux will SKYROCKET your productivity - here’s how [niuOc02Rvrc]]] — typecraft
 - [[20250327 - Vibe Coder Tries Neovim [CbQGeaa8XrQ]]] — Bog
 - [[20251212 - The Best Coding Agent is... (and how I use them) [kSipXea2TbE]]] — Ben Davis
+- [[20260120 - Best AI Coding CLI (Claude Code, Codex, OpenCode Alternative) [P3onJNQhS60]]] — Tech With Turis
+- [[20260125 - Short Demo of my Pi Todo Extension [uPR7aAneg2U]]] — Armin Ronacher
+- [[20260128 - 미쳤다. 클로드 코드로 클로드봇(ClaudeBot) 그냥 만들어버림 ㄷㄷ (심지어 공짜로 사용 가능) [fM7Tg_bK10I]]] — 소스놀이터
 - [[20260218 - TMUX + Claude Agent Teams = Game Changer [Dyj9ShddyMw]]] — Eric Tech
 - [[20260221 - Pi Coding Agent - Visual Plan Mode Extension [XqFun9XCXPw]]] — Michael
+- [[20260221 - 오픈클로가 하는건 다한다. 소놀봇 - 클로드 코드에 이어 코덱스도 동시 지원! 무한 봇 생성 기능에 데몬 실시간 응답까지! [17BB1fLdyfQ]]] — 소스놀이터
+- [[20260223 - The Pi Coding Agent The ONLY REAL Claude Code COMPETITOR [f8cfH5XX-XU]]] — IndyDevDan
+- [[20260225 - 클로드 코드보다 ‘코워크’가 초보자에게 훨씬 쉽고 강력합니다. 100% 완벽하게 리뷰합니다. [mcJXTYb0Vt4]]] — 빌더 조쉬 Builder Josh
 - [[20260302 - I Built a Full AI Team Inside OpenClaw for $400 Month [4HyNQe6UI_c]]] — Jacob Klug
 - [[20260303 - how i use Claude Code across multiple projects at the same time [d1T_farOOCE]]] — Kaya Rezende
 - [[20260305 - CMUX Just Changed Everything for Developers using Agentic CLIs 🔥 [J__rNtFttx0]]] — Fru Dev
+- [[20260307 - AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편 [SOWsG2Idgzg]]] — jisungs
+- [[20260310 - 다시 찾아오는 CLI의 시대 옵시디언 CLI [d-s2En3dTpo]]] — 생산성 빌리언 시안
+- [[20260312 - The PI (coding) agent is so much more than just another amazing coding agent! [wVe3XOnio7M]]] — Maximilian Schwarzmüller
+- [[20260313 - Claude 컨텍스트 윈도우 5배 확장 - 달라진 것과 주의할 것 [0M69fur_AXQ]]] — Claudical
 - [[20260313 - Why Every Claude Code User Needs To Try AgentMail (Not Gmail) [U3TXAdpmvVk]]] — Better Stack
 - [[20260314 - AI 네이티브 회사 만드는 구체적인 방법 그냥 다 공개합니다 [nk2GvpoMxIs]]] — 대모산 개발단
+- [[20260316 - 코딩 없이도 웹사이트, 앱을 손쉽게 제작 가능해요! [IcbBx9sv2dc]]] — 릴쏸ᝰ
 - [[20260317 - Claude 구독중이라면 OpenClaw 대신에 Claude Dispatch 써보세요 [GuRhtm4iQH0]]] — 스테판초 StefanCho
 - [[20260317 - GSD Is the Missing Piece For Claude Code [uEit1oOJK0w]]] — AI LABS
 - [[20260317 - Insane Claude Agent SDK Demo - See it to believe it [dzvwAnwDUZo]]] — DesignCourse
@@ -31,21 +46,32 @@
 - [[20260322 - ClaudecodeChannel Agent로 뭘 해야하나요 -클로드코드채널 [IRBb6A-sIPE]]] — Alex AI
 - [[20260323 - Claude Code + GSD — 기획부터 검증까지 자동화하는 법 [oU-BbX0Om4I]]] — AgentOS
 
-## setup (1)
+## memory (1)
+- [[20260316 - Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem! [srqWFT_TUec]]] — WorldofAI
+
+## setup (2)
+- [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
 - [[20260319 - Paperclip AI Complete Guide Fast Setup, Local Installation, Configuration, and Agent Automation [aRz6OAxl9ss]]] — Fru Dev
 
 ## subagents (2)
 - [[20260319 - My Multi-Agent Team (Live Demo) [Zhbx-dj0qHE]]] — Owain Lewis
 - [[20260323 - Pi CEO Agents. Claude 1M Context. Multi-Agent Teams. [TqjmTZRL31E]]] — IndyDevDan
 
-## tools (7)
+## tools (13)
 - [[20260213 - I Let AI Agents Build My Dev Tool (cmux + Squad) [ndpfeO6M6P8]]] — Ian Philpot
+- [[20260306 - Claude Code + Playwright = INSANE Browser Automations [I9kO6-yPkfM]]] — Chase AI
+- [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]]] — WorldofAI
+- [[20260311 - Claude Code 대격변, 스킬이 앱이 됐습니다! [YMT26RopJck]]] — bkamp 비캠프
 - [[20260312 - Unlock Your Mac with Osaurus Best Plugins for Local LLMs (Apple Music, Files, Browser & More) [gWMeceGyT8k]]] — ShanAI
+- [[20260315 - Google’s New Tool Makes OpenCode WAY More Useful [CCUV1YzVYzg]]] — Brandon Melville
+- [[20260316 - 5 Claude Code skills I use every single day [EJyuu6zlQCg]]] — Matt Pocock
+- [[20260317 - 코팩의 화이트데이 선물. 뇌빼고 써도 되는 병렬 워크트리 Skill + Hook 무료 배포 [L40tTQ8TpaM]]] — 코드팩토리
 - [[20260318 - The toolkit from Y Combinator CEO that Will Makes Claude Code Amazing [kLq5p43huYQ]]] — Better Stack
 - [[20260320 - Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다 [sLaMtz7j8cE]]] — AgentOS
 - [[20260321 - 10 CLI Tools That Make Claude Code UNSTOPPABLE [uULvhQrKB_c]]] — Chase AI
 - [[20260321 - Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead. [I2K81s0OQto]]] — The AI Automators
 - [[20260321 - OpenCLI is the Latest Claude Code CLI Tool Raking in Github Stars [3xZFJMNW8RE]]] — Chase AI
 
-## updates (1)
+## updates (2)
+- [[20260309 - 클로드 코드 Schedule 업데이트. 앙 맛이쪄 [i1GPX8CEwP4]]] — 코드팩토리
 - [[20260319 - 4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! [uub34E4DwZI]]] — 코드팩토리
