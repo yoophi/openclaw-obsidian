@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/DUttMOh_YeM/maxresdefault.jpg
 
 ## 한글 요약
-## BMAD v6 — Free framework breakdown
+## BMAD v6 무료 프레임워크 분석
 
-This clip announces the stable release of BMAD v6 and argues it’s an “enterprise‑grade” open‑source AI coding framework you can install with one command; it includes *"26 agents, 68 workflows, and five modules."* The presenter says BMAD is maintained by experienced contributors, is free to use, and is designed to stop AI–generated “spaghetti” by enforcing software‑development best practices and centralized documentation—*“BMAD is completely free and open source.”*
+이 영상은 **BMAD v6의 안정 버전 출시**를 소개하면서, 이를 한 번의 명령으로 설치 가능한 엔터프라이즈급 오픈소스 AI 코딩 프레임워크라고 설명합니다. 발표자는 BMAD가 26개의 에이전트, 68개의 워크플로우, 5개의 모듈을 포함하고 있으며, 숙련된 기여자들이 관리하고 있고 완전히 무료·오픈소스라고 강조합니다. 핵심 메시지는 AI가 만드는 ‘스파게티 코드’를 줄이려면, 개발 베스트 프랙티스와 중앙화된 문서 구조를 프레임워크 차원에서 강제할 필요가 있다는 점입니다.
 
-The video walks through the BMAD method: a green‑field vs brown‑field process with four main phases (brainstorming/product brief, PRD/UX, solutioning with epics→stories→tasks, then an iterative dev→review→QA loop). It shows built‑in agent roles (analyst, architect, dev, QA, product manager, UX, scrum master), the BMAD builder for creating custom agents and workflows, and the context‑injection/menu‑command pattern that keeps conversations lean by loading only relevant workflow docs. The release also highlights separate modules for test automation and creative intelligence, a light mention of a GameDev studio, and the presenter's claim that his agency used BMAD across ~250 projects and for every project in the last six months.
+영상은 BMAD 방식도 함께 설명합니다. 신규 프로젝트와 기존 프로젝트 개선 흐름을 나눠서, 브레인스토밍/제품 브리프 → PRD/UX → 에픽·스토리·태스크 기반 설계 → 개발·리뷰·QA의 반복 루프로 이어지는 구조입니다. 또한 analyst, architect, dev, QA, PM, UX, scrum master 같은 기본 에이전트 역할과, 커스텀 에이전트·워크플로우를 만드는 BMAD builder, 필요한 문서만 맥락에 주입하는 경량 대화 방식도 소개합니다. 전체적으로 이 영상은 BMAD를 단순 프롬프트 묶음이 아니라 **AI 개발 작업을 구조화하는 운영 프레임워크**로 보여줍니다.
