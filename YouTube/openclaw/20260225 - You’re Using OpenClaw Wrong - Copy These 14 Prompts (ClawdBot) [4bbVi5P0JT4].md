@@ -20,8 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/4bbVi5P0JT4/maxresdefault.jpg
 
 ## 한글 요약
-## Quick summary
+## 사람들이 OpenClaw를 잘못 쓰는 방식과 더 나은 프롬프트들
 
-This clip walks through 14 concrete prompts that the creator says convert OpenClaw from a forgetful, token‑hungry chatbot into a proactive, memory-backed assistant you can “one‑shot” into your setup; he notes he’s built 18 agents running his business and offers the full prompt document for upload. Key wins he demonstrates: the soul file gives the agent a consistent personality (*"you absolutely 100% positively need to give it a soul."*), the memory protocol forces a persistent memory search before answers (*"before answering any question about past decisions, preferences, projects, people, timelines or commitments, run memory search first."*), and a system audit cut example token costs dramatically (from thousands to roughly 800 tokens). He also shows parallel execution to return research faster and a multimodel strategy to use cheaper models for simple work.
+이 영상은 OpenClaw를 제대로 활용하지 못하는 대표적인 패턴과, 더 좋은 결과를 얻기 위한 프롬프트 예시들을 소개합니다. 발표자는 단순히 아무 말이나 던져서 좋은 결과가 나오길 기대하기보다, 시스템의 구조와 목적에 맞는 방식으로 요청해야 한다고 설명합니다.
 
-The remaining prompts are practical operational pieces: identity anchor (initial context dump), context loader (session setup + “what good looks like”), response optimizer (bottom line / why / next actions / watch outs), skill activator (specialist modules), proactivity dial (conservative → aggressive automation), heartbeat/cron briefings, security audit, voice cloner, and a master system prompt that sets instruction hierarchy. If you’re actively using OpenClaw and frustrated by hallucinations, inconsistent tone, high token bills, or weak memory, the video is a tactical walkthrough with ready‑to‑use solutions.
+핵심은 OpenClaw를 일반 챗봇처럼 대할수록 한계가 커지고, 역할·목표·출력 구조를 명확히 줄수록 결과 품질이 좋아진다는 점입니다. 결국 이 영상은 프롬프트가 곧 사용법이라는 사실을 강조하는 실전형 콘텐츠입니다.

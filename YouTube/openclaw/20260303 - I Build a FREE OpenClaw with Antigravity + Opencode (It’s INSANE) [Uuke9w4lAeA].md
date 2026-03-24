@@ -20,7 +20,8 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Uuke9w4lAeA/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
-The video shows how the creator rebuilt an OpenClaw-style chatbot that runs locally for free by combining two coding agents: Antigravity (for agentic features, testing, and access to Opus 4.6) and OpenCode (for broad model selection and efficient code execution). The build process: install Antigravity, OpenCode, Node.js and Docker; clone the OpenClaw repo; use Antigravity + Opus 4.6 to generate a phased implementation plan; then run OpenCode with the free Minimax M2.5 model to generate the app code (the run reported ~24,000 context tokens used and $0 cost). The video demonstrates handing the plan back to Antigravity/OpenCode so the agents create files, install dependencies, and run the project end-to-end. *"I'm functionally within normal parameters"*
+## Antigravity와 Opencode로 무료 OpenClaw 만들기
 
-Key features implemented and tested: Telegram integration (bot token), a locally hosted LLM via Olama (so no external API fees), Whisper for voice transcription, and a Supabase RAG memory backend that stores messages and facts so the bot can recall user details. The creator shows the bot remembering “I am 23 years old” and later answering *"you are 23 years young"*. They also add cron-job scheduling (reminders), MCP integrations by routing third‑party services through Zapier/N8n, a customizable system prompt/personality (short, blunt replies), and a simple web front end served on localhost. The result is a fully functional, extensible OpenClaw clone that can run locally at zero API cost while retaining agent-driven automation and third‑party connectivity.
+이 영상은 Antigravity와 Opencode를 활용해 비용 부담을 줄인 OpenClaw 스타일 환경을 만드는 방법을 소개합니다. 발표자는 완전히 새로운 것을 만드는 것이 아니라, OpenClaw의 핵심 아이디어를 더 저렴한 구성으로 재현하는 데 초점을 둡니다.
+
+핵심은 비용과 통제력을 동시에 고려하는 사용자에게 대안 구성이 꽤 매력적일 수 있다는 점입니다. OpenClaw 생태계를 응용하는 좋은 예시입니다.
