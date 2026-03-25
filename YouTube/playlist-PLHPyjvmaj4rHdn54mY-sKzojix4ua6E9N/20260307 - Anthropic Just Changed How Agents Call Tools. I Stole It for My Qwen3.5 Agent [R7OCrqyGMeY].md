@@ -19,7 +19,7 @@ tags:
 - 채널: The AI Automators
 - 게시일: 2026-03-07T03:32:59-08:00
 - 원본 URL: https://www.youtube.com/watch?v=R7OCrqyGMeY
-- 썸네일: https://i.ytimg.com/vi/R7OCrqyGMeY/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/R7OCrqyGMeY/maxresdefault.jpg)
 
 ## 한글 요약
 Anthropic Just Changed How Agents Call Tools — practical test with Qwen 3.5

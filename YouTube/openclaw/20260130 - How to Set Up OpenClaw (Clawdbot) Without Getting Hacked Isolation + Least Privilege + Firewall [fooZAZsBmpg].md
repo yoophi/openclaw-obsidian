@@ -20,7 +20,7 @@ tags:
 - 채널: ZioSec
 - 게시일: 2026-01-30T12:09:27-08:00
 - 원본 URL: https://www.youtube.com/watch?v=fooZAZsBmpg
-- 썸네일: https://i.ytimg.com/vi/fooZAZsBmpg/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/fooZAZsBmpg/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw(Clawdbot)를 안전하게 설정하는 방법: 격리, 최소 권한, 방화벽

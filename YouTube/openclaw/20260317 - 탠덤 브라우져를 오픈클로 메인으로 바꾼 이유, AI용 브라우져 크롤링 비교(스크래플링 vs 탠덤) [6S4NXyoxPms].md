@@ -20,7 +20,7 @@ tags:
 - 채널: 코난쌤 conanssam
 - 게시일: 2026-03-17T14:42:27-07:00
 - 원본 URL: https://www.youtube.com/watch?v=6S4NXyoxPms
-- 썸네일: https://i.ytimg.com/vi/6S4NXyoxPms/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/6S4NXyoxPms/maxresdefault.jpg)
 
 ## 한글 요약
 ## 텐덤 브라우저를 오픈클로 메인으로 바꾼 이유 — 핵심 요약

@@ -19,7 +19,7 @@ tags:
 - 채널: Claude
 - 게시일: 2026-03-17T16:19:22-07:00
 - 원본 URL: https://www.youtube.com/watch?v=Ko7_tC1fMMM
-- 썸네일: https://i.ytimg.com/vi/Ko7_tC1fMMM/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Ko7_tC1fMMM/maxresdefault.jpg)
 
 ## 한글 요약
 Using Claude Code remote control

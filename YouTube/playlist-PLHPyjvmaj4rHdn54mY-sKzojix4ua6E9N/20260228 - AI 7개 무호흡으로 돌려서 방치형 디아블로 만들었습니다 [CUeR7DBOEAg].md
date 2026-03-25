@@ -19,7 +19,7 @@ tags:
 - 채널: 에피코딩
 - 게시일: 2026-02-28T03:44:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=CUeR7DBOEAg
-- 썸네일: https://i.ytimg.com/vi/CUeR7DBOEAg/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/CUeR7DBOEAg/maxresdefault.jpg)
 
 ## 한글 요약
 병렬 AI 7개로 만든 방치형 디아블로 개발 실황 요약

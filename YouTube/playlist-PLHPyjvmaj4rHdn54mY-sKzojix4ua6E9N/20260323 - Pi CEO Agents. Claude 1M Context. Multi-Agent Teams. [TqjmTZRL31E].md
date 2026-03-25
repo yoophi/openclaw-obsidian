@@ -19,7 +19,7 @@ tags:
 - 채널: IndyDevDan
 - 게시일: 2026-03-23T06:00:00-07:00
 - 원본 URL: https://www.youtube.com/watch?v=TqjmTZRL31E
-- 썸네일: https://i.ytimg.com/vi/TqjmTZRL31E/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/TqjmTZRL31E/maxresdefault.jpg)
 
 ## 한글 요약
 Pi CEO Agents, Claude 1M Context, 그리고 멀티에이전트 팀

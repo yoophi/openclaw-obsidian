@@ -20,7 +20,7 @@ tags:
 - 채널: LowCode Agency
 - 게시일: 2026-03-10T15:46:59-07:00
 - 원본 URL: https://www.youtube.com/watch?v=WohSEtrqNiY
-- 썸네일: https://i.ytimg.com/vi/WohSEtrqNiY/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/WohSEtrqNiY/maxresdefault.jpg)
 
 ## 한글 요약
 ## AI에게 에이전시를 2시간 맡겨본 실험

@@ -19,7 +19,7 @@ tags:
 - 채널: AgentOS
 - 게시일: 2026-03-20T11:25:01-07:00
 - 원본 URL: https://www.youtube.com/watch?v=sLaMtz7j8cE
-- 썸네일: https://i.ytimg.com/vi/sLaMtz7j8cE/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/sLaMtz7j8cE/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약 — 클로드 코드 스킬 설계와 운영법

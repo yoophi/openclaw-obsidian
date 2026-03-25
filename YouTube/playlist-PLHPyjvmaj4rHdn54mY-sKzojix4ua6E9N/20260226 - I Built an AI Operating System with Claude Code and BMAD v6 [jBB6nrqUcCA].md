@@ -19,7 +19,7 @@ tags:
 - 채널: Adam Goodyer
 - 게시일: 2026-02-26T05:01:30-08:00
 - 원본 URL: https://www.youtube.com/watch?v=jBB6nrqUcCA
-- 썸네일: https://i.ytimg.com/vi/jBB6nrqUcCA/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/jBB6nrqUcCA/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code와 BMAD v6로 AI 운영체제 만들기

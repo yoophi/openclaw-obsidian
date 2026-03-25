@@ -19,7 +19,7 @@ tags:
 - 채널: The AI Automators
 - 게시일: 2026-03-21T04:30:10-07:00
 - 원본 URL: https://www.youtube.com/watch?v=I2K81s0OQto
-- 썸네일: https://i.ytimg.com/vi/I2K81s0OQto/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/I2K81s0OQto/maxresdefault.jpg)
 
 ## 한글 요약
 Agent Skills는 왜 실패할 수 있고, 대신 무엇을 만들어야 하나

@@ -20,7 +20,7 @@ tags:
 - 채널: Keven Builds
 - 게시일: 2026-03-12T15:49:13-07:00
 - 원본 URL: https://www.youtube.com/watch?v=SyGhiPprnNM
-- 썸네일: https://i.ytimg.com/vi/SyGhiPprnNM/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/SyGhiPprnNM/maxresdefault.jpg)
 
 ## 한글 요약
 ## AI 에이전트를 돌리려고 Mac Mini 4대를 산 사례

@@ -20,7 +20,7 @@ tags:
 - 채널: Matthew Berman
 - 게시일: 2026-03-18T14:48:16-07:00
 - 원본 URL: https://www.youtube.com/watch?v=M-3w1wEv0M0
-- 썸네일: https://i.ytimg.com/vi/M-3w1wEv0M0/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/M-3w1wEv0M0/maxresdefault.jpg)
 
 ## 한글 요약
 ## 뒤처지지 않기 위해 OpenClaw로 해야 할 일들

@@ -19,7 +19,7 @@ tags:
 - 채널: DesignCourse
 - 게시일: 2026-03-17T08:20:54-07:00
 - 원본 URL: https://www.youtube.com/watch?v=dzvwAnwDUZo
-- 썸네일: https://i.ytimg.com/vi/dzvwAnwDUZo/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/dzvwAnwDUZo/maxresdefault.jpg)
 
 ## 한글 요약
 Agent SDK demo: live voice-driven coding

@@ -19,7 +19,7 @@ tags:
 - 채널: JeredBlu
 - 게시일: 2026-02-27T08:30:12-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Sg74Di2Yc88
-- 썸네일: https://i.ytimg.com/vi/Sg74Di2Yc88/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Sg74Di2Yc88/maxresdefault.jpg)
 
 ## 한글 요약
 Claude가 이제 OpenClaw를 네이티브하게 할 수 있다는 의미

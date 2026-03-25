@@ -19,7 +19,7 @@ tags:
 - 채널: Prompt Engineering
 - 게시일: 2026-03-18T06:15:00-07:00
 - 원본 URL: https://www.youtube.com/watch?v=1_VlT1vhN04
-- 썸네일: https://i.ytimg.com/vi/1_VlT1vhN04/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/1_VlT1vhN04/maxresdefault.jpg)
 
 ## 한글 요약
 Summary

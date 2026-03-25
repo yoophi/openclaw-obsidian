@@ -19,7 +19,7 @@ tags:
 - 채널: Claudical
 - 게시일: 2026-03-13T20:59:41-07:00
 - 원본 URL: https://www.youtube.com/watch?v=0M69fur_AXQ
-- 썸네일: https://i.ytimg.com/vi/0M69fur_AXQ/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/0M69fur_AXQ/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약

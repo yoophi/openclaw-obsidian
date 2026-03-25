@@ -20,7 +20,7 @@ tags:
 - 채널: Openclaw Labs
 - 게시일: 2026-03-07T11:00:44-08:00
 - 원본 URL: https://www.youtube.com/watch?v=lD_UljB0TLc
-- 썸네일: https://i.ytimg.com/vi/lD_UljB0TLc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/lD_UljB0TLc/maxresdefault.jpg)
 
 ## 한글 요약
 ## 팀원을 대체할 정도의 OpenClaw 활용 팁 5가지

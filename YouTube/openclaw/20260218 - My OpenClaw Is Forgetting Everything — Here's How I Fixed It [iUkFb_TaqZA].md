@@ -20,7 +20,7 @@ tags:
 - 채널: Dave Swift
 - 게시일: 2026-02-18T09:19:30-08:00
 - 원본 URL: https://www.youtube.com/watch?v=iUkFb_TaqZA
-- 썸네일: https://i.ytimg.com/vi/iUkFb_TaqZA/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/iUkFb_TaqZA/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw가 설정을 잊어버릴 때 어떻게 고칠까

@@ -19,7 +19,7 @@ tags:
 - 채널: Michael
 - 게시일: 2026-02-21T11:56:49-08:00
 - 원본 URL: https://www.youtube.com/watch?v=XqFun9XCXPw
-- 썸네일: https://i.ytimg.com/vi/XqFun9XCXPw/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/XqFun9XCXPw/maxresdefault.jpg)
 
 ## 한글 요약
 Pi Coding Agent용 Visual Plan Mode 확장

@@ -20,7 +20,7 @@ tags:
 - 채널: 개발동생
 - 게시일: 2026-03-01T21:10:30-08:00
 - 원본 URL: https://www.youtube.com/watch?v=V3zdDI7G69w
-- 썸네일: https://i.ytimg.com/vi/V3zdDI7G69w/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/V3zdDI7G69w/maxresdefault.jpg)
 
 ## 한글 요약
 요약

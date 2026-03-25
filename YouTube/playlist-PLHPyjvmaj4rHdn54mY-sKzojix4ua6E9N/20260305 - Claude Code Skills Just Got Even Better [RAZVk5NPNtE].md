@@ -20,7 +20,7 @@ tags:
 - 채널: Nate Herk | AI Automation
 - 게시일: 2026-03-05T09:35:59-08:00
 - 원본 URL: https://www.youtube.com/watch?v=RAZVk5NPNtE
-- 썸네일: https://i.ytimg.com/vi/RAZVk5NPNtE/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/RAZVk5NPNtE/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code Skills Just Got Even Better 요약

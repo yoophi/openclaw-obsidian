@@ -21,7 +21,7 @@ tags:
 - 채널: Julian Goldie SEO
 - 게시일: 2026-02-26T05:01:47-08:00
 - 원본 URL: https://www.youtube.com/watch?v=uKzcoFaaAhc
-- 썸네일: https://i.ytimg.com/vi/uKzcoFaaAhc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/uKzcoFaaAhc/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 최신 업데이트: 하트비트와 서브에이전트

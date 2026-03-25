@@ -19,7 +19,7 @@ tags:
 - 채널: Adam Goodyer
 - 게시일: 2025-12-10T11:59:41-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Zo6_d_xdgRY
-- 썸네일: https://i.ytimg.com/vi/Zo6_d_xdgRY/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Zo6_d_xdgRY/maxresdefault.jpg)
 
 ## 한글 요약
 BMAD v6가 코딩의 미래라고 보는 이유

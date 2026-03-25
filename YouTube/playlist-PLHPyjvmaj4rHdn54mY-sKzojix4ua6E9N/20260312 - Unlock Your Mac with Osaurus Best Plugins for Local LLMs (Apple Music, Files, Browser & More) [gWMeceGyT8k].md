@@ -19,7 +19,7 @@ tags:
 - 채널: ShanAI
 - 게시일: 2026-03-12T10:43:42-07:00
 - 원본 URL: https://www.youtube.com/watch?v=gWMeceGyT8k
-- 썸네일: https://i.ytimg.com/vi/gWMeceGyT8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG0CIAC0AWKAgwIABABGFggYihlMA8=&rs=AOn4CLB6nWLxPk7FYcpU2Swnwqbcjc8n4Q
+![thumbnail](https://i.ytimg.com/vi/gWMeceGyT8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG0CIAC0AWKAgwIABABGFggYihlMA8=&rs=AOn4CLB6nWLxPk7FYcpU2Swnwqbcjc8n4Q)
 
 ## 한글 요약
 Summary

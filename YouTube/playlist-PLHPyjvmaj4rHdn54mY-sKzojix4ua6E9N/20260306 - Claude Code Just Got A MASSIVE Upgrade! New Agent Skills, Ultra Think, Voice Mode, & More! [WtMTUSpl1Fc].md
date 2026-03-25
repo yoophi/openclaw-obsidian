@@ -19,7 +19,7 @@ tags:
 - 채널: WorldofAI
 - 게시일: 2026-03-06T00:09:24-08:00
 - 원본 URL: https://www.youtube.com/watch?v=WtMTUSpl1Fc
-- 썸네일: https://i.ytimg.com/vi/WtMTUSpl1Fc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/WtMTUSpl1Fc/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! 요약

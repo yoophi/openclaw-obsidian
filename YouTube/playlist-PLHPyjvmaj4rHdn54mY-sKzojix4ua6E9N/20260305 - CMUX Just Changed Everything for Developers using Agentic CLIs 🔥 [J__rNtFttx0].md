@@ -19,7 +19,7 @@ tags:
 - 채널: Fru Dev
 - 게시일: 2026-03-05T09:00:27-08:00
 - 원본 URL: https://www.youtube.com/watch?v=J__rNtFttx0
-- 썸네일: https://i.ytimg.com/vi/J__rNtFttx0/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/J__rNtFttx0/maxresdefault.jpg)
 
 ## 한글 요약
 CMUX Just Changed Everything for Developers using Agentic CLIs 🔥 요약

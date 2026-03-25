@@ -20,7 +20,7 @@ tags:
 - 채널: Onchain AI Garage
 - 게시일: 2026-03-11T07:00:14-07:00
 - 원본 URL: https://www.youtube.com/watch?v=8tpuky8HpXw
-- 썸네일: https://i.ytimg.com/vi/8tpuky8HpXw/hqdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/8tpuky8HpXw/hqdefault.jpg)
 
 ## 한글 요약
 ## Hermes 에이전트는 OpenClaw보다 나은가

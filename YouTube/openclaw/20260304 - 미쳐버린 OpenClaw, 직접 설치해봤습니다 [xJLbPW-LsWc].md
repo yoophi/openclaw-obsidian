@@ -20,7 +20,7 @@ tags:
 - 채널: 대모산 개발단
 - 게시일: 2026-03-04T02:30:38-08:00
 - 원본 URL: https://www.youtube.com/watch?v=xJLbPW-LsWc
-- 썸네일: https://i.ytimg.com/vi/xJLbPW-LsWc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/xJLbPW-LsWc/maxresdefault.jpg)
 
 ## 한글 요약
 ## 요약

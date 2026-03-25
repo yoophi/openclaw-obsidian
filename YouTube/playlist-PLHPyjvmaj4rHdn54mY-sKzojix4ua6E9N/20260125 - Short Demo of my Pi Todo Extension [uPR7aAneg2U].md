@@ -19,7 +19,7 @@ tags:
 - 채널: Armin Ronacher
 - 게시일: 2026-01-25T11:29:28-08:00
 - 원본 URL: https://www.youtube.com/watch?v=uPR7aAneg2U
-- 썸네일: https://i.ytimg.com/vi/uPR7aAneg2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHMCIAC0AWKAgwIABABGDIgWyhyMA8=&rs=AOn4CLA_zWvF8DEb2eclcBqn2Ye978_uDg
+![thumbnail](https://i.ytimg.com/vi/uPR7aAneg2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHMCIAC0AWKAgwIABABGDIgWyhyMA8=&rs=AOn4CLA_zWvF8DEb2eclcBqn2Ye978_uDg)
 
 ## 한글 요약
 Pi Todo 확장 기능 짧은 데모

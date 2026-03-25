@@ -19,7 +19,7 @@ tags:
 - 채널: Build Great Products
 - 게시일: 2026-03-19T10:15:06-07:00
 - 원본 URL: https://www.youtube.com/watch?v=sZQ7lqaOGMg
-- 썸네일: https://i.ytimg.com/vi/sZQ7lqaOGMg/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/sZQ7lqaOGMg/maxresdefault.jpg)
 
 ## 한글 요약
 Google Stitch + Claude Code — core idea and features

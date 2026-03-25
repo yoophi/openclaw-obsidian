@@ -20,7 +20,7 @@ tags:
 - 채널: Clearmud
 - 게시일: 2026-02-12T11:57:22-08:00
 - 원본 URL: https://www.youtube.com/watch?v=zwV5qC1wS6M
-- 썸네일: https://i.ytimg.com/vi/zwV5qC1wS6M/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/zwV5qC1wS6M/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw로 24시간 돌아가는 AI 에이전트 25개 운영하기

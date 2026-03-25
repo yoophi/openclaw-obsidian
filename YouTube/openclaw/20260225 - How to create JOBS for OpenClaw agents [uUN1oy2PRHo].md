@@ -20,7 +20,7 @@ tags:
 - 채널: Brian Casel
 - 게시일: 2026-02-25T05:01:46-08:00
 - 원본 URL: https://www.youtube.com/watch?v=uUN1oy2PRHo
-- 썸네일: https://i.ytimg.com/vi/uUN1oy2PRHo/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/uUN1oy2PRHo/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 에이전트를 위한 JOBS 만드는 법

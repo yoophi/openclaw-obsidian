@@ -19,7 +19,7 @@ tags:
 - 채널: package main
 - 게시일: 2026-03-21T06:02:34-07:00
 - 원본 URL: https://www.youtube.com/watch?v=3j_Oh525Xrs
-- 썸네일: https://i.ytimg.com/vi/3j_Oh525Xrs/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/3j_Oh525Xrs/maxresdefault.jpg)
 
 ## 한글 요약
 Opencode Go SDK로 만드는 에이전트형 pre-commit hook

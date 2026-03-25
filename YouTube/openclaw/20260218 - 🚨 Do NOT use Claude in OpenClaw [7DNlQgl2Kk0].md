@@ -20,7 +20,7 @@ tags:
 - 채널: The Next New Thing
 - 게시일: 2026-02-18T15:54:55-08:00
 - 원본 URL: https://www.youtube.com/watch?v=7DNlQgl2Kk0
-- 썸네일: https://i.ytimg.com/vi/7DNlQgl2Kk0/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/7DNlQgl2Kk0/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw에서 Claude를 쓰지 말라는 경고의 의미

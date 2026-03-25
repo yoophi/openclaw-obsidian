@@ -20,7 +20,7 @@ tags:
 - 채널: JavaScript Mastery
 - 게시일: 2026-02-20T04:00:04-08:00
 - 원본 URL: https://www.youtube.com/watch?v=sO6NSSOWDO0
-- 썸네일: https://i.ytimg.com/vi/sO6NSSOWDO0/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/sO6NSSOWDO0/maxresdefault.jpg)
 
 ## 한글 요약
 ## 45분 만에 나만의 AI 에이전트 배포하기: OpenClaw 입문 튜토리얼

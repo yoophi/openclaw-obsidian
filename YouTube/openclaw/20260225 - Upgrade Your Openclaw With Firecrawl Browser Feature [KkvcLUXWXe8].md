@@ -20,7 +20,7 @@ tags:
 - 채널: Firecrawl
 - 게시일: 2026-02-25T02:57:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=KkvcLUXWXe8
-- 썸네일: https://i.ytimg.com/vi/KkvcLUXWXe8/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/KkvcLUXWXe8/maxresdefault.jpg)
 
 ## 한글 요약
 ## Firecrawl Browser 기능으로 OpenClaw 업그레이드하기

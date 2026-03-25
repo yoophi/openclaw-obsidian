@@ -20,7 +20,7 @@ tags:
 - 채널: Jacob Klug
 - 게시일: 2026-02-23T17:42:28-08:00
 - 원본 URL: https://www.youtube.com/watch?v=aMQVcJHHRVM
-- 썸네일: https://i.ytimg.com/vi/aMQVcJHHRVM/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/aMQVcJHHRVM/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw가 한 번의 프롬프트로 거대한 미션 컨트롤을 만들었다는 주장

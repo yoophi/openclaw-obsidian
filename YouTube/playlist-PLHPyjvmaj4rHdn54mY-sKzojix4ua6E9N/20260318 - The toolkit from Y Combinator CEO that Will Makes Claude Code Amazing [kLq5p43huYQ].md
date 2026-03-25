@@ -19,7 +19,7 @@ tags:
 - 채널: Better Stack
 - 게시일: 2026-03-18T03:15:04-07:00
 - 원본 URL: https://www.youtube.com/watch?v=kLq5p43huYQ
-- 썸네일: https://i.ytimg.com/vi/kLq5p43huYQ/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/kLq5p43huYQ/maxresdefault.jpg)
 
 ## 한글 요약
 GStack: Garry Tan’s Claude Code toolkit and what it actually does

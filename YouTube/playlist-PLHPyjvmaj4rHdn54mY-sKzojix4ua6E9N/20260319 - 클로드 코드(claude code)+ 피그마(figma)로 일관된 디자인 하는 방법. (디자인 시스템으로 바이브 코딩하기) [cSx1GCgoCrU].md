@@ -19,7 +19,7 @@ tags:
 - 채널: 피튜브
 - 게시일: 2026-03-19T18:42:11-07:00
 - 원본 URL: https://www.youtube.com/watch?v=cSx1GCgoCrU
-- 썸네일: https://i.ytimg.com/vi/cSx1GCgoCrU/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/cSx1GCgoCrU/maxresdefault.jpg)
 
 ## 한글 요약
 요약

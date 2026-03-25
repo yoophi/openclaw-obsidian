@@ -19,7 +19,7 @@ tags:
 - 채널: Brandon Melville
 - 게시일: 2026-03-06T18:10:23-08:00
 - 원본 URL: https://www.youtube.com/watch?v=WQ6xcjB-tqU
-- 썸네일: https://i.ytimg.com/vi/WQ6xcjB-tqU/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/WQ6xcjB-tqU/maxresdefault.jpg)
 
 ## 한글 요약
 OpenCode Agents in 16 Minutes & my best tips 요약

@@ -19,7 +19,7 @@ tags:
 - 채널: AI LABS
 - 게시일: 2026-03-17T09:13:18-07:00
 - 원본 URL: https://www.youtube.com/watch?v=uEit1oOJK0w
-- 썸네일: https://i.ytimg.com/vi/uEit1oOJK0w/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/uEit1oOJK0w/maxresdefault.jpg)
 
 ## 한글 요약
 GSD: when to pick it (and why it’s different)

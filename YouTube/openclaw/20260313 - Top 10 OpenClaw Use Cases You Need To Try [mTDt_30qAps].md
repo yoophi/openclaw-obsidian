@@ -20,7 +20,7 @@ tags:
 - 채널: Adrian Twarog
 - 게시일: 2026-03-13T00:49:03-07:00
 - 원본 URL: https://www.youtube.com/watch?v=mTDt_30qAps
-- 썸네일: https://i.ytimg.com/vi/mTDt_30qAps/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/mTDt_30qAps/maxresdefault.jpg)
 
 ## 한글 요약
 ## 꼭 시도해볼 만한 OpenClaw 활용 사례 Top 10

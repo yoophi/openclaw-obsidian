@@ -20,7 +20,7 @@ tags:
 - 채널: Stack Snacks
 - 게시일: 2026-02-06T02:28:13-08:00
 - 원본 URL: https://www.youtube.com/watch?v=1g2a7h2_vmY
-- 썸네일: https://i.ytimg.com/vi/1g2a7h2_vmY/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/1g2a7h2_vmY/maxresdefault.jpg)
 
 ## 한글 요약
 ## 왜 이 발표자는 OpenClaw보다 Zo를 선호하나

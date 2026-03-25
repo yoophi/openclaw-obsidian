@@ -20,7 +20,7 @@ tags:
 - 채널: JTBC News
 - 게시일: 2026-03-09T23:09:34-07:00
 - 원본 URL: https://www.youtube.com/watch?v=Jqrzh7J6Jjs
-- 썸네일: https://i.ytimg.com/vi/Jqrzh7J6Jjs/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Jqrzh7J6Jjs/maxresdefault.jpg)
 
 ## 한글 요약
 ## 중국서 '랍스터 AI' 열풍

@@ -20,7 +20,7 @@ tags:
 - 채널: Dubibubii
 - 게시일: 2026-02-28T04:00:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=3hgXhB_Wy2U
-- 썸네일: https://i.ytimg.com/vi/3hgXhB_Wy2U/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/3hgXhB_Wy2U/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw로 AI 에이전트 군단을 만들어 수익화하려는 실험

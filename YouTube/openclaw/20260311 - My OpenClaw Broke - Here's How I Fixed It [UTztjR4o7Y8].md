@@ -20,7 +20,7 @@ tags:
 - 채널: Sean Matthew
 - 게시일: 2026-03-11T10:00:46-07:00
 - 원본 URL: https://www.youtube.com/watch?v=UTztjR4o7Y8
-- 썸네일: https://i.ytimg.com/vi/UTztjR4o7Y8/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/UTztjR4o7Y8/maxresdefault.jpg)
 
 ## 한글 요약
 ## 내 OpenClaw가 고장났을 때 어떻게 고쳤는가

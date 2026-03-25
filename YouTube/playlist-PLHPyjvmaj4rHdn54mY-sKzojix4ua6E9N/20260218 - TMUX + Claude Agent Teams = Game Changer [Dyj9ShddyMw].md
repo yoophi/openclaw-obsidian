@@ -19,7 +19,7 @@ tags:
 - 채널: Eric Tech
 - 게시일: 2026-02-18T06:00:20-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Dyj9ShddyMw
-- 썸네일: https://i.ytimg.com/vi/Dyj9ShddyMw/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Dyj9ShddyMw/maxresdefault.jpg)
 
 ## 한글 요약
 TMUX + Claude 에이전트 팀 조합이 왜 강력한가

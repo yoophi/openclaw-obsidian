@@ -20,7 +20,7 @@ tags:
 - 채널: Chris Messina
 - 게시일: 2026-03-16T18:19:59-07:00
 - 원본 URL: https://www.youtube.com/watch?v=kRmZ5zmMS2o
-- 썸네일: https://i.ytimg.com/vi/kRmZ5zmMS2o/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/kRmZ5zmMS2o/maxresdefault.jpg)
 
 ## 한글 요약
 ## NVIDIA의 NemoClaw 공개 메시지

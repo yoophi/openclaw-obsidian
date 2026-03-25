@@ -20,7 +20,7 @@ tags:
 - 채널: Dubibubii
 - 게시일: 2026-02-21T04:00:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=HNtHZkHGEFo
-- 썸네일: https://i.ytimg.com/vi/HNtHZkHGEFo/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/HNtHZkHGEFo/maxresdefault.jpg)
 
 ## 한글 요약
 ## 사람들이 잘 이야기하지 않는 OpenClaw 활용 사례들

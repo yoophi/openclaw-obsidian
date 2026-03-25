@@ -19,7 +19,7 @@ tags:
 - 채널: Better Stack
 - 게시일: 2026-03-07T09:30:04-08:00
 - 원본 URL: https://www.youtube.com/watch?v=6x7hh6Qzm9U
-- 썸네일: https://i.ytimg.com/vi/6x7hh6Qzm9U/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/6x7hh6Qzm9U/maxresdefault.jpg)
 
 ## 한글 요약
 Quick take

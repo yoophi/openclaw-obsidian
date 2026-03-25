@@ -20,7 +20,7 @@ tags:
 - 채널: OpenClaw Dev
 - 게시일: 2026-03-17T14:57:31-07:00
 - 원본 URL: https://www.youtube.com/watch?v=z8BPjB26-p4
-- 썸네일: https://i.ytimg.com/vi/z8BPjB26-p4/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/z8BPjB26-p4/maxresdefault.jpg)
 
 ## 한글 요약
 ## NemoClaw를 2분 만에 이해하기

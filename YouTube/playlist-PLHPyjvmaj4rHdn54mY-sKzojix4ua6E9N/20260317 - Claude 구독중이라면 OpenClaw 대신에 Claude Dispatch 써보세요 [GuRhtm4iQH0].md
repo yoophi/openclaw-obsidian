@@ -19,7 +19,7 @@ tags:
 - 채널: 스테판초 StefanCho
 - 게시일: 2026-03-17T22:11:54-07:00
 - 원본 URL: https://www.youtube.com/watch?v=GuRhtm4iQH0
-- 썸네일: https://i.ytimg.com/vi/GuRhtm4iQH0/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/GuRhtm4iQH0/maxresdefault.jpg)
 
 ## 한글 요약
 요약 — Claude Dispatch(코워크 디스패치) 사용기

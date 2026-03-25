@@ -20,7 +20,7 @@ tags:
 - 채널: Julian Goldie SEO
 - 게시일: 2026-03-03T17:00:35-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Qbw40hXdImc
-- 썸네일: https://i.ytimg.com/vi/Qbw40hXdImc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Qbw40hXdImc/maxresdefault.jpg)
 
 ## 한글 요약
 ## ClawX: OpenClaw용 무료 데스크톱 앱 소개

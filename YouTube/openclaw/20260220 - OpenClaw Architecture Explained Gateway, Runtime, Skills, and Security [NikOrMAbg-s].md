@@ -22,7 +22,7 @@ tags:
 - 채널: scrollypedia
 - 게시일: 2026-02-20T07:00:45-08:00
 - 원본 URL: https://www.youtube.com/watch?v=NikOrMAbg-s
-- 썸네일: https://i.ytimg.com/vi/NikOrMAbg-s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFigTMA8=&rs=AOn4CLANx5w3Eh635pQfow_h9spWtaIn0A
+![thumbnail](https://i.ytimg.com/vi/NikOrMAbg-s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFigTMA8=&rs=AOn4CLANx5w3Eh635pQfow_h9spWtaIn0A)
 
 ## 한글 요약
 ## OpenClaw 아키텍처 설명: 게이트웨이, 런타임, 스킬, 그리고 보안

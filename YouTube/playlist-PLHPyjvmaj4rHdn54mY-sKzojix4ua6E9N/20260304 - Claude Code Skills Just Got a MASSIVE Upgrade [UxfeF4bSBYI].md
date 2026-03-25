@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-04T12:12:43-08:00
 - 원본 URL: https://www.youtube.com/watch?v=UxfeF4bSBYI
-- 썸네일: https://i.ytimg.com/vi/UxfeF4bSBYI/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/UxfeF4bSBYI/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code Skills Just Got a MASSIVE Upgrade 요약

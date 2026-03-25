@@ -19,7 +19,7 @@ tags:
 - 채널: 스테판초 StefanCho
 - 게시일: 2026-03-08T09:27:38-07:00
 - 원본 URL: https://www.youtube.com/watch?v=1Ffh2Obqxks
-- 썸네일: https://i.ytimg.com/vi/1Ffh2Obqxks/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/1Ffh2Obqxks/maxresdefault.jpg)
 
 ## 한글 요약
 클로드 스킬 개선: skill-creator 요약

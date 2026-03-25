@@ -19,7 +19,7 @@ tags:
 - 채널: Fru Dev
 - 게시일: 2026-03-19T12:56:31-07:00
 - 원본 URL: https://www.youtube.com/watch?v=aRz6OAxl9ss
-- 썸네일: https://i.ytimg.com/vi/aRz6OAxl9ss/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/aRz6OAxl9ss/maxresdefault.jpg)
 
 ## 한글 요약
 Paperclip AI — quick take

@@ -19,7 +19,7 @@ tags:
 - 채널: Dreams of Code
 - 게시일: 2023-04-25T04:00:14-07:00
 - 원본 URL: https://www.youtube.com/watch?v=DzNmUNvnB04
-- 썸네일: https://i.ytimg.com/vi/DzNmUNvnB04/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/DzNmUNvnB04/maxresdefault.jpg)
 
 ## 한글 요약
 Tmux가 내 코딩 방식을 완전히 바꿔놓은 이유

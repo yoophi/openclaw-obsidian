@@ -20,7 +20,7 @@ tags:
 - 채널: Adam Goodyer
 - 게시일: 2026-02-24T05:00:22-08:00
 - 원본 URL: https://www.youtube.com/watch?v=DUttMOh_YeM
-- 썸네일: https://i.ytimg.com/vi/DUttMOh_YeM/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/DUttMOh_YeM/maxresdefault.jpg)
 
 ## 한글 요약
 ## BMAD v6 무료 프레임워크 분석

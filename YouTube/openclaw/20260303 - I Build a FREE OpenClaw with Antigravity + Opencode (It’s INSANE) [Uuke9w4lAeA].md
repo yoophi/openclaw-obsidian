@@ -20,7 +20,7 @@ tags:
 - 채널: SoftwareGent
 - 게시일: 2026-03-03T03:41:36-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Uuke9w4lAeA
-- 썸네일: https://i.ytimg.com/vi/Uuke9w4lAeA/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/Uuke9w4lAeA/maxresdefault.jpg)
 
 ## 한글 요약
 ## Antigravity와 Opencode로 무료 OpenClaw 만들기

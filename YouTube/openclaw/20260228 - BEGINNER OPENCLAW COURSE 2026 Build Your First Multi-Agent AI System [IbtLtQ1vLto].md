@@ -20,7 +20,7 @@ tags:
 - 채널: Kevin Jeppesen - The Operator Vault
 - 게시일: 2026-02-28T10:45:37-08:00
 - 원본 URL: https://www.youtube.com/watch?v=IbtLtQ1vLto
-- 썸네일: https://i.ytimg.com/vi/IbtLtQ1vLto/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/IbtLtQ1vLto/maxresdefault.jpg)
 
 ## 한글 요약
 ## 2026 초보자용 OpenClaw 코스

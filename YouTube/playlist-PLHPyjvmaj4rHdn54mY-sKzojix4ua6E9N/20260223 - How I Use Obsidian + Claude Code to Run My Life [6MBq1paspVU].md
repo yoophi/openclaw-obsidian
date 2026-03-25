@@ -19,7 +19,7 @@ tags:
 - 채널: Greg Isenberg
 - 게시일: 2026-02-23T12:00:04-08:00
 - 원본 URL: https://www.youtube.com/watch?v=6MBq1paspVU
-- 썸네일: https://i.ytimg.com/vi/6MBq1paspVU/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/6MBq1paspVU/maxresdefault.jpg)
 
 ## 한글 요약
 Obsidian + Claude Code로 삶을 운영하는 방법

@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-05T14:00:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=-NkxSGtes7k
-- 썸네일: https://i.ytimg.com/vi/-NkxSGtes7k/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/-NkxSGtes7k/maxresdefault.jpg)
 
 ## 한글 요약
 요약

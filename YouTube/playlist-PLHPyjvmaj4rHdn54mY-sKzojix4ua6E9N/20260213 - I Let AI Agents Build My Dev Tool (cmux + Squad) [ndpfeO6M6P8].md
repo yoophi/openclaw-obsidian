@@ -19,7 +19,7 @@ tags:
 - 채널: Ian Philpot
 - 게시일: 2026-02-13T11:03:29-08:00
 - 원본 URL: https://www.youtube.com/watch?v=ndpfeO6M6P8
-- 썸네일: https://i.ytimg.com/vi/ndpfeO6M6P8/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/ndpfeO6M6P8/maxresdefault.jpg)
 
 ## 한글 요약
 AI 에이전트에게 개발 도구를 직접 만들어보게 한 실험

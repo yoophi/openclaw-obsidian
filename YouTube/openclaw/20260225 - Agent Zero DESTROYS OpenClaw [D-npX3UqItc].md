@@ -20,7 +20,7 @@ tags:
 - 채널: Julian Goldie Agency
 - 게시일: 2026-02-25T13:00:14-08:00
 - 원본 URL: https://www.youtube.com/watch?v=D-npX3UqItc
-- 썸네일: https://i.ytimg.com/vi/D-npX3UqItc/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/D-npX3UqItc/maxresdefault.jpg)
 
 ## 한글 요약
 ## Agent Zero가 OpenClaw를 압도한다는 주장에 대한 사례

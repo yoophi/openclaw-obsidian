@@ -20,7 +20,7 @@ tags:
 - 채널: Alex Finn
 - 게시일: 2026-02-15T09:24:39-08:00
 - 원본 URL: https://www.youtube.com/watch?v=_kZCoW-Qxnc
-- 썸네일: https://i.ytimg.com/vi/_kZCoW-Qxnc/hqdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/_kZCoW-Qxnc/hqdefault.jpg)
 
 ## 한글 요약
 ## 100시간 분량의 OpenClaw 강의를 35분으로 압축한 영상

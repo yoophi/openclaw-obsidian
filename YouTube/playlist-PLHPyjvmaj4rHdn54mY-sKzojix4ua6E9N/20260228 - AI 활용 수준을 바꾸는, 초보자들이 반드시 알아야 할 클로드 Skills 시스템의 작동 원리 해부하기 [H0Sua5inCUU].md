@@ -20,7 +20,7 @@ tags:
 - 채널: 샘 호트만 : AI 엔지니어의 시선
 - 게시일: 2026-02-28T00:11:23-08:00
 - 원본 URL: https://www.youtube.com/watch?v=H0Sua5inCUU
-- 썸네일: https://i.ytimg.com/vi/H0Sua5inCUU/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/H0Sua5inCUU/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약

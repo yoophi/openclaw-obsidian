@@ -20,7 +20,7 @@ tags:
 - 채널: Agentic Lab
 - 게시일: 2026-03-17T17:37:26-07:00
 - 원본 URL: https://www.youtube.com/watch?v=ODKMmKCgrvw
-- 썸네일: https://i.ytimg.com/vi/ODKMmKCgrvw/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/ODKMmKCgrvw/maxresdefault.jpg)
 
 ## 한글 요약
 ## Claude Code가 OpenClaw보다 훨씬 낫다고 느낀 이유

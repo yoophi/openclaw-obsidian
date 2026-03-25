@@ -19,7 +19,7 @@ tags:
 - 채널: Tech With Turis
 - 게시일: 2026-01-20T14:13:06-08:00
 - 원본 URL: https://www.youtube.com/watch?v=P3onJNQhS60
-- 썸네일: https://i.ytimg.com/vi/P3onJNQhS60/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/P3onJNQhS60/maxresdefault.jpg)
 
 ## 한글 요약
 최고의 AI 코딩 CLI 비교

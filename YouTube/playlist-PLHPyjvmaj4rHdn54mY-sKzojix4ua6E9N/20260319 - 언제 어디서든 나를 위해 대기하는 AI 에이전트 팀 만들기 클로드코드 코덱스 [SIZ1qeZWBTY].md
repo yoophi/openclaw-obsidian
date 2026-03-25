@@ -19,7 +19,7 @@ tags:
 - 채널: 코드깎는노인
 - 게시일: 2026-03-19T18:01:07-07:00
 - 원본 URL: https://www.youtube.com/watch?v=SIZ1qeZWBTY
-- 썸네일: https://i.ytimg.com/vi/SIZ1qeZWBTY/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/SIZ1qeZWBTY/maxresdefault.jpg)
 
 ## 한글 요약
 요약

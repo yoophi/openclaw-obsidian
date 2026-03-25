@@ -19,7 +19,7 @@ tags:
 - 채널: Brandon Melville
 - 게시일: 2026-03-15T12:06:45-07:00
 - 원본 URL: https://www.youtube.com/watch?v=CCUV1YzVYzg
-- 썸네일: https://i.ytimg.com/vi/CCUV1YzVYzg/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/CCUV1YzVYzg/maxresdefault.jpg)
 
 ## 한글 요약
 Google’s new Workspace CLI + Open Code — quick take

@@ -19,7 +19,7 @@ tags:
 - 채널: UI Collective
 - 게시일: 2026-02-23T05:59:20-08:00
 - 원본 URL: https://www.youtube.com/watch?v=JMQ0X_si144
-- 썸네일: https://i.ytimg.com/vi/JMQ0X_si144/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/JMQ0X_si144/maxresdefault.jpg)
 
 ## 한글 요약
 디자이너를 위한 Claude Code 활용법

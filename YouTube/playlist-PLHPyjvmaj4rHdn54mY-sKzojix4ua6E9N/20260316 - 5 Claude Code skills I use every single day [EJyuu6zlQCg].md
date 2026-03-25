@@ -19,7 +19,7 @@ tags:
 - 채널: Matt Pocock
 - 게시일: 2026-03-16T09:01:49-07:00
 - 원본 URL: https://www.youtube.com/watch?v=EJyuu6zlQCg
-- 썸네일: https://i.ytimg.com/vi/EJyuu6zlQCg/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/EJyuu6zlQCg/maxresdefault.jpg)
 
 ## 한글 요약
 5 Claude Code skills I use every single day

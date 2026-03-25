@@ -20,7 +20,7 @@ tags:
 - 채널: Sean Matthew
 - 게시일: 2026-03-03T10:00:24-08:00
 - 원본 URL: https://www.youtube.com/watch?v=QvfqAMUJTT4
-- 썸네일: https://i.ytimg.com/vi/QvfqAMUJTT4/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/QvfqAMUJTT4/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw를 실제로 유용하게 만들어주는 3가지 도구

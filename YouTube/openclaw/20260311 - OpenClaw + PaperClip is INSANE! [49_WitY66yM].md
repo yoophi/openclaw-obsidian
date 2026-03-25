@@ -20,7 +20,7 @@ tags:
 - 채널: Julian Goldie SEO
 - 게시일: 2026-03-11T14:00:04-07:00
 - 원본 URL: https://www.youtube.com/watch?v=49_WitY66yM
-- 썸네일: https://i.ytimg.com/vi/49_WitY66yM/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/49_WitY66yM/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw와 PaperClip 조합이 강력한 이유

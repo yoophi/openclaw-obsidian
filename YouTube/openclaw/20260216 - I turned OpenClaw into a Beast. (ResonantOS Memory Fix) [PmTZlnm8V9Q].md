@@ -20,7 +20,7 @@ tags:
 - 채널: Manolo Remiddi
 - 게시일: 2026-02-16T08:30:09-08:00
 - 원본 URL: https://www.youtube.com/watch?v=PmTZlnm8V9Q
-- 썸네일: https://i.ytimg.com/vi/PmTZlnm8V9Q/maxresdefault.jpg
+![thumbnail](https://i.ytimg.com/vi/PmTZlnm8V9Q/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw를 더 강하게 만든 메모리 개선 사례
