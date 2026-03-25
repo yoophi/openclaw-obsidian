@@ -1,11 +1,11 @@
 ---
-youtube_id: "CbQGeaa8XrQ"
-title: "Vibe Coder Tries Neovim"
-channel: "Bog"
-publish_date: "2025-03-27T11:21:10-07:00"
-original_url: "https://www.youtube.com/watch?v=CbQGeaa8XrQ"
-thumbnail: "https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg"
-playlist_url: "https://www.youtube.com/playlist?list=PLHPyjvmaj4rHdn54mY-sKzojix4ua6E9N"
+youtube_id: CbQGeaa8XrQ
+title: Vibe Coder Tries Neovim
+channel: Bog
+publish_date: 2025-03-27T11:21:10-07:00
+original_url: https://www.youtube.com/watch?v=CbQGeaa8XrQ
+thumbnail: https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg
+playlist_url: https://www.youtube.com/playlist?list=PLHPyjvmaj4rHdn54mY-sKzojix4ua6E9N
 tags:
   - youtube-summary
   - channel/bog
