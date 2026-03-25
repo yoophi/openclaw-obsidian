@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/2mAGV7MQd04/maxresdefault.jpg
 
 ## 한글 요약
-## Obsidian + Claude Code로 만드는 AI 세컨드 브레인
+Obsidian + Claude Code로 만드는 AI 세컨드 브레인
 
 이 영상은 Obsidian과 Claude Code를 결합해 AI 기반 세컨드 브레인을 구축하는 방법을 설명합니다. 핵심은 단순 저장소가 아니라, 메모와 실행 지원이 연결된 작업 시스템을 만드는 것입니다.
 

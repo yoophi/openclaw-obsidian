@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/6MBq1paspVU/maxresdefault.jpg
 
 ## 한글 요약
-## Obsidian + Claude Code로 삶을 운영하는 방법
+Obsidian + Claude Code로 삶을 운영하는 방법
 
 이 영상은 Obsidian과 Claude Code를 함께 사용해 개인 작업과 삶의 운영을 정리하는 방식을 소개합니다. 핵심은 메모 시스템과 AI를 연결해, 정보 저장과 실행 지원을 하나의 흐름으로 묶는 것입니다.
 

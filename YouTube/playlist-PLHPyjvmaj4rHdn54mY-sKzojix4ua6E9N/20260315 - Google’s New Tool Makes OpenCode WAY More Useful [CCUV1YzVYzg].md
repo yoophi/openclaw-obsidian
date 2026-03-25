@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/CCUV1YzVYzg/maxresdefault.jpg
 
 ## 한글 요약
-## Google’s new Workspace CLI + Open Code — quick take
+Google’s new Workspace CLI + Open Code — quick take
 
 A new command-line tool gives agents a single, structured interface across Gmail, Drive, Docs, Slides, and Calendar, and pairing it with Open Code makes those Workspace surfaces directly usable by an AI agent. The video demos the practical value (calendar events, inbox summaries with draft replies, and auto-generated Slide decks) and shows the repo traction: about 19.5k GitHub stars, 867 forks, and a lively Hacker News discussion. The creator highlights that *this repo ships with 100 plus agent skills* and that the CLI returns structured JSON the agent can act on, which is why it feels more reliable and token-efficient than ad-hoc script hacks.
 

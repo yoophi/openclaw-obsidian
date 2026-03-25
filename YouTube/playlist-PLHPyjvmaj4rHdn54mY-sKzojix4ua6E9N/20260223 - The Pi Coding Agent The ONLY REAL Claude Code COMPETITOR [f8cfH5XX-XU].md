@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/f8cfH5XX-XU/maxresdefault.jpg
 
 ## 한글 요약
-## Pi Coding Agent는 유일한 Claude Code 경쟁자인가
+Pi Coding Agent는 유일한 Claude Code 경쟁자인가
 
 이 영상은 Pi Coding Agent를 Claude Code의 실질적 경쟁자로 보며 비교합니다. 발표자는 기능과 흐름, 실제 사용감을 중심으로 두 도구를 평가합니다.
 

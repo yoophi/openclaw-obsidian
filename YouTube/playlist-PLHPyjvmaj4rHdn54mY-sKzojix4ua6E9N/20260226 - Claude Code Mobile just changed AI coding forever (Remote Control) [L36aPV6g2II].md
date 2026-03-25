@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/L36aPV6g2II/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code Mobile이 AI 코딩을 바꿔놓은 이유
+Claude Code Mobile이 AI 코딩을 바꿔놓은 이유
 
 이 영상은 Claude Code Mobile이 원격 제어와 이동 중 작업 흐름 측면에서 왜 큰 변화인지 설명합니다. 핵심은 데스크톱 앞에 앉아 있지 않아도 에이전트 작업을 이어가고 확인할 수 있다는 점입니다.
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/1Ffh2Obqxks/maxresdefault.jpg
 
 ## 한글 요약
-## 클로드 스킬 개선: skill-creator 요약
+클로드 스킬 개선: skill-creator 요약
 
 핵심 주장: 엔트로픽(Claude)용 플러그인 'skill-creator'가 이제 스킬 생성뿐 아니라 기존 스킬의 자동 개선·평가에 쓰입니다. 설치는 플러그인 인스톨러로 하고, 워크스페이스를 만들어 기존(Old) 버전과 새(With/New) 버전을 반복(iteration) 구조로 놓고 테스트케이스를 돌려 비교·평가합니다. *"스킬 크리에이터로 스킬을 이제 개선을 할 수 있게 되었습니다."*
 

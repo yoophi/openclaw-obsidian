@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/qqcpiDXPCvY/maxresdefault.jpg
 
 ## 한글 요약
-## Summary
+Summary
 This clip demos Google’s Stitch 2.0 (Gemini 3.1) as a fast, visual front-end design layer that complements agentic coding tools like Claude/Cloud Code. Stitch ingests a screenshot or URL, auto-generates a complete design system (colors, typography, components), offers canned variants and per-component editing, and even a “live mode” that adds motion tied to your cursor. *Stitch allows us to create highquality front-end design mockups for our web apps and our mobile apps.*
 
 The video walks a clear workflow: grab inspiration (Pinterest/Dribbble or a URL), paste the screenshot into Stitch, refine layouts/variants, export the UI as code to the clipboard, then paste into Claude/Cloud Code to produce a working front-end scaffold. The presenter shows quick iteration, image editing tricks, and a 60-second export-to-code loop that yields an “80%–90%” usable front-end — fast enough to avoid most manual design work while leaving polish and backend wiring for later. *If we can get an 80% 90% solution here inside of Stitch, well, why wouldn't we?*

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uPR7aAneg2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHMCIAC0AWKAgwIABABGDIgWyhyMA8=&rs=AOn4CLA_zWvF8DEb2eclcBqn2Ye978_uDg
 
 ## 한글 요약
-## Pi Todo 확장 기능 짧은 데모
+Pi Todo 확장 기능 짧은 데모
 
 이 영상은 Pi Todo Extension의 핵심 기능을 짧게 보여주는 데모입니다. 큰 설명보다는 실제 동작 모습을 통해 어떤 문제를 푸는 도구인지 빠르게 이해하게 해 주는 성격입니다.
 

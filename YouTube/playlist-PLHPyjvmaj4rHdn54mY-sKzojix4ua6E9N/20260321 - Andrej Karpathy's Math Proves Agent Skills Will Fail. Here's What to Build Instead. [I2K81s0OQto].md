@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/I2K81s0OQto/maxresdefault.jpg
 
 ## 한글 요약
-## Agent Skills는 왜 실패할 수 있고, 대신 무엇을 만들어야 하나
+Agent Skills는 왜 실패할 수 있고, 대신 무엇을 만들어야 하나
 
 이 영상은 Andrej Karpathy의 관점을 빌려, 에이전트 스킬 개념이 왜 한계에 부딪힐 수 있는지를 설명합니다. 핵심은 스킬을 늘리는 것보다, 더 본질적인 작업 구조와 시스템 설계가 중요하다는 점입니다.
 

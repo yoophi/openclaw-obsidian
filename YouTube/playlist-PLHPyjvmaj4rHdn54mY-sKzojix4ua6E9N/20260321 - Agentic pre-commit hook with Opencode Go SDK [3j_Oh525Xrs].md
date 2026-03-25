@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/3j_Oh525Xrs/maxresdefault.jpg
 
 ## 한글 요약
-## Opencode Go SDK로 만드는 에이전트형 pre-commit hook
+Opencode Go SDK로 만드는 에이전트형 pre-commit hook
 
 이 영상은 Opencode Go SDK를 이용해 에이전트형 pre-commit hook을 만드는 흐름을 소개합니다. 핵심은 코드 커밋 직전에 AI 기반 검토나 자동 점검을 끼워 넣어 품질을 높이는 것입니다.
 

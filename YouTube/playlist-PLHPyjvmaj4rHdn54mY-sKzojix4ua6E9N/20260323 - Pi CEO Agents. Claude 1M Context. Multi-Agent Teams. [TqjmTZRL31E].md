@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/TqjmTZRL31E/maxresdefault.jpg
 
 ## 한글 요약
-## Pi CEO Agents, Claude 1M Context, 그리고 멀티에이전트 팀
+Pi CEO Agents, Claude 1M Context, 그리고 멀티에이전트 팀
 
 이 영상은 Pi CEO Agents와 대규모 컨텍스트, 멀티에이전트 팀 개념을 함께 다룹니다. 핵심은 한 모델의 능력보다, 역할 분리와 문맥 확장이 결합될 때 더 강력한 자동화가 가능해진다는 점입니다.
 

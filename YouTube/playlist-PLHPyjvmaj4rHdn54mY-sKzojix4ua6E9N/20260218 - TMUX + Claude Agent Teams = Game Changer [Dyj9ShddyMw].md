@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Dyj9ShddyMw/maxresdefault.jpg
 
 ## 한글 요약
-## TMUX + Claude 에이전트 팀 조합이 왜 강력한가
+TMUX + Claude 에이전트 팀 조합이 왜 강력한가
 
 이 영상은 tmux와 Claude 기반 에이전트 팀을 결합했을 때 생산성이 크게 올라가는 이유를 설명합니다. tmux는 작업 공간을 구조화하고, 에이전트는 병렬 처리와 자동화를 맡으면서 서로 시너지를 냅니다.
 

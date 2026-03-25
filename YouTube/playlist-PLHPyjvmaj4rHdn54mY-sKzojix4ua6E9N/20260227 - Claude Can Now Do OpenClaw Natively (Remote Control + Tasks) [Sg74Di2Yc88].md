@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Sg74Di2Yc88/maxresdefault.jpg
 
 ## 한글 요약
-## Claude가 이제 OpenClaw를 네이티브하게 할 수 있다는 의미
+Claude가 이제 OpenClaw를 네이티브하게 할 수 있다는 의미
 
 이 영상은 Claude가 원격 제어와 태스크 흐름 측면에서 OpenClaw와 비슷한 역할을 더 직접적으로 수행할 수 있게 된 변화를 설명합니다. 핵심은 에이전트형 작업 흐름이 더 자연스럽게 모델 안으로 들어오고 있다는 점입니다.
 

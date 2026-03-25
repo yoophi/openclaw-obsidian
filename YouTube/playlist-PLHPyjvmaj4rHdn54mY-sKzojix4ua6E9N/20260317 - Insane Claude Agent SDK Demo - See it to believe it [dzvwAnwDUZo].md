@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/dzvwAnwDUZo/maxresdefault.jpg
 
 ## 한글 요약
-## Agent SDK demo: live voice-driven coding
+Agent SDK demo: live voice-driven coding
 
 The creator demos an AI "pool trainer" using a voice-cloned pool pro to narrate shot routes while an agent SDK connects that voice agent to a background coding agent. In the clip the voice agent listens to a spoken feature request (a “route recall” command), sends an SDK call to a coding agent, and the coding agent edits the running app so the projector overlay can later recall route one on command — all without leaving the table. *This is freaking so cool.* *That is an actual coding integration that was initiated by my voice.*
 

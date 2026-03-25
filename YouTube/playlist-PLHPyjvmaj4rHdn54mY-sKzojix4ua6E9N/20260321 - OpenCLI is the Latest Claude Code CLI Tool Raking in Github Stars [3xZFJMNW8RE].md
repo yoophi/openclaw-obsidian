@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/3xZFJMNW8RE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgSChNMA8=&rs=AOn4CLAWv7HT1ofyF19dx-_X8VvcQsDQ5w
 
 ## 한글 요약
-## OpenCLI는 최신 Claude Code 계열 CLI 도구인가
+OpenCLI는 최신 Claude Code 계열 CLI 도구인가
 
 이 영상은 OpenCLI라는 새로운 Claude Code 계열 CLI 도구를 다루며, 왜 빠르게 관심을 끌고 있는지 설명합니다. 기능 자체보다 CLI 개발 도구 생태계가 얼마나 빠르게 확장되는지를 보여주는 사례입니다.
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/R7OCrqyGMeY/maxresdefault.jpg
 
 ## 한글 요약
-## Anthropic Just Changed How Agents Call Tools — practical test with Qwen 3.5
+Anthropic Just Changed How Agents Call Tools — practical test with Qwen 3.5
 
 This video breaks down two Anthropic-inspired patterns that reduce context bloat and make tool-heavy agents practical: the tool search (deferred loading of tool schemas) and programmatic tool calling (generating and executing scripts in a sandbox). In the demo, deferring MCPs cut the initial context from about 60 tools to 12 and dropped session tokens from ~13,000 to ~6,300; Anthropic reported “an 85% reduction in token usage,” but the creator shows the savings depend heavily on the task and dataset. *"the tool search tool allows the agent to search the tool registry to discover and load tools by name or keyword."*
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uEit1oOJK0w/maxresdefault.jpg
 
 ## 한글 요약
-## GSD: when to pick it (and why it’s different)
+GSD: when to pick it (and why it’s different)
 
 GSD (Get Shit Done) is a framework built for projects where requirements will evolve and you need fast, iterative MVPs rather than heavy up‑front specification; it plans step‑by‑step from a broad scope so later phases aren’t locked in, making it suited for experimental or custom solutions that require repeated exploration. It deliberately sits opposite BMAD (heavy, preloaded research and rigid PRDs) and differs from Superpowers’ TDD approach (test‑first, edge‑case focused): use BMAD when requirements are fixed, use Superpowers when missing edge cases is costly, and use GSD when you want controlled, rapid execution with room to change—or start with GSD and onboard Superpowers later if needed.
 

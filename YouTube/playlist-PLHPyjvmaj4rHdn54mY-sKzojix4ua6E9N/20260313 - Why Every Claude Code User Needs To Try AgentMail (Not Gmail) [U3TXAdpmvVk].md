@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/U3TXAdpmvVk/maxresdefault.jpg
 
 ## 한글 요약
-## AgentMail: an email inbox built for AI agents
+AgentMail: an email inbox built for AI agents
 
 The video demos AgentMail, an API platform that *gives them a unique email address* and *allows them to send, receive, read, and act upon emails*, positioning it as an agent-first alternative to a regular consumer email account. The creator shows setup (dashboard, API key, CLI and SDK use), links AgentMail to Claude via a CLI/SDK, and walks through live actions: sending mail from an agent address, signing the agent up for newsletters, completing verifications automatically, forwarding messages for agent summaries, and using a loop to poll and summarize new messages.
 

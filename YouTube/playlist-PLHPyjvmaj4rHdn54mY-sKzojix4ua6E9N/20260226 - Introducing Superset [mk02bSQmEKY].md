@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/mk02bSQmEKY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGQCIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAGosETUOy-McpFTn0ZqLOZjG10EA
 
 ## 한글 요약
-## Superset 소개
+Superset 소개
 
 이 영상은 Superset이 무엇인지, 어떤 문제를 해결하려는 도구인지 간단히 소개합니다. 큰 틀에서는 데이터를 더 잘 탐색하고 시각화하는 플랫폼으로 이해할 수 있습니다.
 

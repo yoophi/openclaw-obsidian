@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/EJyuu6zlQCg/maxresdefault.jpg
 
 ## 한글 요약
-## 5 Claude Code skills I use every single day
+5 Claude Code skills I use every single day
 
 This clip argues that the fastest way to raise code quality when using stateless LLM agents is to encode strict, repeatable processes as compact “skills.” The creator shares a repo of short, purpose-built skills that steer Claude Code through design, specification, decomposition and implementation so agents produce reliable results rather than premature, shallow plans. Key evidence: invoking the grilling skill produced 10–16 targeted questions (sometimes 30–50 in complex sessions) and the PRD → issues flow generated concrete GitHub issues that linked back to a parent PRD and unblocked subsequent commits. *Interview me relentlessly about every aspect of this plan until we reach a shared understanding.*
 

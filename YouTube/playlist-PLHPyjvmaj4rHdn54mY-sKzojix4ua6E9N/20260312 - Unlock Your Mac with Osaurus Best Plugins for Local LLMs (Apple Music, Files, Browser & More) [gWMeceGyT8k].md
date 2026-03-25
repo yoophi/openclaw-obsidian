@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/gWMeceGyT8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG0CIAC0AWKAgwIABABGFggYihlMA8=&rs=AOn4CLB6nWLxPk7FYcpU2Swnwqbcjc8n4Q
 
 ## 한글 요약
-## Summary
+Summary
 Osaaris is an open-source Mac app that lets local language models control system apps and tools via modular plugins and per-capability permissions. Core strengths are direct integrations with Apple apps (Music, Notes, Calendar, Contacts, Messages, Mail, Reminders), a secure file-system plugin for reading/writing/managing files and directories, an agent-aware headless browser, and utilities for HTTP fetches, Git, image manipulation, and spreadsheet/CSV handling. Permissions are fine-grained — each capability can be set to allow, deny, or ask — and you can grant tools to specific agents while creating “skills” (prompt-based behaviors) for specialized tasks. *it has a plugin for Apple Music.* *this is an agent-friendly headless browser.*
 
 ## What it actually does

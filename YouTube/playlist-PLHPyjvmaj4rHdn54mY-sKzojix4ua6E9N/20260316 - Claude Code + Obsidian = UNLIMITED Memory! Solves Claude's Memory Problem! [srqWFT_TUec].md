@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/srqWFT_TUec/maxresdefault.jpg
 
 ## 한글 요약
-## Obsidian + Claude: a persistent “second brain” for long codebases
+Obsidian + Claude: a persistent “second brain” for long codebases
 
 This video demonstrates a practical fix for large-model forgetfulness when working on long-running projects: use Obsidian as a local, plain-markdown vault that Claude (via Cloud Code) can read, search, and update. *"Obsidian is a notetaking app that stores everything as a plain markdown file inside your folder on your computer."* Store architecture decisions, PRDs, session summaries, coding rules, meeting transcripts, and reusable UI/component patterns so Claude can pull exact context instead of relying on ephemeral chat history. The presenter shows how an Obsidian-backed workflow keeps project context consistent across sessions and agents, reducing repetitive re-explanations and improving code consistency and focus.
 

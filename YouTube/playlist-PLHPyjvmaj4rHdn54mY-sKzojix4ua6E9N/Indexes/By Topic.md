@@ -1,11 +1,9 @@
 # By Topic
 
-## comparison (5)
+## comparison (3)
 - [[20260221 - AI 잘 쓰는 팀 vs 망하는 팀, 딱 하나 차이입니다 [7GjRM2uv-6E]|AI 잘 쓰는 팀 vs 망하는 팀, 딱 하나 차이입니다]] — 메이커 에반 | Maker Evan
-- [[20260305 - Claude Code Skills Just Got Even Better [RAZVk5NPNtE]|Claude Code Skills Just Got Even Better]] — Nate Herk | AI Automation
 - [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]|Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER!]] — AICodeKing
 - [[20260307 - T3 Code Better Than Codex [6x7hh6Qzm9U]|T3 Code: Better Than Codex?]] — Better Stack
-- [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]|Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)]] — WorldofAI
 
 ## general (65)
 - [[20230425 - Tmux has forever changed the way I write code. [DzNmUNvnB04]|Tmux has forever changed the way I write code.]] — Dreams of Code
@@ -89,10 +87,9 @@
 - [[20260319 - My Multi-Agent Team (Live Demo) [Zhbx-dj0qHE]|My Multi-Agent Team (Live Demo)]] — Owain Lewis
 - [[20260323 - Pi CEO Agents. Claude 1M Context. Multi-Agent Teams. [TqjmTZRL31E]|Pi CEO Agents. Claude 1M Context. Multi-Agent Teams.]] — IndyDevDan
 
-## tools (22)
+## tools (20)
 - [[20260211 - Codex Skills Every Design Engineer Needs [IdqeXTXzY98]|Codex Skills Every Design Engineer Needs]] — Lukas Margerie
 - [[20260213 - I Let AI Agents Build My Dev Tool (cmux + Squad) [ndpfeO6M6P8]|I Let AI Agents Build My Dev Tool (cmux + Squad)]] — Ian Philpot
-- [[20260219 - 65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat 생활형 계산기 10개 [tcDoacn64Lo]|65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개]] — 오늘코드todaycode
 - [[20260228 - AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기 [H0Sua5inCUU]|AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기]] — 샘 호트만 : AI 엔지니어의 시선
 - [[20260304 - Claude Code Skills Just Got a MASSIVE Upgrade [UxfeF4bSBYI]|Claude Code Skills Just Got a MASSIVE Upgrade]] — Chase AI
 - [[20260305 - Anthropic이 Claude Code Skills 2.0을 출시했습니다 [-NkxSGtes7k]|Anthropic이 Claude Code Skills 2.0을 출시했습니다]] — Tech Bridge
@@ -100,7 +97,6 @@
 - [[20260306 - Claude Code + Playwright = INSANE Browser Automations [I9kO6-yPkfM]|Claude Code + Playwright = INSANE Browser Automations]] — Chase AI
 - [[20260306 - Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! [WtMTUSpl1Fc]|Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More!]] — WorldofAI
 - [[20260307 - Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent [R7OCrqyGMeY]|Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent]] — The AI Automators
-- [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]|Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)]] — WorldofAI
 - [[20260308 - 클로드 스킬 사용하신다면 skill-creator는 무조건 쓰세요 (스킬 개선기능 추가됨) [1Ffh2Obqxks]|클로드 스킬 사용하신다면 skill-creator는 무조건 쓰세요 (스킬 개선기능 추가됨)]] — 스테판초 StefanCho
 - [[20260311 - Claude Code 대격변, 스킬이 앱이 됐습니다! [YMT26RopJck]|Claude Code 대격변, 스킬이 앱이 됐습니다!]] — bkamp 비캠프
 - [[20260312 - Unlock Your Mac with Osaurus Best Plugins for Local LLMs (Apple Music, Files, Browser & More) [gWMeceGyT8k]|Unlock Your Mac with Osaurus: Best Plugins for Local LLMs (Apple Music, Files, Browser & More)]] — ShanAI
@@ -113,12 +109,7 @@
 - [[20260321 - Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead. [I2K81s0OQto]|Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.]] — The AI Automators
 - [[20260321 - OpenCLI is the Latest Claude Code CLI Tool Raking in Github Stars [3xZFJMNW8RE]|OpenCLI is the Latest Claude Code CLI Tool Raking in Github Stars]] — Chase AI
 
-## updates (4)
+## updates (3)
 - [[20260227 - 구글 플로우 'UI 업데이트'를 적용한 멀티샷 연출 (ft. 캐릭터 시트, 구글 Gem) [23KQ7pAj4EI]|구글 플로우 'UI 업데이트'를 적용한 멀티샷 연출 (ft. 캐릭터 시트, 구글 Gem)]] — 라이프3.0픽처스
-- [[20260301 - 쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등) [V3zdDI7G69w]|쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등)]] — 개발동생
 - [[20260309 - 클로드 코드 Schedule 업데이트. 앙 맛이쪄 [i1GPX8CEwP4]|클로드 코드 Schedule 업데이트. 앙 맛이쪄]] — 코드팩토리
 - [[20260319 - 4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! [uub34E4DwZI]|4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능!]] — 코드팩토리
-
-## use-cases (2)
-- [[20260219 - 65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat 생활형 계산기 10개 [tcDoacn64Lo]|65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개]] — 오늘코드todaycode
-- [[20260228 - AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기 [H0Sua5inCUU]|AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기]] — 샘 호트만 : AI 엔지니어의 시선

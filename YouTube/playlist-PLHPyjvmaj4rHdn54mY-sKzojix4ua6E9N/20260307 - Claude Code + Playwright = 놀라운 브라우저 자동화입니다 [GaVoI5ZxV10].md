@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/GaVoI5ZxV10/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code + Playwright CLI 요약
+Claude Code + Playwright CLI 요약
 
 이 영상은 Claude Code가 최근에 지원하는 Playwright CLI(마이크로소프트가 만든 오픈소스 브라우저 자동화 도구)를 이용해 브라우저 자동화를 훨씬 더 효율적으로, 그리고 실용적으로 수행하는 법을 데모합니다. 데모에서는 수정한 웹사이트의 폼 제출을 검사하기 위해 Claude Code가 Playwright 스킬을 호출해 여러 병렬 서브 에이전트를 띄워 유효성 검사, 정상 경로, 엣지 케이스 등을 동시에 테스트하고 결과 스크린샷과 요약을 자동으로 제공합니다. 기본 동작은 헤드리스이고, 화면을 보려면 명시적으로 헤디드(헤드풀) 모드로 요청하면 됩니다.
 

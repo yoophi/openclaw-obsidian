@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/jBB6nrqUcCA/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code와 BMAD v6로 AI 운영체제 만들기
+Claude Code와 BMAD v6로 AI 운영체제 만들기
 
 이 영상은 Claude Code와 BMAD v6를 결합해 하나의 AI 운영체제처럼 동작하는 시스템을 구축하는 사례를 보여줍니다. 핵심은 단일 모델 사용을 넘어서 역할과 프로세스를 구조화하는 데 있습니다.
 

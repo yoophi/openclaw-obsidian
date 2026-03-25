@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/sZQ7lqaOGMg/maxresdefault.jpg
 
 ## 한글 요약
-## Google Stitch + Claude Code — core idea and features
+Google Stitch + Claude Code — core idea and features
 The video shows a new Google Stitch release that embeds a design-systems-first workflow into the design-to-code loop: an AI-native canvas (accepts images, code and PRDs), a smarter design agent, voice input, instant prototypes and a formalized design system file called design.md. Stitch generates a markdown design system that documents typography, color scales, component rules and dos/don’ts, and exposes the visual frames and HTML/CSS via a Stitch MCP so coding agents can consume those specs. The presenter calls out that *“design.md really represents a step change”* and demonstrates you can *“create incredible designs just from screenshots.”*
 
 ## Workflow demo, results and limits

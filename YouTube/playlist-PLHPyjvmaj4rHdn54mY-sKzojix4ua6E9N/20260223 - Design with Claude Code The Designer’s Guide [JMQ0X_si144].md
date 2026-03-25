@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/JMQ0X_si144/maxresdefault.jpg
 
 ## 한글 요약
-## 디자이너를 위한 Claude Code 활용법
+디자이너를 위한 Claude Code 활용법
 
 이 영상은 디자이너 관점에서 Claude Code를 어떻게 활용할 수 있는지 설명합니다. 단순 코딩 도구가 아니라, 디자인 의도를 실제 구현과 연결하는 파트너처럼 쓰는 방식이 핵심입니다.
 

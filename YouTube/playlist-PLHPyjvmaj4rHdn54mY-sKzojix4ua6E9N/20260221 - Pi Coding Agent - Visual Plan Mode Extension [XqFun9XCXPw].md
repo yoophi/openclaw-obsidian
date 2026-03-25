@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/XqFun9XCXPw/maxresdefault.jpg
 
 ## 한글 요약
-## Pi Coding Agent용 Visual Plan Mode 확장
+Pi Coding Agent용 Visual Plan Mode 확장
 
 이 영상은 Pi Coding Agent에 붙는 Visual Plan Mode Extension을 소개합니다. 복잡한 작업을 시각적으로 더 잘 계획하고 구조화할 수 있게 만드는 것이 핵심입니다.
 

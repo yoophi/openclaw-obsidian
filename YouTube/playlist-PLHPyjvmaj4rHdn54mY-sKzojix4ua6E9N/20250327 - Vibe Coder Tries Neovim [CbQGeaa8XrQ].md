@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg
 
 ## 한글 요약
-## 바이브 코더가 Neovim을 써보는 실험
+바이브 코더가 Neovim을 써보는 실험
 
 이 영상은 평소 다른 도구를 쓰던 발표자가 Neovim을 실제로 사용해보며 느낀 점을 공유합니다. 핵심은 Neovim이 단순히 어려운 편집기가 아니라, 익숙해지면 매우 강력한 생산성 도구가 될 수 있다는 점입니다.
 

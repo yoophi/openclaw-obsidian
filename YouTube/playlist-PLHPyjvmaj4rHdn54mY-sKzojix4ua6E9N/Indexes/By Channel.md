@@ -1,5 +1,13 @@
 # By Channel
 
+## Adam Goodyer (2)
+- [[20251210 - BMAD v6 The Future of Coding. [Zo6_d_xdgRY]|BMAD v6 : The Future of Coding.]] — 2025-12-10
+- [[20260226 - I Built an AI Operating System with Claude Code and BMAD v6 [jBB6nrqUcCA]|I Built an AI Operating System with Claude Code and BMAD v6]] — 2026-02-26
+
+## AgentOS (2)
+- [[20260320 - Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다 [sLaMtz7j8cE]|Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다]] — 2026-03-20
+- [[20260323 - Claude Code + GSD — 기획부터 검증까지 자동화하는 법 [oU-BbX0Om4I]|Claude Code + GSD — 기획부터 검증까지 자동화하는 법]] — 2026-03-23
+
 ## AI Jason (1)
 - [[20260305 - wtf is Harness Engineer & why is it important [kJPvfoLtFFY]|wtf is Harness Engineer & why is it important]] — 2026-03-05
 
@@ -11,14 +19,6 @@
 
 ## AICodeKing (1)
 - [[20260305 - Pi Coding Agent RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! [hv0V0GJpC78]|Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER!]] — 2026-03-05
-
-## Adam Goodyer (2)
-- [[20251210 - BMAD v6 The Future of Coding. [Zo6_d_xdgRY]|BMAD v6 : The Future of Coding.]] — 2025-12-10
-- [[20260226 - I Built an AI Operating System with Claude Code and BMAD v6 [jBB6nrqUcCA]|I Built an AI Operating System with Claude Code and BMAD v6]] — 2026-02-26
-
-## AgentOS (2)
-- [[20260320 - Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다 [sLaMtz7j8cE]|Claude Code 스킬, 만든 사람들은 이렇게 쓰고 있었다]] — 2026-03-20
-- [[20260323 - Claude Code + GSD — 기획부터 검증까지 자동화하는 법 [oU-BbX0Om4I]|Claude Code + GSD — 기획부터 검증까지 자동화하는 법]] — 2026-03-23
 
 ## Alex AI (1)
 - [[20260322 - ClaudecodeChannel Agent로 뭘 해야하나요 -클로드코드채널 [IRBb6A-sIPE]|[ClaudecodeChannel]Agent로 뭘 해야하나요?-클로드코드채널]] — 2026-03-22
@@ -37,6 +37,9 @@
 - [[20260307 - T3 Code Better Than Codex [6x7hh6Qzm9U]|T3 Code: Better Than Codex?]] — 2026-03-07
 - [[20260313 - Why Every Claude Code User Needs To Try AgentMail (Not Gmail) [U3TXAdpmvVk]|Why Every Claude Code User Needs To Try AgentMail (Not Gmail)]] — 2026-03-13
 - [[20260318 - The toolkit from Y Combinator CEO that Will Makes Claude Code Amazing [kLq5p43huYQ]|The toolkit from Y Combinator CEO that Will Makes Claude Code Amazing]] — 2026-03-18
+
+## bkamp 비캠프 (1)
+- [[20260311 - Claude Code 대격변, 스킬이 앱이 됐습니다! [YMT26RopJck]|Claude Code 대격변, 스킬이 앱이 됐습니다!]] — 2026-03-11
 
 ## Bog (1)
 - [[20250327 - Vibe Coder Tries Neovim [CbQGeaa8XrQ]|Vibe Coder Tries Neovim]] — 2025-03-27
@@ -95,6 +98,9 @@
 ## JeredBlu (1)
 - [[20260227 - Claude Can Now Do OpenClaw Natively (Remote Control + Tasks) [Sg74Di2Yc88]|Claude Can Now Do 'OpenClaw' Natively (Remote Control + Tasks)]] — 2026-02-27
 
+## jisungs (1)
+- [[20260307 - AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편 [SOWsG2Idgzg]|AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편]] — 2026-03-07
+
 ## Kaya Rezende (1)
 - [[20260303 - how i use Claude Code across multiple projects at the same time [d1T_farOOCE]|how i use Claude Code across multiple projects at the same time]] — 2026-03-03
 
@@ -119,6 +125,9 @@
 ## Owain Lewis (1)
 - [[20260319 - My Multi-Agent Team (Live Demo) [Zhbx-dj0qHE]|My Multi-Agent Team (Live Demo)]] — 2026-03-19
 
+## package main (1)
+- [[20260321 - Agentic pre-commit hook with Opencode Go SDK [3j_Oh525Xrs]|Agentic pre-commit hook with Opencode Go SDK]] — 2026-03-21
+
 ## Prompt Engineering (1)
 - [[20260318 - Anthropic Made Their OpenClaw [1_VlT1vhN04]|Anthropic Made Their OpenClaw]] — 2026-03-18
 
@@ -142,6 +151,9 @@
 - [[20260307 - Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent [R7OCrqyGMeY]|Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent]] — 2026-03-07
 - [[20260321 - Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead. [I2K81s0OQto]|Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.]] — 2026-03-21
 
+## typecraft (1)
+- [[20240308 - Tmux will SKYROCKET your productivity - here’s how [niuOc02Rvrc]|Tmux will SKYROCKET your productivity - here’s how]] — 2024-03-08
+
 ## UI Collective (1)
 - [[20260223 - Design with Claude Code The Designer’s Guide [JMQ0X_si144]|Design with Claude Code: The Designer’s Guide]] — 2026-02-23
 
@@ -150,18 +162,6 @@
 - [[20260306 - Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More! [WtMTUSpl1Fc]|Claude Code Just Got A MASSIVE Upgrade! New Agent Skills, Ultra Think, Voice Mode, & More!]] — 2026-03-06
 - [[20260308 - Superpowers NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial) [7cOAayWzYDY]|Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)]] — 2026-03-08
 - [[20260316 - Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem! [srqWFT_TUec]|Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem!]] — 2026-03-16
-
-## bkamp 비캠프 (1)
-- [[20260311 - Claude Code 대격변, 스킬이 앱이 됐습니다! [YMT26RopJck]|Claude Code 대격변, 스킬이 앱이 됐습니다!]] — 2026-03-11
-
-## jisungs (1)
-- [[20260307 - AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편 [SOWsG2Idgzg]|AI 에이전트 만들어 봤습니다. 살짝 무서운 친구네요. 1편]] — 2026-03-07
-
-## package main (1)
-- [[20260321 - Agentic pre-commit hook with Opencode Go SDK [3j_Oh525Xrs]|Agentic pre-commit hook with Opencode Go SDK]] — 2026-03-21
-
-## typecraft (1)
-- [[20240308 - Tmux will SKYROCKET your productivity - here’s how [niuOc02Rvrc]|Tmux will SKYROCKET your productivity - here’s how]] — 2024-03-08
 
 ## 개발동생 (3)
 - [[20260301 - 쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등) [V3zdDI7G69w]|쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등)]] — 2026-03-01

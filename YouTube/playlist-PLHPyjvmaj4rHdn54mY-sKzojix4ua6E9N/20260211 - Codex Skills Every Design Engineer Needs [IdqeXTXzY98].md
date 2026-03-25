@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/IdqeXTXzY98/maxresdefault.jpg
 
 ## 한글 요약
-## 디자인 엔지니어에게 필요한 Codex Skills
+디자인 엔지니어에게 필요한 Codex Skills
 
 이 영상은 디자인 엔지니어가 Codex를 더 잘 쓰기 위해 어떤 스킬이 필요한지 정리합니다. 핵심은 단순히 코드를 생성하는 것보다, 디자인과 개발 사이의 맥락을 연결해 주는 작업 패턴을 갖추는 것입니다.
 

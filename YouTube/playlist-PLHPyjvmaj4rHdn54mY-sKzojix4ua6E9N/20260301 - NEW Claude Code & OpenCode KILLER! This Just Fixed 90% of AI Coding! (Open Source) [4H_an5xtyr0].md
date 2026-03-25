@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/4H_an5xtyr0/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code & OpenCode 킬러 조합이 AI 코딩 문제의 90%를 해결한다는 주장
+Claude Code & OpenCode 킬러 조합이 AI 코딩 문제의 90%를 해결한다는 주장
 
 이 영상은 새로운 오픈소스 조합이 기존 AI 코딩 도구의 큰 문제를 해결할 수 있다는 관점에서 소개됩니다. 발표자는 더 실용적인 워크플로우와 개선된 사용 경험을 강조합니다.
 

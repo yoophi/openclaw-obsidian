@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Ko7_tC1fMMM/maxresdefault.jpg
 
 ## 한글 요약
-## Using Claude Code remote control
+Using Claude Code remote control
 
 This clip shows how to pick up a Claude Code session from another device: from your project directory run `claude remote control` to start a session and get a URL (press the space bar to show a QR code for phones). If you’re already in a session, typing `/remote control` shows the link; because sessions are tied to your account you can also open the session from the mobile app or web without clicking the provided URL.
 

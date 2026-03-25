@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/d1T_farOOCE/maxresdefault.jpg
 
 ## 한글 요약
-## 여러 프로젝트에서 동시에 Claude Code를 쓰는 방법
+여러 프로젝트에서 동시에 Claude Code를 쓰는 방법
 
 이 영상은 여러 프로젝트를 병렬로 진행할 때 Claude Code를 어떻게 운영하는지 설명합니다. 핵심은 프로젝트별 문맥을 잘 분리하고, 동시에 흐름을 유지하는 전략입니다.
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/4HyNQe6UI_c/maxresdefault.jpg
 
 ## 한글 요약
-## OpenClaw 안에 전체 AI 팀을 만든 사례
+OpenClaw 안에 전체 AI 팀을 만든 사례
 
 이 영상은 OpenClaw 내부에 여러 역할의 AI 팀을 구성해 운영한 사례를 보여줍니다. 핵심은 단일 에이전트가 아니라 팀 구조가 생산성을 더 크게 끌어올린다는 점입니다.
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/kLq5p43huYQ/maxresdefault.jpg
 
 ## 한글 요약
-## GStack: Garry Tan’s Claude Code toolkit and what it actually does
+GStack: Garry Tan’s Claude Code toolkit and what it actually does
 
 *CEO of Y Combinator has built his own toolkit for Claude's code called GStack.* GStack bundles nine specialized workflows (planning, engineering review, QA, ship, browse, etc.), headless browsing via Playwright, Grapile integration, and diff-aware QA so the model can plan, implement, test, create a PR and iterate with minimal human choreography. The demo shows a full feature cycle: the “plan CEO review” skill expanded scope and produced a detailed implementation plan, then review/ship/QA commands synced with main, ran tests, created a pull request automatically, executed targeted QA against the diff, detected multiple 500 errors and a JSON bug, pushed fixes, and produced a final report — all driven by the toolkit’s skills and CI hooks.
 

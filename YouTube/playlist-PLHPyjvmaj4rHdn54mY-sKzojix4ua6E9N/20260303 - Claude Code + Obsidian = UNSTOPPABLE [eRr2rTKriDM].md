@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/eRr2rTKriDM/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code + Obsidian 조합이 강력한 이유
+Claude Code + Obsidian 조합이 강력한 이유
 
 이 영상은 Claude Code와 Obsidian을 함께 사용하면 왜 지식 관리와 실행 흐름이 강해지는지 설명합니다. 핵심은 메모와 AI 실행 보조가 하나의 루프로 연결된다는 점입니다.
 

@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/wVe3XOnio7M/maxresdefault.jpg
 
 ## 한글 요약
-## Pi coding agent — a minimal, highly extensible coding assistant
+Pi coding agent — a minimal, highly extensible coding assistant
 
 The video’s main claim is that the Pi coding agent is intentionally minimal yet powerful: it ships with a very small system prompt and just a few built-in tools — *“it only comes with read, write, edit, and a bash tool.”* That bash tool is the workhorse because a shell lets the agent control the host machine, call CLIs, fetch web data, run scripts and parse JSON, giving it broad capabilities while keeping the agent’s context uncluttered; as the presenter puts it, *“you get an agent that has a context window that's not cluttered up.”*
 

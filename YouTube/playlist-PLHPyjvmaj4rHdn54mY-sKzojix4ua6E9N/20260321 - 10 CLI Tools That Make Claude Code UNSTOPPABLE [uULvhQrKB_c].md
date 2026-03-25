@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/uULvhQrKB_c/maxresdefault.jpg
 
 ## 한글 요약
-## Claude Code를 더 강하게 만드는 CLI 도구 10가지
+Claude Code를 더 강하게 만드는 CLI 도구 10가지
 
 이 영상은 Claude Code와 함께 쓰면 생산성이 크게 오르는 CLI 도구 10가지를 소개합니다. 발표자는 개발자들이 실제 터미널 환경에서 바로 붙여 쓸 수 있는 도구 중심으로 설명합니다.
 

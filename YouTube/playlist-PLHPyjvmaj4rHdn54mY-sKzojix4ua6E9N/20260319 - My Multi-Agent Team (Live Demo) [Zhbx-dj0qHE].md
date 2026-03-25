@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/Zhbx-dj0qHE/maxresdefault.jpg
 
 ## 한글 요약
-## Polling-based multi‑agent worker — quick take
+Polling-based multi‑agent worker — quick take
 
 *In this video, I'm going to be showing you how you can build a team of autonomous AI agents that do work for you in the background.* The creator demos a simple, task‑manager‑driven architecture where a background worker polls a task queue, claims a ticket, creates a git worktree, delegates the implementation to a code‑capable model, runs tests and post‑checks, and opens a pull request for human review. The demo shows one worker completing a small bug fix end‑to‑end and then multiple workers handling separate tickets concurrently, with the worker polling every 60 seconds and reporting output back on the ticket.
 

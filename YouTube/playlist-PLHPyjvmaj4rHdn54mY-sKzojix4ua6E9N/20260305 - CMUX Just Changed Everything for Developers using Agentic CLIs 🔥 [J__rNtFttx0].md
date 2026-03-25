@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/J__rNtFttx0/maxresdefault.jpg
 
 ## 한글 요약
-## CMUX Just Changed Everything for Developers using Agentic CLIs 🔥 요약
+CMUX Just Changed Everything for Developers using Agentic CLIs 🔥 요약
 
 이 영상은 CMUX Just Changed Everything for Developers using Agentic CLIs 🔥를 중심으로, AI 코딩/에이전트/생산성 흐름에서 어떤 변화나 활용법이 중요한지 설명합니다. 핵심은 도구 자체보다 실제 워크플로우 안에서 어떻게 활용하느냐에 있습니다.
 

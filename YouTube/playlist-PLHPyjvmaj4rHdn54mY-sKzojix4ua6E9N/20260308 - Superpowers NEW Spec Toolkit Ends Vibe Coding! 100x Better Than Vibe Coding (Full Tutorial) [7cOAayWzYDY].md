@@ -24,7 +24,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/7cOAayWzYDY/maxresdefault.jpg
 
 ## 한글 요약
-## Superpowers: a full autonomous development workflow for coding agents
+Superpowers: a full autonomous development workflow for coding agents
 
 This video shows Superpowers, a fast‑trending GitHub project (over 74K stars in two months) that goes beyond spec-first tools by running the entire engineering workflow for AI coding agents. Superpowers is built from composable skills and starter instructions that let an agent brainstorm designs, generate detailed specs, propose multiple implementation approaches with trade-offs, break work into subagents, and execute commands while you approve them (Cloud Code, CodeX and CLI integrations demonstrated). The presenter walks through installing Superpowers into Cloud Code’s marketplace, triggering clarifying questions, choosing between approaches (example: single HTML file with inline shaders vs other trade-offs), and producing an executable implementation plan that the agent follows.
 

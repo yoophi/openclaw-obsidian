@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/aRz6OAxl9ss/maxresdefault.jpg
 
 ## 한글 요약
-## Paperclip AI — quick take
+Paperclip AI — quick take
 
 This video argues Paperclip AI is a practical orchestration layer for running many specialized agents (the presenter says he runs 50+ daily), solving the scaling, scheduling, and dependency headaches that come from using multiple CLIs or other orchestration tools. Key capabilities shown: a UI that maps folder-based “skills” into agents, automated agent creation from those skills, recurring jobs and a built‑in heartbeat to avoid session/token gaps, visibility into runs and budgets, and goal/issue workflows so agents pick work from a backlog. The presenter frames Paperclip as a flexible layer — usable from UI or CLI — that treats local files as the canonical data source rather than locking you into the platform.
 

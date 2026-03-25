@@ -22,7 +22,7 @@ tags:
 - 썸네일: https://i.ytimg.com/vi/P3onJNQhS60/maxresdefault.jpg
 
 ## 한글 요약
-## 최고의 AI 코딩 CLI 비교
+최고의 AI 코딩 CLI 비교
 
 이 영상은 Claude Code, Codex, OpenCode 대안 등 여러 AI 코딩 CLI 도구를 비교합니다. 핵심은 터미널 기반 개발 흐름에서 어떤 도구가 가장 매끄럽고 실용적인지 살펴보는 것입니다.
 
