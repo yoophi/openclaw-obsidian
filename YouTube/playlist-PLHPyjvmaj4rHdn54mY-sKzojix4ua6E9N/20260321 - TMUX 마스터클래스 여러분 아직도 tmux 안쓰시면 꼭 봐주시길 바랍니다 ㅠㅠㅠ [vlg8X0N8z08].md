@@ -19,7 +19,7 @@ tags:
 - 채널: 개발동생
 - 게시일: 2026-03-21T04:59:19-07:00
 - 원본 URL: https://www.youtube.com/watch?v=vlg8X0N8z08
-![thumbnail](https://i.ytimg.com/vi/vlg8X0N8z08/maxresdefault.jpg)
+![TMUX 마스터클래스 | 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ](https://i.ytimg.com/vi/vlg8X0N8z08/maxresdefault.jpg)
 
 ## 한글 요약
 tmux(티웍스) 마스터클래스 — 요약 판단용

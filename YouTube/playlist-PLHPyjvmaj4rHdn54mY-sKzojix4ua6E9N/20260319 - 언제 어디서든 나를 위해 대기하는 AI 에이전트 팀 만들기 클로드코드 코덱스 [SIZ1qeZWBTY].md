@@ -19,7 +19,7 @@ tags:
 - 채널: 코드깎는노인
 - 게시일: 2026-03-19T18:01:07-07:00
 - 원본 URL: https://www.youtube.com/watch?v=SIZ1qeZWBTY
-![thumbnail](https://i.ytimg.com/vi/SIZ1qeZWBTY/maxresdefault.jpg)
+![언제 어디서든 나를 위해 대기하는 AI 에이전트 팀 만들기 | 클로드코드 코덱스](https://i.ytimg.com/vi/SIZ1qeZWBTY/maxresdefault.jpg)
 
 ## 한글 요약
 요약

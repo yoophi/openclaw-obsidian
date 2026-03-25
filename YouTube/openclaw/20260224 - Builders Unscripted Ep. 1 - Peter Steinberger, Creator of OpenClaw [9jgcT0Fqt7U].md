@@ -20,7 +20,7 @@ tags:
 - 채널: OpenAI
 - 게시일: 2026-02-24T09:03:32-08:00
 - 원본 URL: https://www.youtube.com/watch?v=9jgcT0Fqt7U
-![thumbnail](https://i.ytimg.com/vi/9jgcT0Fqt7U/maxresdefault.jpg)
+![Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw](https://i.ytimg.com/vi/9jgcT0Fqt7U/maxresdefault.jpg)
 
 ## 한글 요약
 ## Builders Unscripted: OpenClaw 창시자 인터뷰

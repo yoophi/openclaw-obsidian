@@ -21,7 +21,7 @@ tags:
 - 채널: Openclaw Labs
 - 게시일: 2026-03-22T15:30:01-07:00
 - 원본 URL: https://www.youtube.com/watch?v=4QH0vHr-vFU
-![thumbnail](https://i.ytimg.com/vi/4QH0vHr-vFU/maxresdefault.jpg)
+![OpenClaw Memory Deep Dive: QMD vs Core](https://i.ytimg.com/vi/4QH0vHr-vFU/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 메모리: Core vs QMD 핵심 정리

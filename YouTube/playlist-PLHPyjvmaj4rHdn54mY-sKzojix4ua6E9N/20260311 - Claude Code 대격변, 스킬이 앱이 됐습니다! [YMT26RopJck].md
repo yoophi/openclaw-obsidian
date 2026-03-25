@@ -19,7 +19,7 @@ tags:
 - 채널: bkamp 비캠프
 - 게시일: 2026-03-11T04:55:46-07:00
 - 원본 URL: https://www.youtube.com/watch?v=YMT26RopJck
-![thumbnail](https://i.ytimg.com/vi/YMT26RopJck/maxresdefault.jpg)
+![Claude Code 대격변, 스킬이 앱이 됐습니다!](https://i.ytimg.com/vi/YMT26RopJck/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code 스킬 2.0 요약

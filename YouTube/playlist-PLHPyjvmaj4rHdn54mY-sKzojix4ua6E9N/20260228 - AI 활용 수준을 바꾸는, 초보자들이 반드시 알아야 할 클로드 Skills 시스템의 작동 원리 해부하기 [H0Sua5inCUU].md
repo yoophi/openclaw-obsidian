@@ -20,7 +20,7 @@ tags:
 - 채널: 샘 호트만 : AI 엔지니어의 시선
 - 게시일: 2026-02-28T00:11:23-08:00
 - 원본 URL: https://www.youtube.com/watch?v=H0Sua5inCUU
-![thumbnail](https://i.ytimg.com/vi/H0Sua5inCUU/maxresdefault.jpg)
+![AI 활용 수준을 바꾸는, 초보자들이 반드시 알아야 할 클로드 Skills 시스템의 작동 원리 해부하기](https://i.ytimg.com/vi/H0Sua5inCUU/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약

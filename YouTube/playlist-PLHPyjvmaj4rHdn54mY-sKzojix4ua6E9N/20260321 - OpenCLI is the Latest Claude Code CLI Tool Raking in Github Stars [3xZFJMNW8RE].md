@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-21T02:30:04-07:00
 - 원본 URL: https://www.youtube.com/watch?v=3xZFJMNW8RE
-![thumbnail](https://i.ytimg.com/vi/3xZFJMNW8RE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgSChNMA8=&rs=AOn4CLAWv7HT1ofyF19dx-_X8VvcQsDQ5w)
+![OpenCLI is the Latest Claude Code CLI Tool Raking in Github Stars](https://i.ytimg.com/vi/3xZFJMNW8RE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgSChNMA8=&rs=AOn4CLAWv7HT1ofyF19dx-_X8VvcQsDQ5w)
 
 ## 한글 요약
 OpenCLI는 최신 Claude Code 계열 CLI 도구인가

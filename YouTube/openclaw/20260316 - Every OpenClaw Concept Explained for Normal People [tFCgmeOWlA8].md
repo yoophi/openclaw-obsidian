@@ -20,7 +20,7 @@ tags:
 - 채널: Jay E | RoboNuggets
 - 게시일: 2026-03-16T20:50:41-07:00
 - 원본 URL: https://www.youtube.com/watch?v=tFCgmeOWlA8
-![thumbnail](https://i.ytimg.com/vi/tFCgmeOWlA8/maxresdefault.jpg)
+![Every OpenClaw Concept Explained for Normal People](https://i.ytimg.com/vi/tFCgmeOWlA8/maxresdefault.jpg)
 
 ## 한글 요약
 ## 일반인도 이해할 수 있게 풀어쓴 OpenClaw 개념 설명

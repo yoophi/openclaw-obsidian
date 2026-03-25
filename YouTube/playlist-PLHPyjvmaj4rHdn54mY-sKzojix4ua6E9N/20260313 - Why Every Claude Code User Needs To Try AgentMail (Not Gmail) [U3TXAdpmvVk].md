@@ -19,7 +19,7 @@ tags:
 - 채널: Better Stack
 - 게시일: 2026-03-13T10:15:01-07:00
 - 원본 URL: https://www.youtube.com/watch?v=U3TXAdpmvVk
-![thumbnail](https://i.ytimg.com/vi/U3TXAdpmvVk/maxresdefault.jpg)
+![Why Every Claude Code User Needs To Try AgentMail (Not Gmail)](https://i.ytimg.com/vi/U3TXAdpmvVk/maxresdefault.jpg)
 
 ## 한글 요약
 AgentMail: an email inbox built for AI agents

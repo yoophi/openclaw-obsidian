@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-03T18:00:24-08:00
 - 원본 URL: https://www.youtube.com/watch?v=eRr2rTKriDM
-![thumbnail](https://i.ytimg.com/vi/eRr2rTKriDM/maxresdefault.jpg)
+![Claude Code + Obsidian = UNSTOPPABLE](https://i.ytimg.com/vi/eRr2rTKriDM/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code + Obsidian 조합이 강력한 이유

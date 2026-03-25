@@ -20,7 +20,7 @@ tags:
 - 채널: Julian Goldie SEO
 - 게시일: 2026-03-03T17:00:35-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Qbw40hXdImc
-![thumbnail](https://i.ytimg.com/vi/Qbw40hXdImc/maxresdefault.jpg)
+![ClawX: New FREE Desktop App for OpenClaw AI Agents!](https://i.ytimg.com/vi/Qbw40hXdImc/maxresdefault.jpg)
 
 ## 한글 요약
 ## ClawX: OpenClaw용 무료 데스크톱 앱 소개

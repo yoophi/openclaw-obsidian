@@ -19,7 +19,7 @@ tags:
 - 채널: 메이커 에반 | Maker Evan
 - 게시일: 2026-02-26T00:45:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=2WJzwwvzbBQ
-![thumbnail](https://i.ytimg.com/vi/2WJzwwvzbBQ/maxresdefault.jpg)
+![클로드코드 직접 만든 사람이 공개한 사용법, 저도 충격받았습니다](https://i.ytimg.com/vi/2WJzwwvzbBQ/maxresdefault.jpg)
 
 ## 한글 요약
 요약

@@ -19,7 +19,7 @@ tags:
 - 채널: Lukas Margerie
 - 게시일: 2026-02-11T21:21:59-08:00
 - 원본 URL: https://www.youtube.com/watch?v=IdqeXTXzY98
-![thumbnail](https://i.ytimg.com/vi/IdqeXTXzY98/maxresdefault.jpg)
+![Codex Skills Every Design Engineer Needs](https://i.ytimg.com/vi/IdqeXTXzY98/maxresdefault.jpg)
 
 ## 한글 요약
 디자인 엔지니어에게 필요한 Codex Skills

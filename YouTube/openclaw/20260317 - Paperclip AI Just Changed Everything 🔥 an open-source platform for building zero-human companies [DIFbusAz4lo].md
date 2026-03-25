@@ -20,7 +20,7 @@ tags:
 - 채널: Fru Dev
 - 게시일: 2026-03-17T03:28:47-07:00
 - 원본 URL: https://www.youtube.com/watch?v=DIFbusAz4lo
-![thumbnail](https://i.ytimg.com/vi/DIFbusAz4lo/maxresdefault.jpg)
+![Paperclip AI Just Changed Everything 🔥 an open-source platform for building zero-human companies](https://i.ytimg.com/vi/DIFbusAz4lo/maxresdefault.jpg)
 
 ## 한글 요약
 ## Paperclip: ‘제로 휴먼 회사’를 지향하는 오픈소스 에이전트 오케스트레이션

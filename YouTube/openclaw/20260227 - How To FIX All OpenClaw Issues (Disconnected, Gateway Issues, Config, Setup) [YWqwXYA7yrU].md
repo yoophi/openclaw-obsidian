@@ -21,7 +21,7 @@ tags:
 - 채널: Kevin Jeppesen - The Operator Vault
 - 게시일: 2026-02-27T18:25:51-08:00
 - 원본 URL: https://www.youtube.com/watch?v=YWqwXYA7yrU
-![thumbnail](https://i.ytimg.com/vi/YWqwXYA7yrU/maxresdefault.jpg)
+![How To FIX All OpenClaw Issues (Disconnected, Gateway Issues, Config, Setup)](https://i.ytimg.com/vi/YWqwXYA7yrU/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 문제를 전반적으로 고치는 가이드

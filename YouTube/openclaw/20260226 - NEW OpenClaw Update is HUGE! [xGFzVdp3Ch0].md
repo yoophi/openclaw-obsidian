@@ -20,7 +20,7 @@ tags:
 - 채널: BoxminingAI
 - 게시일: 2026-02-26T19:29:56-08:00
 - 원본 URL: https://www.youtube.com/watch?v=xGFzVdp3Ch0
-![thumbnail](https://i.ytimg.com/vi/xGFzVdp3Ch0/maxresdefault.jpg)
+![NEW OpenClaw Update is HUGE!](https://i.ytimg.com/vi/xGFzVdp3Ch0/maxresdefault.jpg)
 
 ## 한글 요약
 ## 새로운 OpenClaw 업데이트가 왜 큰 변화인지

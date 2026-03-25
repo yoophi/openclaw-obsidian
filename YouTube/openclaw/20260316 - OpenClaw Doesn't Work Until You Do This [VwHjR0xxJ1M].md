@@ -20,7 +20,7 @@ tags:
 - 채널: Openclaw Labs
 - 게시일: 2026-03-16T12:00:30-07:00
 - 원본 URL: https://www.youtube.com/watch?v=VwHjR0xxJ1M
-![thumbnail](https://i.ytimg.com/vi/VwHjR0xxJ1M/maxresdefault.jpg)
+![OpenClaw Doesn't Work Until You Do This](https://i.ytimg.com/vi/VwHjR0xxJ1M/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw가 제대로 작동하려면 먼저 해야 하는 것

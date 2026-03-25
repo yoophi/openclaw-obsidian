@@ -20,7 +20,7 @@ tags:
 - 채널: 개발동생
 - 게시일: 2026-03-01T21:10:30-08:00
 - 원본 URL: https://www.youtube.com/watch?v=V3zdDI7G69w
-![thumbnail](https://i.ytimg.com/vi/V3zdDI7G69w/maxresdefault.jpg)
+![쏟아지는 클로드코드 업데이트, 이건 결국 쓰게됩니다 (Ralph Loop, Remote Control, Auto-memory 등)](https://i.ytimg.com/vi/V3zdDI7G69w/maxresdefault.jpg)
 
 ## 한글 요약
 요약

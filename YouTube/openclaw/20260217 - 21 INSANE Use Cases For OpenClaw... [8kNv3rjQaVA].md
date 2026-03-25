@@ -20,7 +20,7 @@ tags:
 - 채널: Matthew Berman
 - 게시일: 2026-02-17T10:39:11-08:00
 - 원본 URL: https://www.youtube.com/watch?v=8kNv3rjQaVA
-![thumbnail](https://i.ytimg.com/vi/8kNv3rjQaVA/maxresdefault.jpg)
+![21 INSANE Use Cases For OpenClaw...](https://i.ytimg.com/vi/8kNv3rjQaVA/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw의 강력한 활용 사례 21가지

@@ -19,7 +19,7 @@ tags:
 - 채널: 대모산 개발단
 - 게시일: 2026-03-14T06:11:51-07:00
 - 원본 URL: https://www.youtube.com/watch?v=nk2GvpoMxIs
-![thumbnail](https://i.ytimg.com/vi/nk2GvpoMxIs/maxresdefault.jpg)
+![AI 네이티브 회사 만드는 구체적인 방법 그냥 다 공개합니다](https://i.ytimg.com/vi/nk2GvpoMxIs/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약

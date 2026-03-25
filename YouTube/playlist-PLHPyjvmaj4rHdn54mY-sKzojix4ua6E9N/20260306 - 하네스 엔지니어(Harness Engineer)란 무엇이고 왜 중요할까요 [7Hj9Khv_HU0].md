@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-06T14:00:15-08:00
 - 원본 URL: https://www.youtube.com/watch?v=7Hj9Khv_HU0
-![thumbnail](https://i.ytimg.com/vi/7Hj9Khv_HU0/maxresdefault.jpg)
+![하네스 엔지니어(Harness Engineer)란 무엇이고 왜 중요할까요?](https://i.ytimg.com/vi/7Hj9Khv_HU0/maxresdefault.jpg)
 
 ## 한글 요약
 하네스 엔지니어(Harness Engineer)란 무엇이고 왜 중요할까 — 요약

@@ -21,7 +21,7 @@ tags:
 - 채널: BoxminingAI
 - 게시일: 2026-02-25T20:32:02-08:00
 - 원본 URL: https://www.youtube.com/watch?v=obET69yycFc
-![thumbnail](https://i.ytimg.com/vi/obET69yycFc/maxresdefault.jpg)
+![Openclaw SKILLS Setup Guide](https://i.ytimg.com/vi/obET69yycFc/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 스킬 설정 가이드

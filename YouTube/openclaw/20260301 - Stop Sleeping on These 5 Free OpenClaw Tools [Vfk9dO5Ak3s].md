@@ -20,7 +20,7 @@ tags:
 - 채널: Zach Babiarz
 - 게시일: 2026-03-01T09:33:18-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Vfk9dO5Ak3s
-![thumbnail](https://i.ytimg.com/vi/Vfk9dO5Ak3s/maxresdefault.jpg)
+![Stop Sleeping on These 5 Free OpenClaw Tools](https://i.ytimg.com/vi/Vfk9dO5Ak3s/maxresdefault.jpg)
 
 ## 한글 요약
 ## 사람들이 놓치고 있는 무료 OpenClaw 도구 5가지

@@ -19,7 +19,7 @@ tags:
 - 채널: Kaya Rezende
 - 게시일: 2026-03-03T21:32:28-08:00
 - 원본 URL: https://www.youtube.com/watch?v=d1T_farOOCE
-![thumbnail](https://i.ytimg.com/vi/d1T_farOOCE/maxresdefault.jpg)
+![how i use Claude Code across multiple projects at the same time](https://i.ytimg.com/vi/d1T_farOOCE/maxresdefault.jpg)
 
 ## 한글 요약
 여러 프로젝트에서 동시에 Claude Code를 쓰는 방법

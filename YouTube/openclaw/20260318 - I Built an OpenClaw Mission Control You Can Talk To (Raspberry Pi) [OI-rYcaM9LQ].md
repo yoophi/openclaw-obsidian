@@ -20,7 +20,7 @@ tags:
 - 채널: Mayukh Builds
 - 게시일: 2026-03-18T11:53:29-07:00
 - 원본 URL: https://www.youtube.com/watch?v=OI-rYcaM9LQ
-![thumbnail](https://i.ytimg.com/vi/OI-rYcaM9LQ/maxresdefault.jpg)
+![I Built an OpenClaw Mission Control You Can Talk To (Raspberry Pi)](https://i.ytimg.com/vi/OI-rYcaM9LQ/maxresdefault.jpg)
 
 ## 한글 요약
 ## 라즈베리 파이 기반 대화형 OpenClaw 미션 컨트롤

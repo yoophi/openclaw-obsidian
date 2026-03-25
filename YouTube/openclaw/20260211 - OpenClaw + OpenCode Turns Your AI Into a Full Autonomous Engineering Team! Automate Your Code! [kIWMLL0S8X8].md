@@ -20,7 +20,7 @@ tags:
 - 채널: WorldofAI
 - 게시일: 2026-02-11T21:12:42-08:00
 - 원본 URL: https://www.youtube.com/watch?v=kIWMLL0S8X8
-![thumbnail](https://i.ytimg.com/vi/kIWMLL0S8X8/maxresdefault.jpg)
+![OpenClaw + OpenCode Turns Your AI Into a Full Autonomous Engineering Team! Automate Your Code!](https://i.ytimg.com/vi/kIWMLL0S8X8/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw + OpenCode로 자율 엔지니어링 팀 만들기

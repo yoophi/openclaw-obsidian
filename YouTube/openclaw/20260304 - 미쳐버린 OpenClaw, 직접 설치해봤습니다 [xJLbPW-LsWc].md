@@ -20,7 +20,7 @@ tags:
 - 채널: 대모산 개발단
 - 게시일: 2026-03-04T02:30:38-08:00
 - 원본 URL: https://www.youtube.com/watch?v=xJLbPW-LsWc
-![thumbnail](https://i.ytimg.com/vi/xJLbPW-LsWc/maxresdefault.jpg)
+![미쳐버린 OpenClaw, 직접 설치해봤습니다](https://i.ytimg.com/vi/xJLbPW-LsWc/maxresdefault.jpg)
 
 ## 한글 요약
 ## 요약

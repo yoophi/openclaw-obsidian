@@ -20,7 +20,7 @@ tags:
 - 채널: Jay E | RoboNuggets
 - 게시일: 2026-03-17T23:19:49-07:00
 - 원본 URL: https://www.youtube.com/watch?v=LfvKkrVSO-U
-![thumbnail](https://i.ytimg.com/vi/LfvKkrVSO-U/maxresdefault.jpg)
+![Does NemoClaw Replace OpenClaw? (Full Comparison)](https://i.ytimg.com/vi/LfvKkrVSO-U/maxresdefault.jpg)
 
 ## 한글 요약
 ## NemoClaw가 OpenClaw를 대체할 수 있을까

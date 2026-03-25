@@ -20,7 +20,7 @@ tags:
 - 채널: KTG Analysis
 - 게시일: 2026-03-16T04:30:48-07:00
 - 원본 URL: https://www.youtube.com/watch?v=o7EhI5PDlx0
-![thumbnail](https://i.ytimg.com/vi/o7EhI5PDlx0/maxresdefault.jpg)
+![6 Open Source AI Agents — Which One Should You Use?](https://i.ytimg.com/vi/o7EhI5PDlx0/maxresdefault.jpg)
 
 ## 한글 요약
 ## 6가지 오픈소스 AI 에이전트 비교

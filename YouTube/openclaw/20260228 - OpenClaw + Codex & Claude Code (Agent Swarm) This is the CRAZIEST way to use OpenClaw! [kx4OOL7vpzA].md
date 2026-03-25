@@ -20,7 +20,7 @@ tags:
 - 채널: AICodeKing
 - 게시일: 2026-02-28T01:15:09-08:00
 - 원본 URL: https://www.youtube.com/watch?v=kx4OOL7vpzA
-![thumbnail](https://i.ytimg.com/vi/kx4OOL7vpzA/maxresdefault.jpg)
+![OpenClaw + Codex & Claude Code (Agent Swarm): This is the CRAZIEST way to use OpenClaw!](https://i.ytimg.com/vi/kx4OOL7vpzA/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw + Codex + Claude Code: 가장 과격한 활용 방식 중 하나

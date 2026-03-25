@@ -19,7 +19,7 @@ tags:
 - 채널: Better Stack
 - 게시일: 2026-03-04T02:15:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=8oLP8oxqtOE
-![thumbnail](https://i.ytimg.com/vi/8oLP8oxqtOE/maxresdefault.jpg)
+![Claude Code + CMUX: The Ultimate AI Coding Terminal](https://i.ytimg.com/vi/8oLP8oxqtOE/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code + CMUX: The Ultimate AI Coding Terminal 요약

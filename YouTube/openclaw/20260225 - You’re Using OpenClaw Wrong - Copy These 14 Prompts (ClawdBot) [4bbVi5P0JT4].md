@@ -20,7 +20,7 @@ tags:
 - 채널: Jordan Rafealov
 - 게시일: 2026-02-25T01:43:40-08:00
 - 원본 URL: https://www.youtube.com/watch?v=4bbVi5P0JT4
-![thumbnail](https://i.ytimg.com/vi/4bbVi5P0JT4/maxresdefault.jpg)
+![You’re Using OpenClaw Wrong - Copy These 14 Prompts (ClawdBot)](https://i.ytimg.com/vi/4bbVi5P0JT4/maxresdefault.jpg)
 
 ## 한글 요약
 ## 사람들이 OpenClaw를 잘못 쓰는 방식과 더 나은 프롬프트들

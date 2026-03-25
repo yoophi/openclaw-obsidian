@@ -19,7 +19,7 @@ tags:
 - 채널: Claudical
 - 게시일: 2026-03-19T04:25:18-07:00
 - 원본 URL: https://www.youtube.com/watch?v=7Y0hjb1gOUQ
-![thumbnail](https://i.ytimg.com/vi/7Y0hjb1gOUQ/maxresdefault.jpg)
+![Claude Dispatch 완전 정리 -- 폰에서 컴퓨터 Claude한테 일 시키기](https://i.ytimg.com/vi/7Y0hjb1gOUQ/maxresdefault.jpg)
 
 ## 한글 요약
 요약

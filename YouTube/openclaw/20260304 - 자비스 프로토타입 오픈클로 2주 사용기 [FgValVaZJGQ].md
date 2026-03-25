@@ -20,7 +20,7 @@ tags:
 - 채널: 눈쟁이
 - 게시일: 2026-03-04T03:30:05-08:00
 - 원본 URL: https://www.youtube.com/watch?v=FgValVaZJGQ
-![thumbnail](https://i.ytimg.com/vi/FgValVaZJGQ/maxresdefault.jpg)
+![자비스 프로토타입 오픈클로 2주 사용기](https://i.ytimg.com/vi/FgValVaZJGQ/maxresdefault.jpg)
 
 ## 한글 요약
 ## 자비스 프로토타입 오픈클로 2주 사용기 요약

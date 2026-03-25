@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-07T22:30:17-08:00
 - 원본 URL: https://www.youtube.com/watch?v=LsHgkoxLpMU
-![thumbnail](https://i.ytimg.com/vi/LsHgkoxLpMU/maxresdefault.jpg)
+![Claude Code의 '/loop' 기능은 게임 체인저입니다](https://i.ytimg.com/vi/LsHgkoxLpMU/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code의 루프(Loop) 기능 요약

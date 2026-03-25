@@ -20,7 +20,7 @@ tags:
 - 채널: 편집자P
 - 게시일: 2026-03-20T04:55:42-07:00
 - 원본 URL: https://www.youtube.com/watch?v=-1CpLRxEWrM
-![thumbnail](https://i.ytimg.com/vi/-1CpLRxEWrM/maxresdefault.jpg)
+![클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE)](https://i.ytimg.com/vi/-1CpLRxEWrM/maxresdefault.jpg)
 
 ## 한글 요약
 ## 클로드 코드 + 텔레그램 설치·활용 요약

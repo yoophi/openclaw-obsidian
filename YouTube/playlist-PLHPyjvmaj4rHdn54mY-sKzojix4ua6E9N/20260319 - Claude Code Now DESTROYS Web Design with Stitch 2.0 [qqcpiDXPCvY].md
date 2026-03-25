@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-19T19:00:28-07:00
 - 원본 URL: https://www.youtube.com/watch?v=qqcpiDXPCvY
-![thumbnail](https://i.ytimg.com/vi/qqcpiDXPCvY/maxresdefault.jpg)
+![Claude Code Now DESTROYS Web Design with Stitch 2.0](https://i.ytimg.com/vi/qqcpiDXPCvY/maxresdefault.jpg)
 
 ## 한글 요약
 Summary

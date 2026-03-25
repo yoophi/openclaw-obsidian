@@ -19,7 +19,7 @@ tags:
 - 채널: Jacob Klug
 - 게시일: 2026-03-02T16:59:58-08:00
 - 원본 URL: https://www.youtube.com/watch?v=4HyNQe6UI_c
-![thumbnail](https://i.ytimg.com/vi/4HyNQe6UI_c/maxresdefault.jpg)
+![I Built a Full AI Team Inside OpenClaw for $400/Month](https://i.ytimg.com/vi/4HyNQe6UI_c/maxresdefault.jpg)
 
 ## 한글 요약
 OpenClaw 안에 전체 AI 팀을 만든 사례

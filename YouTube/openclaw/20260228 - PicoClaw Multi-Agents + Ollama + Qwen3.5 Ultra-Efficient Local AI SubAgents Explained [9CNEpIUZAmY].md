@@ -20,7 +20,7 @@ tags:
 - 채널: Devs Kingdom
 - 게시일: 2026-02-28T08:51:09-08:00
 - 원본 URL: https://www.youtube.com/watch?v=9CNEpIUZAmY
-![thumbnail](https://i.ytimg.com/vi/9CNEpIUZAmY/maxresdefault.jpg)
+![PicoClaw Multi-Agents + Ollama + Qwen3.5: Ultra-Efficient Local AI SubAgents Explained](https://i.ytimg.com/vi/9CNEpIUZAmY/maxresdefault.jpg)
 
 ## 한글 요약
 ## PicoClaw 멀티 에이전트 + Ollama + Qwen3.5 설명

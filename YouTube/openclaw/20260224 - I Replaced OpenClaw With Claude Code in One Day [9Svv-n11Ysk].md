@@ -20,7 +20,7 @@ tags:
 - 채널: Mark Kashef
 - 게시일: 2026-02-24T11:30:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=9Svv-n11Ysk
-![thumbnail](https://i.ytimg.com/vi/9Svv-n11Ysk/maxresdefault.jpg)
+![I Replaced OpenClaw With Claude Code in One Day](https://i.ytimg.com/vi/9Svv-n11Ysk/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw를 Claude Code로 하루 만에 교체한 이유

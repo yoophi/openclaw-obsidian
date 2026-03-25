@@ -20,7 +20,7 @@ tags:
 - 채널: Larue
 - 게시일: 2026-02-23T09:15:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=0soFIReWb1w
-![thumbnail](https://i.ytimg.com/vi/0soFIReWb1w/maxresdefault.jpg)
+![How to Make OpenClaw 10x More Powerful](https://i.ytimg.com/vi/0soFIReWb1w/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw를 10배 더 강하게 만드는 방법

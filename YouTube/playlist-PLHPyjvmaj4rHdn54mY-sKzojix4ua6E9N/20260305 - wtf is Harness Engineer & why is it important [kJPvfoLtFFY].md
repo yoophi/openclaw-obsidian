@@ -19,7 +19,7 @@ tags:
 - 채널: AI Jason
 - 게시일: 2026-03-05T02:17:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=kJPvfoLtFFY
-![thumbnail](https://i.ytimg.com/vi/kJPvfoLtFFY/maxresdefault.jpg)
+![wtf is Harness Engineer & why is it important](https://i.ytimg.com/vi/kJPvfoLtFFY/maxresdefault.jpg)
 
 ## 한글 요약
 wtf is Harness Engineer & why is it important 요약

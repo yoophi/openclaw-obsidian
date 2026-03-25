@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-21T16:22:21-07:00
 - 원본 URL: https://www.youtube.com/watch?v=uULvhQrKB_c
-![thumbnail](https://i.ytimg.com/vi/uULvhQrKB_c/maxresdefault.jpg)
+![10 CLI Tools That Make Claude Code UNSTOPPABLE](https://i.ytimg.com/vi/uULvhQrKB_c/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code를 더 강하게 만드는 CLI 도구 10가지

@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-05T14:00:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=-NkxSGtes7k
-![thumbnail](https://i.ytimg.com/vi/-NkxSGtes7k/maxresdefault.jpg)
+![Anthropic이 Claude Code Skills 2.0을 출시했습니다](https://i.ytimg.com/vi/-NkxSGtes7k/maxresdefault.jpg)
 
 ## 한글 요약
 요약

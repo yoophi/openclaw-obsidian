@@ -20,7 +20,7 @@ tags:
 - 채널: Openclaw Labs
 - 게시일: 2026-03-04T09:01:05-08:00
 - 원본 URL: https://www.youtube.com/watch?v=esuPIJeRotI
-![thumbnail](https://i.ytimg.com/vi/esuPIJeRotI/maxresdefault.jpg)
+![This Openclaw Trick Makes Single Agents Obsolete](https://i.ytimg.com/vi/esuPIJeRotI/maxresdefault.jpg)
 
 ## 한글 요약
 ## 단일 에이전트를 낡은 방식으로 만드는 OpenClaw 트릭

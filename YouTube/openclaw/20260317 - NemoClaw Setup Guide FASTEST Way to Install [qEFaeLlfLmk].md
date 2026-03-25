@@ -20,7 +20,7 @@ tags:
 - 채널: BoxminingAI
 - 게시일: 2026-03-17T01:15:36-07:00
 - 원본 URL: https://www.youtube.com/watch?v=qEFaeLlfLmk
-![thumbnail](https://i.ytimg.com/vi/qEFaeLlfLmk/maxresdefault.jpg)
+![NemoClaw Setup Guide: FASTEST Way to Install](https://i.ytimg.com/vi/qEFaeLlfLmk/maxresdefault.jpg)
 
 ## 한글 요약
 ## NemoClaw 가장 빠른 설치 가이드

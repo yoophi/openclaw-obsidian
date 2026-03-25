@@ -19,7 +19,7 @@ tags:
 - 채널: WorldofAI
 - 게시일: 2026-03-01T23:13:01-08:00
 - 원본 URL: https://www.youtube.com/watch?v=4H_an5xtyr0
-![thumbnail](https://i.ytimg.com/vi/4H_an5xtyr0/maxresdefault.jpg)
+![NEW Claude Code & OpenCode KILLER! This Just Fixed 90% of AI Coding! (Open Source)](https://i.ytimg.com/vi/4H_an5xtyr0/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code & OpenCode 킬러 조합이 AI 코딩 문제의 90%를 해결한다는 주장

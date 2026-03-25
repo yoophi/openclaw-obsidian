@@ -19,7 +19,7 @@ tags:
 - 채널: 에피코딩
 - 게시일: 2026-02-28T03:44:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=CUeR7DBOEAg
-![thumbnail](https://i.ytimg.com/vi/CUeR7DBOEAg/maxresdefault.jpg)
+![AI 7개 무호흡으로 돌려서 방치형 디아블로 만들었습니다](https://i.ytimg.com/vi/CUeR7DBOEAg/maxresdefault.jpg)
 
 ## 한글 요약
 병렬 AI 7개로 만든 방치형 디아블로 개발 실황 요약

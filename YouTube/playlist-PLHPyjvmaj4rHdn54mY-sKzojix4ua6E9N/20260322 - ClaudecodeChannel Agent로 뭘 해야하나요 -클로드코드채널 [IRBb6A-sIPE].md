@@ -19,7 +19,7 @@ tags:
 - 채널: Alex AI
 - 게시일: 2026-03-22T01:02:29-07:00
 - 원본 URL: https://www.youtube.com/watch?v=IRBb6A-sIPE
-![thumbnail](https://i.ytimg.com/vi/IRBb6A-sIPE/maxresdefault.jpg)
+![\[ClaudecodeChannel\]Agent로 뭘 해야하나요?-클로드코드채널](https://i.ytimg.com/vi/IRBb6A-sIPE/maxresdefault.jpg)
 
 ## 한글 요약
 Agent로 뭘 해야하나요? — 요약

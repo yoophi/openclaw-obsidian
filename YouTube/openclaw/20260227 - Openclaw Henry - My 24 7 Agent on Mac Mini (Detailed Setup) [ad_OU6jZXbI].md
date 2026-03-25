@@ -20,7 +20,7 @@ tags:
 - 채널: Vibe with AI
 - 게시일: 2026-02-27T04:04:10-08:00
 - 원본 URL: https://www.youtube.com/watch?v=ad_OU6jZXbI
-![thumbnail](https://i.ytimg.com/vi/ad_OU6jZXbI/maxresdefault.jpg)
+![Openclaw Henry - My 24/7 Agent on Mac Mini (Detailed Setup)](https://i.ytimg.com/vi/ad_OU6jZXbI/maxresdefault.jpg)
 
 ## 한글 요약
 ## Mac Mini 위 24/7 OpenClaw 에이전트 세팅 사례

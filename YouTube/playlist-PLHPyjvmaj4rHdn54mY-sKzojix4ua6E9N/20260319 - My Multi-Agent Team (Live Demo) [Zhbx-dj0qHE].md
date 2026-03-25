@@ -19,7 +19,7 @@ tags:
 - 채널: Owain Lewis
 - 게시일: 2026-03-19T04:02:50-07:00
 - 원본 URL: https://www.youtube.com/watch?v=Zhbx-dj0qHE
-![thumbnail](https://i.ytimg.com/vi/Zhbx-dj0qHE/maxresdefault.jpg)
+![My Multi-Agent Team (Live Demo)](https://i.ytimg.com/vi/Zhbx-dj0qHE/maxresdefault.jpg)
 
 ## 한글 요약
 Polling-based multi‑agent worker — quick take

@@ -19,7 +19,7 @@ tags:
 - 채널: Alex Finn
 - 게시일: 2026-02-26T17:37:42-08:00
 - 원본 URL: https://www.youtube.com/watch?v=L36aPV6g2II
-![thumbnail](https://i.ytimg.com/vi/L36aPV6g2II/maxresdefault.jpg)
+![Claude Code Mobile just changed AI coding forever (Remote Control)](https://i.ytimg.com/vi/L36aPV6g2II/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code Mobile이 AI 코딩을 바꿔놓은 이유

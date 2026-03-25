@@ -20,7 +20,7 @@ tags:
 - 채널: 방구석 리뷰룸
 - 게시일: 2026-02-25T03:18:36-08:00
 - 원본 URL: https://www.youtube.com/watch?v=bfooOvDdID4
-![thumbnail](https://i.ytimg.com/vi/bfooOvDdID4/maxresdefault.jpg)
+![M4 맥미니가 품절된 진짜 이유 🤯 오픈클로 실제로 어떻길래 논란일까?](https://i.ytimg.com/vi/bfooOvDdID4/maxresdefault.jpg)
 
 ## 한글 요약
 ## 요약 — M4 맥미니 품절의 실체와 오픈클로(오픈클로우) 데모

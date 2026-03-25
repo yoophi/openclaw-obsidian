@@ -19,7 +19,7 @@ tags:
 - 채널: 개발동생
 - 게시일: 2026-03-06T02:23:37-08:00
 - 원본 URL: https://www.youtube.com/watch?v=qi-tliqg25I
-![thumbnail](https://i.ytimg.com/vi/qi-tliqg25I/maxresdefault.jpg)
+![프론트엔드 400개 라이브러리를 학습한 AI Agent | Kombai (50% 할인 쿠폰)](https://i.ytimg.com/vi/qi-tliqg25I/maxresdefault.jpg)
 
 ## 한글 요약
 프론트엔드 400개 라이브러리를 학습한 AI Agent | Kombai (50% 할인 쿠폰) 요약

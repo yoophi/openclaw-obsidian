@@ -19,7 +19,7 @@ tags:
 - 채널: IndyDevDan
 - 게시일: 2026-02-23T06:00:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=f8cfH5XX-XU
-![thumbnail](https://i.ytimg.com/vi/f8cfH5XX-XU/maxresdefault.jpg)
+![The Pi Coding Agent: The ONLY REAL Claude Code COMPETITOR](https://i.ytimg.com/vi/f8cfH5XX-XU/maxresdefault.jpg)
 
 ## 한글 요약
 Pi Coding Agent는 유일한 Claude Code 경쟁자인가

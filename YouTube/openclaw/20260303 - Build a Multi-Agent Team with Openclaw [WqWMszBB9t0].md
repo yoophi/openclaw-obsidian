@@ -20,7 +20,7 @@ tags:
 - 채널: Clearmud
 - 게시일: 2026-03-03T11:00:25-08:00
 - 원본 URL: https://www.youtube.com/watch?v=WqWMszBB9t0
-![thumbnail](https://i.ytimg.com/vi/WqWMszBB9t0/maxresdefault.jpg)
+![Build a Multi-Agent Team with Openclaw](https://i.ytimg.com/vi/WqWMszBB9t0/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw로 멀티 에이전트 팀 만들기

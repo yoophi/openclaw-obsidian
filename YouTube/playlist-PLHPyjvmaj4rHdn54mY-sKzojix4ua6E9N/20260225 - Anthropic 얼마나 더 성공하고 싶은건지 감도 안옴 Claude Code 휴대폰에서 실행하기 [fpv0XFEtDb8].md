@@ -19,7 +19,7 @@ tags:
 - 채널: 하리아빠 HariFatherKR
 - 게시일: 2026-02-25T06:49:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=fpv0XFEtDb8
-![thumbnail](https://i.ytimg.com/vi/fpv0XFEtDb8/maxresdefault.jpg)
+![Anthropic 얼마나 더 성공하고 싶은건지 감도 안옴 | Claude Code 휴대폰에서 실행하기](https://i.ytimg.com/vi/fpv0XFEtDb8/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code 리모트 컨트롤 요약  

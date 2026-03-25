@@ -21,7 +21,7 @@ tags:
 - 채널: WorldofAI
 - 게시일: 2026-03-08T23:49:43-07:00
 - 원본 URL: https://www.youtube.com/watch?v=7cOAayWzYDY
-![thumbnail](https://i.ytimg.com/vi/7cOAayWzYDY/maxresdefault.jpg)
+![Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)](https://i.ytimg.com/vi/7cOAayWzYDY/maxresdefault.jpg)
 
 ## 한글 요약
 Superpowers: a full autonomous development workflow for coding agents

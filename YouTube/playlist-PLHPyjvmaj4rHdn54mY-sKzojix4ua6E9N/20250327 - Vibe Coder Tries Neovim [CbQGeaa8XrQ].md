@@ -19,7 +19,7 @@ tags:
 - 채널: Bog
 - 게시일: 2025-03-27T11:21:10-07:00
 - 원본 URL: https://www.youtube.com/watch?v=CbQGeaa8XrQ
-![thumbnail](https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg)
+![Vibe Coder Tries Neovim](https://i.ytimg.com/vi/CbQGeaa8XrQ/maxresdefault.jpg)
 
 ## 한글 요약
 바이브 코더가 Neovim을 써보는 실험

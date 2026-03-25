@@ -19,7 +19,7 @@ tags:
 - 채널: 샘 호트만 : AI 엔지니어의 시선
 - 게시일: 2026-03-05T18:22:51-08:00
 - 원본 URL: https://www.youtube.com/watch?v=NbrN-NwKvuc
-![thumbnail](https://i.ytimg.com/vi/NbrN-NwKvuc/maxresdefault.jpg)
+![초보자들을 위한 RAG 개념 20분 마스터클래스 (3년 RAG 프로젝트 압축 경험을 곁들인)](https://i.ytimg.com/vi/NbrN-NwKvuc/maxresdefault.jpg)
 
 ## 한글 요약
 레그가 완전히 죽었다는 주장은 과장입니다. 실제로 단순한 RAG(레그) 방식의 한계는 분명해졌지만, LLM이 학습 시점 이후의 사내 문서·정책·고객 데이터 같은 비정형 정보를 알 수 없다는 점을 메우는 수단으로서 RAG는 여전히 핵심입니다. *레그는 리트리벌티드 제너레이션의 약자입니다.*  

@@ -19,7 +19,7 @@ tags:
 - 채널: 피튜브
 - 게시일: 2026-03-19T18:42:11-07:00
 - 원본 URL: https://www.youtube.com/watch?v=cSx1GCgoCrU
-![thumbnail](https://i.ytimg.com/vi/cSx1GCgoCrU/maxresdefault.jpg)
+![클로드 코드(claude code)+ 피그마(figma)로 일관된 디자인 하는 방법. (디자인 시스템으로 바이브 코딩하기)](https://i.ytimg.com/vi/cSx1GCgoCrU/maxresdefault.jpg)
 
 ## 한글 요약
 요약

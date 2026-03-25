@@ -19,7 +19,7 @@ tags:
 - 채널: Superset
 - 게시일: 2026-02-26T22:26:40-08:00
 - 원본 URL: https://www.youtube.com/watch?v=mk02bSQmEKY
-![thumbnail](https://i.ytimg.com/vi/mk02bSQmEKY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGQCIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAGosETUOy-McpFTn0ZqLOZjG10EA)
+![Introducing Superset](https://i.ytimg.com/vi/mk02bSQmEKY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGQCIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAGosETUOy-McpFTn0ZqLOZjG10EA)
 
 ## 한글 요약
 Superset 소개

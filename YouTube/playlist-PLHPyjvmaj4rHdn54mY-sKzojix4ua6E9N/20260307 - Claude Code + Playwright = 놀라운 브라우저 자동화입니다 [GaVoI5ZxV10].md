@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-07T20:03:06-08:00
 - 원본 URL: https://www.youtube.com/watch?v=GaVoI5ZxV10
-![thumbnail](https://i.ytimg.com/vi/GaVoI5ZxV10/maxresdefault.jpg)
+![Claude Code + Playwright = 놀라운 브라우저 자동화입니다](https://i.ytimg.com/vi/GaVoI5ZxV10/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code + Playwright CLI 요약

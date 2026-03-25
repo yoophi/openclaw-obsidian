@@ -19,7 +19,7 @@ tags:
 - 채널: 짐코딩
 - 게시일: 2026-02-27T18:00:51-08:00
 - 원본 URL: https://www.youtube.com/watch?v=qGm8odiBkBg
-![thumbnail](https://i.ytimg.com/vi/qGm8odiBkBg/maxresdefault.jpg)
+![클로드 코드 Agent Teams 완벽 정리 | Subagent와 차이점](https://i.ytimg.com/vi/qGm8odiBkBg/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약  

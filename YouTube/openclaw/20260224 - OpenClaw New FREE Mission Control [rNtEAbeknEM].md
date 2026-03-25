@@ -20,7 +20,7 @@ tags:
 - 채널: Julian Goldie SEO
 - 게시일: 2026-02-24T03:01:32-08:00
 - 원본 URL: https://www.youtube.com/watch?v=rNtEAbeknEM
-![thumbnail](https://i.ytimg.com/vi/rNtEAbeknEM/maxresdefault.jpg)
+![OpenClaw: New FREE Mission Control](https://i.ytimg.com/vi/rNtEAbeknEM/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw의 새로운 무료 미션 컨트롤 소개

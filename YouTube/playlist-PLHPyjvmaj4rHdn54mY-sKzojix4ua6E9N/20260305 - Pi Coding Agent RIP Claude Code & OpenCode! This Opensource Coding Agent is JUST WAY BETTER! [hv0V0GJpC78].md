@@ -19,7 +19,7 @@ tags:
 - 채널: AICodeKing
 - 게시일: 2026-03-05T01:48:44-08:00
 - 원본 URL: https://www.youtube.com/watch?v=hv0V0GJpC78
-![thumbnail](https://i.ytimg.com/vi/hv0V0GJpC78/maxresdefault.jpg)
+![Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER!](https://i.ytimg.com/vi/hv0V0GJpC78/maxresdefault.jpg)
 
 ## 한글 요약
 Pi Coding Agent: RIP Claude Code & OpenCode! This Opensource Coding Agent is JUST WAY BETTER! 요약

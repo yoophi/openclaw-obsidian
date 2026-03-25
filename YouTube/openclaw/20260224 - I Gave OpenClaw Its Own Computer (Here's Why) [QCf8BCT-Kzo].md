@@ -20,7 +20,7 @@ tags:
 - 채널: Sean Matthew
 - 게시일: 2026-02-24T10:00:26-08:00
 - 원본 URL: https://www.youtube.com/watch?v=QCf8BCT-Kzo
-![thumbnail](https://i.ytimg.com/vi/QCf8BCT-Kzo/maxresdefault.jpg)
+![I Gave OpenClaw Its Own Computer (Here's Why)](https://i.ytimg.com/vi/QCf8BCT-Kzo/maxresdefault.jpg)
 
 ## 한글 요약
 ## 왜 OpenClaw에 전용 컴퓨터까지 줬는가

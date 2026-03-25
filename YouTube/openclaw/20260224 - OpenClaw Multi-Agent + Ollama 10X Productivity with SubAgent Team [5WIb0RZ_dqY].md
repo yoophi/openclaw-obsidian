@@ -20,7 +20,7 @@ tags:
 - 채널: Devs Kingdom
 - 게시일: 2026-02-24T18:51:13-08:00
 - 원본 URL: https://www.youtube.com/watch?v=5WIb0RZ_dqY
-![thumbnail](https://i.ytimg.com/vi/5WIb0RZ_dqY/maxresdefault.jpg)
+![OpenClaw Multi-Agent + Ollama: 10X Productivity with SubAgent Team](https://i.ytimg.com/vi/5WIb0RZ_dqY/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 멀티에이전트 + Ollama: 서브에이전트 팀으로 생산성 높이기

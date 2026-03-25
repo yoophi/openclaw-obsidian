@@ -20,7 +20,7 @@ tags:
 - 채널: Alessandro Colford
 - 게시일: 2026-02-26T13:15:41-08:00
 - 원본 URL: https://www.youtube.com/watch?v=pmbftRnW4Yc
-![thumbnail](https://i.ytimg.com/vi/pmbftRnW4Yc/maxresdefault.jpg)
+![Your Clawdbot broke? Watch this to fix it (Openclaw 2026 tutorial)](https://i.ytimg.com/vi/pmbftRnW4Yc/maxresdefault.jpg)
 
 ## 한글 요약
 ## Clawdbot이 고장났을 때 고치는 방법

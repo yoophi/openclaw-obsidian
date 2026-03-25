@@ -20,7 +20,7 @@ tags:
 - 채널: Cole Medin
 - 게시일: 2026-02-11T17:00:43-08:00
 - 원본 URL: https://www.youtube.com/watch?v=XmweZ4fLkcI
-![thumbnail](https://i.ytimg.com/vi/XmweZ4fLkcI/maxresdefault.jpg)
+![I Built a Safer OpenClaw Alternative Using Claude Code](https://i.ytimg.com/vi/XmweZ4fLkcI/maxresdefault.jpg)
 
 ## 한글 요약
 ## Claude Code로 더 안전한 OpenClaw 대체 도구를 만든 사례

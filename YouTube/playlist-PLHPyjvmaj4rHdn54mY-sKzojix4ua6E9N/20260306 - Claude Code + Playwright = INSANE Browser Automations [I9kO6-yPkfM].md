@@ -19,7 +19,7 @@ tags:
 - 채널: Chase AI
 - 게시일: 2026-03-06T14:32:32-08:00
 - 원본 URL: https://www.youtube.com/watch?v=I9kO6-yPkfM
-![thumbnail](https://i.ytimg.com/vi/I9kO6-yPkfM/maxresdefault.jpg)
+![Claude Code + Playwright = INSANE Browser Automations](https://i.ytimg.com/vi/I9kO6-yPkfM/maxresdefault.jpg)
 
 ## 한글 요약
 Claude Code + Playwright = INSANE Browser Automations 요약

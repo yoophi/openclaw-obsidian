@@ -19,7 +19,7 @@ tags:
 - 채널: Dylan Davis
 - 게시일: 2026-02-26T11:00:29-08:00
 - 원본 URL: https://www.youtube.com/watch?v=W9AOkjmt-XU
-![thumbnail](https://i.ytimg.com/vi/W9AOkjmt-XU/maxresdefault.jpg)
+![This simple Claude Cowork system saves 5 hours a week](https://i.ytimg.com/vi/W9AOkjmt-XU/maxresdefault.jpg)
 
 ## 한글 요약
 단순한 Claude 협업 시스템이 주당 5시간을 아껴주는 이유

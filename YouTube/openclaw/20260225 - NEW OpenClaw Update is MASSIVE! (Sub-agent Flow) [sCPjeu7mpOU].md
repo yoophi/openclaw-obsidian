@@ -21,7 +21,7 @@ tags:
 - 채널: BoxminingAI
 - 게시일: 2026-02-25T23:32:19-08:00
 - 원본 URL: https://www.youtube.com/watch?v=sCPjeu7mpOU
-![thumbnail](https://i.ytimg.com/vi/sCPjeu7mpOU/maxresdefault.jpg)
+![NEW OpenClaw Update is MASSIVE! (Sub-agent Flow)](https://i.ytimg.com/vi/sCPjeu7mpOU/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 대형 업데이트: 서브에이전트 흐름 개선 중심 정리

@@ -20,7 +20,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-02-23T06:40:35-08:00
 - 원본 URL: https://www.youtube.com/watch?v=URIXak0WE-U
-![thumbnail](https://i.ytimg.com/vi/URIXak0WE-U/maxresdefault.jpg)
+![Mac Mini에 OpenClaw 깔았더니, 개발 업무가 사라졌습니다](https://i.ytimg.com/vi/URIXak0WE-U/maxresdefault.jpg)
 
 ## 한글 요약
 ## 요약

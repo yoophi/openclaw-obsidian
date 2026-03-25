@@ -22,7 +22,7 @@ tags:
 - 채널: Alex Finn
 - 게시일: 2026-03-02T16:27:55-08:00
 - 원본 URL: https://www.youtube.com/watch?v=RhLpV6QDBFE
-![thumbnail](https://i.ytimg.com/vi/RhLpV6QDBFE/maxresdefault.jpg)
+![OpenClaw is 100x better with this tool (Mission Control)](https://i.ytimg.com/vi/RhLpV6QDBFE/maxresdefault.jpg)
 
 ## 한글 요약
 ## Mission Control 하나로 OpenClaw가 훨씬 좋아지는 이유

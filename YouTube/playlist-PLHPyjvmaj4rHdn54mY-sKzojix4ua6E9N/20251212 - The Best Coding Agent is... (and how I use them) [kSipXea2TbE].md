@@ -19,7 +19,7 @@ tags:
 - 채널: Ben Davis
 - 게시일: 2025-12-12T02:00:04-08:00
 - 원본 URL: https://www.youtube.com/watch?v=kSipXea2TbE
-![thumbnail](https://i.ytimg.com/vi/kSipXea2TbE/maxresdefault.jpg)
+![The Best Coding Agent is... (and how I use them)](https://i.ytimg.com/vi/kSipXea2TbE/maxresdefault.jpg)
 
 ## 한글 요약
 지금 가장 좋은 코딩 에이전트는 무엇인가

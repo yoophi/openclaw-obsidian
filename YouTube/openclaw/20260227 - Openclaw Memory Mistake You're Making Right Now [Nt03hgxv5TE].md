@@ -20,7 +20,7 @@ tags:
 - 채널: Openclaw Labs
 - 게시일: 2026-02-27T12:00:14-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Nt03hgxv5TE
-![thumbnail](https://i.ytimg.com/vi/Nt03hgxv5TE/maxresdefault.jpg)
+![Openclaw Memory Mistake You're Making Right Now](https://i.ytimg.com/vi/Nt03hgxv5TE/maxresdefault.jpg)
 
 ## 한글 요약
 ## 지금 사람들이 하고 있는 OpenClaw 메모리 실수

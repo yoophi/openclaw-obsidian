@@ -19,7 +19,7 @@ tags:
 - 채널: WorldofAI
 - 게시일: 2026-03-16T00:30:55-07:00
 - 원본 URL: https://www.youtube.com/watch?v=srqWFT_TUec
-![thumbnail](https://i.ytimg.com/vi/srqWFT_TUec/maxresdefault.jpg)
+![Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem!](https://i.ytimg.com/vi/srqWFT_TUec/maxresdefault.jpg)
 
 ## 한글 요약
 Obsidian + Claude: a persistent “second brain” for long codebases

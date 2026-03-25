@@ -19,7 +19,7 @@ tags:
 - 채널: Tech Bridge
 - 게시일: 2026-03-18T15:30:21-07:00
 - 원본 URL: https://www.youtube.com/watch?v=sh67yje8zsk
-![thumbnail](https://i.ytimg.com/vi/sh67yje8zsk/maxresdefault.jpg)
+![Claude Code에 부족했던 마지막 퍼즐, GSD를 알아보겠습니다](https://i.ytimg.com/vi/sh67yje8zsk/maxresdefault.jpg)
 
 ## 한글 요약
 GSD(프레임워크) 요약

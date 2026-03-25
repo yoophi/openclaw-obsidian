@@ -20,7 +20,7 @@ tags:
 - 채널: Agentic Lab
 - 게시일: 2026-02-23T18:55:00-08:00
 - 원본 URL: https://www.youtube.com/watch?v=Bo4Shk2FCvk
-![thumbnail](https://i.ytimg.com/vi/Bo4Shk2FCvk/maxresdefault.jpg)
+![How OpenClaw Works (and why you should build your own)](https://i.ytimg.com/vi/Bo4Shk2FCvk/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw는 어떻게 동작하고, 왜 직접 만들어볼 만한가

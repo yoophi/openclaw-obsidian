@@ -19,7 +19,7 @@ tags:
 - 채널: Maximilian Schwarzmüller
 - 게시일: 2026-03-12T06:30:00-07:00
 - 원본 URL: https://www.youtube.com/watch?v=wVe3XOnio7M
-![thumbnail](https://i.ytimg.com/vi/wVe3XOnio7M/maxresdefault.jpg)
+![The 'PI' (coding) agent is so much more than just another amazing coding agent!](https://i.ytimg.com/vi/wVe3XOnio7M/maxresdefault.jpg)
 
 ## 한글 요약
 Pi coding agent — a minimal, highly extensible coding assistant

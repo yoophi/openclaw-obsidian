@@ -20,7 +20,7 @@ tags:
 - 채널: Peter Yang
 - 게시일: 2026-02-01T06:00:15-08:00
 - 원본 URL: https://www.youtube.com/watch?v=AcwK1Uuwc0U
-![thumbnail](https://i.ytimg.com/vi/AcwK1Uuwc0U/maxresdefault.jpg)
+![How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger](https://i.ytimg.com/vi/AcwK1Uuwc0U/maxresdefault.jpg)
 
 ## 한글 요약
 ## OpenClaw 창시자는 AI로 자기 삶을 어떻게 운영하나

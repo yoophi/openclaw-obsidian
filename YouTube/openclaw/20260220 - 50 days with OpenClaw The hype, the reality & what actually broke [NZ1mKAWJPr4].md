@@ -20,7 +20,7 @@ tags:
 - 채널: VelvetShark
 - 게시일: 2026-02-20T14:34:46-08:00
 - 원본 URL: https://www.youtube.com/watch?v=NZ1mKAWJPr4
-![thumbnail](https://i.ytimg.com/vi/NZ1mKAWJPr4/maxresdefault.jpg)
+![50 days with OpenClaw: The hype, the reality & what actually broke](https://i.ytimg.com/vi/NZ1mKAWJPr4/maxresdefault.jpg)
 
 ## 한글 요약
 ## 50일 동안 OpenClaw를 써본 뒤 남은 것: 기대, 현실, 그리고 실제 문제들

@@ -19,7 +19,7 @@ tags:
 - 채널: typecraft
 - 게시일: 2024-03-08T16:38:03-08:00
 - 원본 URL: https://www.youtube.com/watch?v=niuOc02Rvrc
-![thumbnail](https://i.ytimg.com/vi/niuOc02Rvrc/maxresdefault.jpg)
+![Tmux will SKYROCKET your productivity - here’s how](https://i.ytimg.com/vi/niuOc02Rvrc/maxresdefault.jpg)
 
 ## 한글 요약
 Tmux로 생산성을 크게 높이는 방법

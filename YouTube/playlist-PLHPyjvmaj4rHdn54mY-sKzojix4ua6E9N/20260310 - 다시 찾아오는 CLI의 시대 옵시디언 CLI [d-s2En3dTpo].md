@@ -19,7 +19,7 @@ tags:
 - 채널: 생산성 빌리언 시안
 - 게시일: 2026-03-10T07:31:13-07:00
 - 원본 URL: https://www.youtube.com/watch?v=d-s2En3dTpo
-![thumbnail](https://i.ytimg.com/vi/d-s2En3dTpo/maxresdefault.jpg)
+![다시 찾아오는 CLI의 시대 | 옵시디언 CLI](https://i.ytimg.com/vi/d-s2En3dTpo/maxresdefault.jpg)
 
 ## 한글 요약
 옵시디언 CLI 요약

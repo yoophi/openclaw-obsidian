@@ -20,7 +20,7 @@ tags:
 - 채널: Devs Kingdom
 - 게시일: 2026-02-18T17:31:53-08:00
 - 원본 URL: https://www.youtube.com/watch?v=kRoEl9P6-ig
-![thumbnail](https://i.ytimg.com/vi/kRoEl9P6-ig/maxresdefault.jpg)
+![PicoClaw + Ollama + GLM-4.7-Flash: Ultra-Efficient Local OpenClaw Fork](https://i.ytimg.com/vi/kRoEl9P6-ig/maxresdefault.jpg)
 
 ## 한글 요약
 ## PicoClaw + Ollama + GLM-4.7-Flash: 초고효율 로컬 OpenClaw 포크

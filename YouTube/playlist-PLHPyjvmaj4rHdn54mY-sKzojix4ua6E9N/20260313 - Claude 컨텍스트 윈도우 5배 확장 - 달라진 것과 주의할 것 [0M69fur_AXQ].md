@@ -19,7 +19,7 @@ tags:
 - 채널: Claudical
 - 게시일: 2026-03-13T20:59:41-07:00
 - 원본 URL: https://www.youtube.com/watch?v=0M69fur_AXQ
-![thumbnail](https://i.ytimg.com/vi/0M69fur_AXQ/maxresdefault.jpg)
+![Claude 컨텍스트 윈도우 5배 확장 - 달라진 것과 주의할 것](https://i.ytimg.com/vi/0M69fur_AXQ/maxresdefault.jpg)
 
 ## 한글 요약
 핵심 요약

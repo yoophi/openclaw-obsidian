@@ -21,7 +21,7 @@ tags:
 - 채널: Dubibubii
 - 게시일: 2026-03-15T04:00:00-07:00
 - 원본 URL: https://www.youtube.com/watch?v=tH54k9hKBG8
-![thumbnail](https://i.ytimg.com/vi/tH54k9hKBG8/maxresdefault.jpg)
+![13 OpenClaw Skills You NEED To Install Right Now](https://i.ytimg.com/vi/tH54k9hKBG8/maxresdefault.jpg)
 
 ## 한글 요약
 ## 지금 설치해야 할 OpenClaw 스킬 13가지
