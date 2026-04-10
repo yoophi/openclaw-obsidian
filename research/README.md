@@ -36,6 +36,7 @@ AI Agent 기술 및 플랫폼 분석
 
 - [[productivity/obsidian-claude-code-생산성|Obsidian + Claude Code 생산성]] — Obsidian과 Claude Code 활용법
 - [[productivity/agentic-coding-bdd-커뮤니케이션|Agentic Coding BDD 커뮤니케이션]] — BDD로 기획자-개발자 커뮤니케이션 개선
+- [[productivity/claude-code-channel-dispatch|Claude Code Channel & Dispatch]] — Channel/Dispatch 원격 연동 기능 정리
 
 ---
 
@@ -60,10 +61,10 @@ AI Agent 기술 및 플랫폼 분석
 |----------|---------|
 | OpenClaw | 4 |
 | AI Agents | 2 |
-| Productivity | 2 |
+| Productivity | 3 |
 | Frontend | 1 |
 | Game Dev | 2 |
-| **총계** | **11** |
+| **총계** | **12** |
 
 ---
 
@@ -77,6 +78,7 @@ AI Agent 기술 및 플랫폼 분석
 
 | 문서 | 날짜 |
 |------|------|
+| [[productivity/claude-code-channel-dispatch\|Claude Code Channel & Dispatch]] | 2026-04-10 |
 | [[productivity/agentic-coding-bdd-커뮤니케이션\|Agentic Coding BDD 커뮤니케이션]] | 2026-03-14 |
 | [[agents/tycono-분석\|Tycono 분석]] | 2026-03-13 |
 | [[agents/pi-coding-agent-가이드\|Pi Coding Agent 가이드]] | 2026-03-13 |
@@ -87,4 +89,4 @@ AI Agent 기술 및 플랫폼 분석
 ---
 
 _작성자: 행크 (Hank McCoy)_
-_최종 업데이트: 2026-03-14_
+_최종 업데이트: 2026-04-10_
