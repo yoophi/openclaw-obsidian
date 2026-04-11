@@ -418,4 +418,223 @@ OpenClaw는 ACP를 양방향으로 활용 — 에디터에서 OpenClaw를 사용
 
 ---
 
+## 11. ACP 지원 IDE/에디터 상세
+
+### 11.1 티어 1: 네이티브 지원
+
+| 에디터 | ACP 지원 방식 | 비고 |
+|--------|--------------|------|
+| **Zed** | 네이티브 (최초 구현) | 2025년 8월 "Bring Your Own Agent" 기능으로 ACP 런칭. Gemini CLI를 최초 구현체로 사용. 설정 파일에서 `agent_servers` 항목으로 에이전트 추가 |
+| **JetBrains** | 네이티브 | IntelliJ IDEA, PyCharm, PhpStorm 등 전 제품군 지원. Zed와 공동 개발 중. AI Assistant를 통해 ACP 에이전트 호출 |
+| **Neovim** | 플러그인 (3종) | CodeCompanion, agentic.nvim, avante.nvim 플러그인으로 ACP 에이전트 연동 |
+
+### 11.2 티어 2: 확장/플러그인 지원
+
+| 에디터 | 지원 방식 | 비고 |
+|--------|----------|------|
+| **VS Code** | 확장 (ACP Client) | `vscode-acp` 확장으로 ACP 에이전트 연결 |
+| **Emacs** | 패키지 (agent-shell) | `agent-shell.el`로 ACP 에이전트 실행 |
+| **Obsidian** | 플러그인 (Agent Client) | 노트 앱 내에서 ACP 에이전트 사용 |
+| **Unity** | 패키지 (UnityAgentClient) | 게임 엔진 내 AI 코딩 지원 |
+| **Chrome** | 확장 (Chrome ACP) | PWA/브라우저 환경에서 ACP 에이전트 사용 |
+
+### 11.3 티어 3: 모바일 / 특수 환경
+
+| 클라이언트 | 플랫폼 | 비고 |
+|-----------|--------|------|
+| **Agmente** | iOS | iOS 네이티브 ACP 클라이언트 |
+| **Happy** | iOS, Android, Web | 크로스 플랫폼 ACP 클라이언트 |
+| **Mobvibe** | iOS, Android, Web | 크로스 플랫폼 ACP 클라이언트 |
+| **Jupyter** | 노트북 | agent-client-kernel로 주피터 환경에서 ACP 사용 |
+| **DuckDB** | 확장 | duckdb-acp로 데이터 분석 환경에서 ACP 사용 |
+| **Marimo** | 노트북 | 마리모 노트북에서 ACP 에이전트 사용 |
+
+### 11.4 메시징 브릿지
+
+| 클라이언트 | 플랫폼 | 비고 |
+|-----------|--------|------|
+| **OpenACP** | Telegram, Discord, Slack | 셀프 호스팅 브릿지. 도구 호출과 응답을 실시간 스트리밍 |
+| **Telegram ACP Bot** | Telegram | 텔레그램 봇 연동 |
+| **Telegram-ACP** | Telegram | 멀티스레드 채팅, 메시지 스트리밍 지원 |
+| **ACP Discord** | Discord | 디스코드 봇 연동 |
+| **Juan** | Slack | 슬랙 봇 연동 |
+| **WeChat ACP** | WeChat | 위챗 연동 |
+
+---
+
+## 12. ACP 지원 코딩 에이전트 상세
+
+### 12.1 주요 상용 에이전트
+
+| 에이전트 | 개발사 | 특징 | ACP 지원 방식 |
+|----------|--------|------|---------------|
+| **Claude Code** | Anthropic | 가장 인기 있는 코딩 에이전트 중 하나. 터미널 기반, 자율적 코드 수정. Agent SDK 기반 | Zed SDK 어댑터 (claude-agent-acp) |
+| **Codex CLI** | OpenAI | GPT 기반 코딩 에이전트. 샌드박스 환경에서 코드 실행 | Zed 어댑터 (codex-acp) |
+| **GitHub Copilot** | GitHub/Microsoft | 가장 널리 사용되는 AI 코딩 어시스턴트. 2026년 1월 ACP 퍼블릭 프리뷰 | 네이티브 ACP |
+| **Cursor** | Anysphere | AI-first IDE. 커스텀 에디터에 에이전트 내장 | 네이티브 ACP CLI |
+| **Gemini CLI** | Google | Google의 오픈소스 코딩 에이전트. ACP 최초 구현체 | 네이티브 ACP |
+| **Augment Code (Auggie)** | Augment | 업계 최고 수준의 컨텍스트 엔진 기반 에이전트 | ACP 레지스트리 등록 (v0.23.0) |
+| **Junie** | JetBrains | JetBrains IDE 전용 AI 에이전트 | 네이티브 ACP |
+| **Kiro CLI** | Amazon | 아마존의 코딩 에이전트 | 네이티브 ACP |
+
+### 12.2 오픈소스 에이전트
+
+| 에이전트 | 특징 | 비고 |
+|----------|------|------|
+| **OpenClaw** | 채팅 기반 AI 에이전트 프레임워크. 다양한 메시징 채널 지원 | ACP 브릿지 + 하네스 양방향 지원 |
+| **OpenCode** | SST 팀의 오픈소스 코딩 에이전트 | 네이티브 ACP |
+| **Cline** | VS Code 확장 기반 오픈소스 에이전트 | 네이티브 ACP |
+| **Goose** | Block (Square)의 오픈소스 에이전트 | ACP 클라이언트 가이드 제공 |
+| **Pi** | 개인 AI 어시스턴트 | pi-acp 어댑터로 연동 |
+| **OpenHands** | 오픈소스 코딩 에이전트 플랫폼 | ACP 모드 지원 |
+| **Qwen Code** | Alibaba의 Qwen 기반 코딩 에이전트 | 네이티브 ACP |
+| **Kimi CLI** | Moonshot AI의 코딩 에이전트 | 네이티브 ACP |
+| **Mistral Vibe** | Mistral AI의 코딩 에이전트 | 네이티브 ACP |
+| **Docker cagent** | Docker의 컨테이너 기반 코딩 에이전트 | 네이티브 ACP |
+| **fast-agent** | AI 에이전트 프레임워크 | fast-agent-acp 어댑터 |
+
+### 12.3 프레임워크 통합
+
+| 프레임워크 | 통합 방식 | 비고 |
+|-----------|---------|------|
+| **LangChain/LangGraph** | Deep Agents ACP | LangChain 커스텀 에이전트를 ACP 클라이언트에서 사용 |
+| **LlamaIndex** | workflows-acp | LlamaIndex 워크플로우를 ACP로 노출 |
+| **Koog** | agents-features-acp | JetBrains Kotlin 에이전트 프레임워크의 ACP 통합 |
+| **LLMling-Agent** | 네이티브 | Python 기반 에이전트 프레임워크의 ACP 지원 |
+
+---
+
+## 13. 주요 사용 사례
+
+### 13.1 사례 1: 에디터에서 다양한 에이전트 전환
+
+**문제:** 개발자가 Claude Code를 쓰다가 Codex로 전환하고 싶을 때마다 플러그인 재설치 필요
+
+**ACP 해결:**
+```
+Zed 에디터 → Agent Panel → 에이전트 선택
+  - Claude Code (복잡한 리팩토링)
+  - Codex (빠른 버그 수정)
+  - Gemini CLI (Google 생태계 작업)
+  → 모두 같은 에디터에서 전환 가능, 설정 변경 불필요
+```
+
+### 13.2 사례 2: 팀 표준 도구 도입 without 벤더 락인
+
+**문제:** 팀에서 특정 AI 에이전트를 표준으로 채택하면, 나중에 다른 에이전트로 교체할 때 전체 워크플로우를 재구축해야 함
+
+**ACP 해결:**
+- 팀은 ACP를 표준으로 채택
+- 초기에 Copilot 사용 → 나중에 Claude Code로 전환 → 에디터 설정만 변경
+- 커스텀 사내 에이전트도 ACP만 구현하면 즉시 팀 전체에 배포
+
+### 13.3 사례 3: 채팅에서 코드 리포지토리 작업 (OpenClaw)
+
+**시나리오:** Telegram/Discord에서 대화하며 코드 작성
+
+```
+유박사: /acp spawn codex --bind here --cwd ~/my-project
+Bot: ✅ Codex 세션 생성
+유박사: 인증 모듈에 JWT 리프레시 토큰 로직 추가해줘
+Codex: [파일 탐색 → auth.ts 수정 → 테스트 작성 → 결과 보고]
+유박사: 테스트 통과해?
+Codex: ✅ 4/4 테스트 통과. 수정된 파일: auth.ts, auth.test.ts
+```
+
+**핵심 가치:** 에디터를 열지 않고 모바일/메시징에서 코드 작업
+
+### 13.4 사례 4: 멀티 에이전트 오케스트레이션 (Jockey)
+
+**Jockey**는 Claude Code, Gemini CLI, Codex CLI를 ACP를 통해 조율하는 오픈소스 오케스트레이터:
+
+```
+Jockey (Tauri + Rust + SolidJS)
+  ├── Claude Code → 아키텍처 설계
+  ├── Gemini CLI → 문서 생성
+  └── Codex CLI → 테스트 작성
+```
+
+각 에이전트의 강점을 결합하여 전체 개발 워크플로우 자동화.
+
+### 13.5 사례 5: IDE에서 커스텀 에이전트 사용
+
+**LangChain + ACP:**
+
+팀이 구축한 LangChain 에이전트를 Zed나 JetBrains에서 직접 사용:
+
+```python
+# 커스텀 LangChain 에이전트
+@agent
+def code_reviewer(input):
+    # 사내 코드 리뷰 가이드라인 적용
+    # 보안 체크 자동화
+    # PR 템플릿 생성
+    ...
+```
+
+ACP를 통해 이 에이전트를 Zed의 Agent Panel에서 선택 가능.
+
+### 13.6 사례 6: 모바일에서 긴급 핫픽스
+
+**시나리오:** 출퇴근 중 프로덕션 버그 리포트 수신
+
+```
+Agmente (iOS) → ACP → 원격 에이전트
+  1. 에러 로그 분석
+  2. 원인 식별
+  3. 핫픽스 작성
+  4. PR 생성
+```
+
+에디터 없이 모바일에서 ACP 클라이언트로 긴급 대응.
+
+### 13.7 사례 7: Human-in-the-Loop 권한 관리
+
+에이전트가 파일 수정 전 반드시 사용자 승인을 요청:
+
+```
+에이전트: database.js 수정 권한이 필요합니다.
+         변경 내용: SELECT 쿼리에 인덱스 힌트 추가
+         [승인] [거부] [수정 후 승인]
+
+사용자: [승인] 클릭
+
+에이전트: ✅ database.js 수정 완료
+```
+
+ACP의 `session/request_permission`으로 모든 위험한 작업에 대해 사용자 제어 보장.
+
+### 13.8 사례 8: 노트 환경에서 코딩 (Obsidian / Jupyter)
+
+- **Obsidian**: Agent Client 플러그인으로 마크다운 노트 안에서 코드 생성
+- **Jupyter**: agent-client-kernel로 노트북 셀 단위로 AI 에이전트와 협업
+- **Marimo**: 반응형 노트북에서 ACP 에이전트 활용
+
+---
+
+## 14. ACP Registry
+
+ACP Registry는 ACP 호환 에이전트를 쉽게 찾고 설치할 수 있는 공식 목록.
+
+- GitHub: https://github.com/agentclientprotocol/registry
+- 인증(auth)을 지원하는 에이전트만 큐레이션됨
+- 등록된 주요 에이전트: Amp, Auggie CLI, Autohand Code 등
+
+---
+
+## 15. 역사 및 배경
+
+| 시점 | 이벤트 |
+|------|--------|
+| 2025년 8월 | Zed Industries가 ACP 공식 발표. "Bring Your Own Agent" 기능과 함께 Gemini CLI를 최초 구현체로 런칭 |
+| 2025년 10월 | JetBrains와 Zed가 공동 개발 발표. IntelliJ, PyCharm, PhpStorm 등 전 IDE 지원 예정 |
+| 2025년 | IBM이 Agent Communication Protocol(AgentCommunicationProtocol.dev)을 Linux Foundation에 기부 |
+| 2026년 1월 | GitHub Copilot CLI ACP 퍼블릭 프리뷰 |
+| 2026년 | ACP Registry 안정화. 세션 설정, 권한, 모드 등 프로토콜 확장 |
+| 현재 | 30+ 에이전트, 20+ 클라이언트, 5개 언어 SDK 지원 |
+
+> **참고:** ACP (Agent Client Protocol, agentclientprotocol.com)는 Agent Communication Protocol (agentcommunicationprotocol.dev)과 **다른 프로토콜**이다. 전자는 에디터-에이전트 통신, 후자는 IBM의 에이전트 간 통신.
+
+---
+
 _조사: Research Agent (행크)_
